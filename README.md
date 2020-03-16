@@ -24,16 +24,16 @@ So far this is **only for playing the game in English** with Umineko Project's t
 
 ## Installation instructions
 1. Get and extract all the game files as instructed [here](https://umineko-project.org/en/downloads/).
-2. Download the latest GOAT Edition patch from releases.
+2. Download the latest GOAT Edition patch from [releases](https://github.com/Pteryon/umipro-goat/releases).
 2. Extract the patch contents into the same folder you installed everything else in, replacing files when prompted.*
 3. Launch **onscripter-ru.exe** to play!
+
+Extra: if you wish to avoid some scenes possibly inducing motion sickness, add this line to your ons.cfg after installing:<br>
+```reduce-motion```
 
 *_The patch replaces your existing ons.cfg file. If you have played the game before and wish to keep your previous settings, instead of using the ons.cfg that comes with the patch, just add the following lines to your existing ons.cfg:_<br>
 ```font-multiplier=p0:6:1.16```<br>
 ```env[verify]=none```
-
-Extra: if you wish to avoid some scenes possibly inducing motion sickness, add this line to your ons.cfg after installing:<br>
-```reduce-motion```
 
 ## Credits
 - Umineko Project - Most of the things
