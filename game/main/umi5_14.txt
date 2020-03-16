@@ -6041,7 +6041,7 @@ csp_slot s0_8
 csp_slot s0_10
 lbg s0_3,"black"
 flush 1
-set_window_simple 80
+set_window_simple 160
 *d41499
 d2 `{a:c:`[lv 0*"30"*"53200275"][#][*][text_fade_t 1667]`「{p:1:右代宮夏妃は犯人ではない！}」}`[\]
 wait_on_d 0
@@ -11007,7 +11007,7 @@ waits 167
 csp_slot s0_9
 lbg s0_3,"black"
 flush 1
-set_window_simple 80
+set_window_simple 160
 msgwnd_but
 *d41851
 d `{a:c:`[lv 0*"10"*"50101226"]`食らいやがれぇえええッ！！！}`[\]

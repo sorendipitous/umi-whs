@@ -2225,7 +2225,7 @@ textoff
 waits 167
 lbg s0_3,"different_spiral_1a"
 flush 42
-set_window_simple 80
+set_window_simple 160
 msgwnd_non
 *d25297
 d `まばがぎゅりいを、ゆがべだ。`[\]

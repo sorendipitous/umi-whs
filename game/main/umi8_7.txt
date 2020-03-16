@@ -5250,7 +5250,7 @@ lbg s0_3,"letter1"
 flush 22
 *d59546
 d `メッセージカードには、こう書かれていた。`[\]
-set_window_simple 80
+set_window_simple 160
 *d59547
 d `{a:c:{e:070:“いつも、みんな一緒だよ。`[@]`――右代宮家のみんなより”}}`[\]
 set_name_window_non

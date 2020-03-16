@@ -911,7 +911,7 @@
 `Even without disturbing its contents, I realized that this was an unopened envelope, an unknown envelope!`
 `Without relying on a letter opener, I violently tore it open and pulled out the letter inside.`
 `The contents were as follows.`
-`{e:070:― Are you enjoying the riddle of Kinzo‐sama's epitaph?`
+`{e:090:― Are you enjoying the riddle of Kinzo‐sama's epitaph?`
 `As you are all probably aware, you have very little time remaining.`
 `Please abandon any naive hopes of escaping after the storm passes.`
 `This game can only end with my victory or yours.`

@@ -2529,7 +2529,7 @@ waits 167
 vol_mix_fade 1000
 vol_bgm -1,1000
 wait 1000
-set_window_simple 80
+set_window_simple 160
 msgwnd_bea
 *d8605
 d2 [lv 0*"27"*"20700315"]`「…………女を泣かせるとは、なかなかやるではないか。`[@][#][*][lv 0*"27"*"20700316"]`くっくっくっく。`[@][lv 0*"27"*"20700317"]`お前がそこまで拒絶するとは意外であった。`[@][lv 0*"27"*"20700318"]`……普通に受け答えしていれば、妾の魔法で二組目の恋人たちが生まれていたものを」`[\]
@@ -2826,7 +2826,7 @@ waits 167
 lbg s0_3,"rose_1an"
 flush 2
 bgmplay 45,90,0
-set_window_simple 80
+set_window_simple 160
 msgwnd_bea
 *d8640
 d [lv 0*"27"*"20700369_1"]`……あぁ、愉快愉快。`[@]`{n}`[|][lv 0*"27"*"20700369_2"]`なぜに久しぶりの人の世はこうも愉快なのか！`[\]
@@ -3056,7 +3056,7 @@ waits 167
 lbg s0_3,"different_spiral_1a"
 flush 2
 bgmplay 46,71,0
-set_window_simple 80
+set_window_simple 160
 msgwnd_bea
 *d8665
 d [lv 0*"27"*"20700369_d"]`どのように実るのか楽しみでならない！`[\]

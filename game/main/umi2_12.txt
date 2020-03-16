@@ -3226,7 +3226,7 @@ csp_slot s0_1
 lbg s0_3,"black"
 flush 1
 wait 1000
-set_window_simple 80
+set_window_simple 160
 msgwnd_but
 *d12006
 d [lv 0*"10"*"20100675"]`「全然駄目だな」`[\]

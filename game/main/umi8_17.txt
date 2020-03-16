@@ -1079,7 +1079,7 @@ lbg s0_3,"black"
 flush 22
 wait 1000
 skip_off
-set_window_simple 80
+set_window_simple 160
 msgwnd_non
 *d67775
 d2 `{a:c:`[lv 0*"00"*"awase8028_o"][ak][text_speed_t 5]`「「いつか会えるわ。また何かのなく頃に」」`[#][*]`}`[\]

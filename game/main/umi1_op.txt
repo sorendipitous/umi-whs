@@ -306,7 +306,7 @@ waits 167
 lbg s0_3,"black"
 flush 22
 skip_off
-pam 749,"op",0
+pam 749,"op1",0
 skip_on
 textoff
 waits 167

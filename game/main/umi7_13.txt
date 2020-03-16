@@ -218,7 +218,7 @@ vol_me 1,100,2000
 wait 2000
 vol_mix_fade 1000
 wait 1000
-set_window_simple 80
+set_window_simple 160
 *d54478
 d `{a:c:`[lv 0*"55"*"75500420"]`「もういい加減、飽きはせぬか。`[@][lv 0*"55"*"75500421"]`その生活に」}`[\]
 set_name_window_non
@@ -299,7 +299,7 @@ textoff
 waits 167
 lbg s0_3,"rose_2bp"
 flush 22
-set_window_simple 80
+set_window_simple 160
 *d54492
 d `{a:c:`[lv 0*"55"*"75500422"]`「ようこそ紗音。`[@][lv 0*"55"*"75500423"]`我が、黄金の薔薇庭園へ……」}`[\]
 set_name_window_non

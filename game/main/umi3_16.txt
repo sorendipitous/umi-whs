@@ -505,7 +505,7 @@ vol_mix_fade 1000
 vol_bgm -1,1000
 wait 1000
 gstc 186
-set_window_simple 80
+set_window_simple 160
 msgwnd_ev2
 *d20030
 d [lv 0*"34"*"33300705"]`もちろん許さないわ、何を今更。`[\]

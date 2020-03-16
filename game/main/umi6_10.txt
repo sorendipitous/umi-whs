@@ -1764,7 +1764,7 @@ waits 167
 lbg s0_1,"m1f_p1cnz_bg"
 lbg s0_3,"m1f_p1cnz"
 flush 24
-set_window_simple 80
+set_window_simple 160
 msgwnd_kir
 *d45918
 d [lv 0*"09"*"61300176"]`………脅し過ぎちゃったかしら。`[\]

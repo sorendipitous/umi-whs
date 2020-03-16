@@ -3274,7 +3274,7 @@ csp_slot s0_8
 csp_slot s0_10
 lbg s0_3,"black"
 flush 1
-set_window_simple 80
+set_window_simple 160
 *d49876
 d `{a:c:`[lv 0*"27"*"60701114"]`探偵だからだ。}`[\]
 set_name_window_non
@@ -4474,7 +4474,7 @@ d `だから、ここに誰かが助けに来ることは、`[!w500]`……も�
 msgwnd_kan
 *d50038
 d [lv 0*"16"*"60600483"]`「別にいいさ。`[@][lv 0*"16"*"60600484"]`………これで、……借りは返したよ。`[@][lv 0*"16"*"60600485"]`ベアトリーチェ」`[\]
-set_window_simple 80
+set_window_simple 160
 msgwnd_non
 *d50039
 d `黄金蝶のブローチの力で恋を教えてくれた。`[@]`{n}第３のゲームで、朱志香との静かな時間を守ってくれた。`[\]
@@ -6330,7 +6330,7 @@ d `私がバスルームで騒いでる間に、……戦人がクローゼッ�
 lss s0_10,"eri","a11_akuwarai5" ;1
 aspt2 xpos,s0_10,370
 flush 80
-set_window_simple 80
+set_window_simple 160
 *d50248
 d2 [#][*]`戦人はチェーンロックを開ける。`[@]`{n}`[#][*]`戦人は外へ出る。`[@]`{n}`[#][*]`嘉音が入れ替わりに入る。`[@]`{n}`[#][*]`嘉音がチェーンロックを閉じる。`[@]`{n}`[#][*]`嘉音がクローゼットに隠れる。終わり！`[\]
 wait_on_d 0
@@ -8496,7 +8496,7 @@ textoff
 waits 167
 csp_slot s0_22
 flush 22
-set_window_simple 80
+set_window_simple 160
 lips_sprite s0_9_b
 *d50489
 d [lv 0*"46"*"64501634"]`……やっぱッ、悪役は最期の最後までこういうツラでなきゃア！！`[\]
@@ -8632,7 +8632,7 @@ waits 167
 csp_slot s0_9
 lbg s0_3,"black"
 flush 22
-set_window_simple 80
+set_window_simple 160
 *d50498
 d2 [lv 0*"46"*"64501645"][ak][text_speed_t 5][#][*]`「{p:1:我こそは来訪者ッ、`[#][*][|][lv 0*"46"*"64501646"][#][*]`六軒島の１８人目の人間ッ！！！}」`[#][*][\]
 wait_on_d 0

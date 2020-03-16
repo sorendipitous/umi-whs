@@ -327,7 +327,7 @@ textoff
 waits 167
 csp_slot s0_22
 flush 22
-set_window_simple 80
+set_window_simple 160
 msgwnd_non
 *d68691
 d `{a:c:`[lv 0*"00"*"awase7016_o"]`{p:1:このゲームに、ハッピーエンドは与えない。}}`[\]
@@ -554,7 +554,7 @@ textoff
 waits 167
 lbg s0_3,"sea_4a"
 flush 22
-set_window_simple 80
+set_window_simple 160
 msgwnd_non
 *d68720
 d2 `{a:c:`[lv 0*"10"*"70100204"][ak][text_speed_t 5]`これが。`[#][*][|][lv 0*"10"*"70100205"]`縁寿に捧げる、最後のゲーム。`[#][*]`}`[\]

@@ -498,7 +498,7 @@
 `......It seemed she was waiting in anticipation to see what kind of reaction I'd have to the contents.`
 `......Dammit, I'll show her.`
 ` Its contents were like this...`
-`{a:c:{e:070:Among the three mentioned below.`
+`{a:c:{e:090:Among the three mentioned below.`
 `{n}In order to gain two, sacrifice one.`
 `{n}{n}1. Your life`
 `{n}2. __'s life`

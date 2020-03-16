@@ -449,7 +449,7 @@ textoff
 waits 167
 lbg s0_22,"black"
 flush 22
-set_window_simple 80
+set_window_simple 160
 msgwnd_non
 *d35315
 d `{a:c:`[text_fade_t 1667]`妾を、殺して。`[@]`……死なせて……。}`[\]

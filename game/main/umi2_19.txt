@@ -258,7 +258,7 @@ vol_bgm -1,3000
 wait 3000
 wait 1000
 bgmplay 57,71,0
-set_window_simple 80
+set_window_simple 160
 msgwnd_cla
 *d30995
 d [lv 0*"02"*"90800001"]`楼座、楼座。`[@][lv 0*"02"*"90800002"]`どうしてお前はそんなに馬鹿なのか。`[\]
@@ -306,7 +306,7 @@ textoff
 waits 167
 lbg s0_3,"black"
 flush 8
-set_window_simple 80
+set_window_simple 160
 msgwnd_eva
 *d31001
 d [lv 0*"05"*"91000001"]`楼座、楼座。`[@][lv 0*"05"*"91000002"]`どうしてお前はそんなに馬鹿なのか。`[\]
@@ -354,7 +354,7 @@ textoff
 waits 167
 lbg s0_3,"black"
 flush 8
-set_window_simple 80
+set_window_simple 160
 msgwnd_rud
 *d31007
 d [lv 0*"08"*"91200001"]`楼座、楼座。`[@][lv 0*"08"*"91200002"]`どうしてお前はそんなに馬鹿なのか。`[\]
@@ -1280,7 +1280,7 @@ textoff
 waits 167
 lbg s0_3,"black"
 flush 1
-set_window_simple 80
+set_window_simple 160
 msgwnd_but
 *d31117
 d [lv 0*"10"*"90100223"]`「美味そうだな。`[@][lv 0*"10"*"90100224"]`俺にはてめぇの牛チチをスライスしてサンドイッチを作ってくれ」`[\]

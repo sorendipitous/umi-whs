@@ -594,7 +594,7 @@
 `"For your attention: I beg to inform you of the following.`
 ` {p:1:In addition to Krauss, Natsuhi, and Genji, none of those in the dining hall knocked,`
 ` where "knocking" includes all direct, indirect, intentional, unintentional, and coincidental events that could create a knocking sound}."`
-`{e:070:A direct knock refers to someone literally hitting a door to make a knocking sound.`
+`{e:080:A direct knock refers to someone literally hitting a door to make a knocking sound.`
 `{n}An intentional knock refers to someone creating a fake knocking sound with intent to make it appear that someone knocked.`
 `{n}An unintentional knock refers to someone unintentionally creating a fake knocking sound.`
 `{n}A coincidental knock refers to some kind of coincidence creating a fake knocking sound.}`

@@ -5,7 +5,7 @@
 ` Illusions to illusions.`
 `And dreams to dreams.}`
 `{a:c:`
-`A dream is something drawn in the sand between the coming and receding waves.}`
+`A dream is something drawn in the sand{n}between the coming and receding waves.}`
 `{a:c:`
 `Something so fragile that it is wiped blank each time the waves draw back.}`
 `{a:c:`
@@ -23,7 +23,7 @@
 `After all, it is such a wonderful thing......}`
 `{a:c:`
 `{m:-5:—}—Witness to your final dream,`
-`{e:080:{f:5:Publius Virgilia Maro}}}`
+`{e:090:{f:5:Publius Virgilia Maro}}}`
 `The suspects were gathered in a room, and several Inquisitors were reporting on the results of their investigation.`
 `Their uniforms closely resembled those of Eiserne Jungfrau, but they were slightly different.`
 ` Also different were the badges signifying their department.`

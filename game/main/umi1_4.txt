@@ -2231,7 +2231,7 @@ d `夏妃は自分の寝室に飛び込むと、…ベッドに伏して号泣�
 d `その胸を掻き毟るような泣き声は廊下の熊沢の耳にも届くのだった…。`[\]
 lss s0_9,"kum","a11_komaru1" ;1
 flush 10,167
-set_window_simple 80
+set_window_simple 160
 lips_sprite s0_9_b
 msgwnd_kum
 *d1893
@@ -2251,7 +2251,7 @@ csp_slot s0_9
 csp_slot s0_1
 lbg s0_3,"black"
 flush 22
-set_window_simple 80
+set_window_simple 160
 msgwnd_kum
 *d1898
 d [lv 0*"18"*"11800065_6"]`ところが、`[|][lv 0*"18"*"11800065_7"]`…これは誰のせいでもありません。`[\]
@@ -2271,7 +2271,7 @@ waits 167
 lbg s0_3,"m_o1a"
 color_mod2 sepia,s0_3
 flush 22
-set_window_simple 80
+set_window_simple 160
 msgwnd_kum
 *d1904
 d [lv 0*"18"*"11800065_f"]`そんな中、絵羽さまに秀吉さまとのご結婚の話が持ち上がりました。`[\]
@@ -2292,7 +2292,7 @@ textoff
 waits 167
 lbg s0_3,"black"
 flush 22
-set_window_simple 80
+set_window_simple 160
 msgwnd_kum
 *d1911
 d [lv 0*"18"*"11800065_n"]`しかし…、それは奥様のせいであろうはずもない……。`[\]

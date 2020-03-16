@@ -3781,7 +3781,7 @@ waits 167
 lbg s0_3,"black"
 flush 22
 seplay 3,2,100
-set_window_simple 80
+set_window_simple 160
 msgwnd_non
 *d48932
 d `{a:c:`[lv 0*"00"*"awase6060"]`「「もう邪魔なのだから」」}`[\]
@@ -6222,7 +6222,7 @@ csp_slot s0_8
 csp_slot s0_10
 lbg s0_3,"black"
 flush 22
-set_window_simple 80
+set_window_simple 160
 *d49166
 d [lv 0*"31"*"63100044"]`………お嬢様。`[@][lv 0*"31"*"63100045"]`……あなたの人生にはきっと、何度も試練があったでしょう。`[\]
 *d49167
@@ -6968,7 +6968,7 @@ waits 167
 csp_slot s0_8
 lbg s0_3,"ep601_a2"
 flush 2
-set_window_simple 80
+set_window_simple 160
 msgwnd_but
 *d49262
 d `{a:c:`[lv 0*"10"*"60100963"]`許さ……、`[|][lv 0*"10"*"60100964"]`……ねぇ……。}`[\]

@@ -509,7 +509,7 @@ textoff
 waits 167
 lbg s0_3,"black"
 flush 22
-set_window_simple 80
+set_window_simple 160
 *d50709
 d [lv 0*"28"*"72100001"]`「……よく来たわね。`[@][lv 0*"28"*"72100002"]`……異端審問官、魔術師狩りのライト」`[\]
 set_name_window_non

@@ -1650,7 +1650,7 @@ seplay 1,53,71
 lss s0_9,"nan","a1_majime1" ;1
 color_mod2 s0_9,#ffffff
 flush 80
-set_window_simple 80
+set_window_simple 160
 lips_sprite s0_9_b
 *d53465
 d [lv 0*"19"*"71900074"]`……事故の時、すぐに源次さんから連絡が入り、秘密裏に診察するように念を押されました。`[\]

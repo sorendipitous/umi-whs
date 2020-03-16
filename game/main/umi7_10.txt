@@ -614,7 +614,7 @@ flush 22
 vol_mix_fade 1000
 vol_bgm -1,1000
 wait 1000
-set_window_simple 80
+set_window_simple 160
 *d53613
 d `{a:c:`[lv 0*"32"*"73700001"]`くすくすくす、`[|][lv 0*"32"*"73700002"]`……うっふふふっはっはっは……。}`[\]
 set_name_window_non
@@ -632,7 +632,7 @@ waits 167
 lbg s0_3,"cha_i1dy"
 flush 22
 bgmplay 171,71,0
-set_window_simple 80
+set_window_simple 160
 *d53616
 d `{a:c:`[lv 0*"32"*"73700001"]`くすくすくす、`[|][lv 0*"32"*"73700002"]`……うっふふふっはっはっは……。`[@]`{n}`[|][lv 0*"32"*"73700005"]`あっはははっはっはっはっは……。}`[\]
 set_name_window_non
@@ -657,7 +657,7 @@ waits 167
 lbg s0_3,"cha_i1ey"
 flush 25
 meplay 1,16,50
-set_window_simple 80
+set_window_simple 160
 *d53620
 d [lv 0*"32"*"73700006"]`愚かな。`[@][lv 0*"32"*"73700007"]`……決まっておろうが。`[\]
 *d53621
@@ -782,7 +782,7 @@ textoff
 waits 167
 lbg s0_3,"black"
 flush 22
-set_window_simple 80
+set_window_simple 160
 *d53642
 d `{a:c:`[lv 0*"32"*"73700010"]`くすくす、`[|][lv 0*"32"*"73700011"]`ふっ`[|][lv 0*"32"*"73700012"]`ふっ`[|][lv 0*"32"*"73700013"]`はっ`[|][lv 0*"32"*"73700014"]`はははははははははは…！！}`[\]
 set_name_window_non
@@ -856,7 +856,7 @@ textoff
 waits 167
 lbg s0_22,"black"
 flush 22
-set_window_simple 80
+set_window_simple 160
 *d53658
 d [lv 0*"32"*"73700015"]`「……………ほぅ。`[@][lv 0*"32"*"73700016"]`……妾に、話し掛けることが出来るというのか」`[\]
 set_name_window_non
@@ -870,7 +870,7 @@ textoff
 waits 167
 lbg s0_22,"black"
 flush 22
-set_window_simple 80
+set_window_simple 160
 *d53660
 d [lv 0*"32"*"73700017"]`「これはこれは…。`[@][lv 0*"32"*"73700018"]`姿無き妾を知覚するだけでなく、妾のささやかな遊びまでも理解するとは。`[@][lv 0*"32"*"73700019"]`………思ったより、お前は面白い存在ではないか。`[@][lv 0*"32"*"73700020"]`ヤスぅ」`[\]
 set_name_window_non
@@ -900,7 +900,7 @@ textoff
 waits 167
 lbg s0_3,"black"
 flush 22
-set_window_simple 80
+set_window_simple 160
 *d53667
 d2 [lv 0*"32"*"73700021"]`「面白いヤツだ。`[@][lv 0*"32"*"73700022"]`…………吹けば飛ぶような儚い存在であった妾を、捕らえて離さぬとはな。`[@][lv 0*"32"*"73700023"]`……気に入ったぞ、ヤスぅ！」`[#][*][\]
 wait_on_d 0

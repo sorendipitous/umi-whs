@@ -2008,7 +2008,7 @@ flush 2
 msgwnd_non
 *d63920
 d `ラムダデルタは、がばっと二人の頭を抱き締め、額をごちんとぶつける。`[\]
-set_window_simple 80
+set_window_simple 160
 msgwnd_lam
 *d63921
 d [lv 0*"29"*"82200368"]`「見せなさいよ、絶対…！！」`[\]
@@ -2836,7 +2836,7 @@ lbg s0_3,"black"
 flush 22
 *d63996
 d `それは、薄っすらと光る、真っ赤な何かで書かれた、矢印とアルファベット。`[\]
-set_window_simple 80
+set_window_simple 160
 *d63997
 d `{a:c:`[text_fade_t 1667]`{p:1:{e:200:Ｋ←}}`[\]
 set_name_window_non

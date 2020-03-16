@@ -1432,7 +1432,7 @@ textoff
 waits 167
 lbg s0_3,"black"
 flush 1
-set_window_simple 80
+set_window_simple 160
 *d21524
 d [lv 0*"11"*"32000002"]`「それにサインしては駄目ッ！！！`[@][lv 0*"11"*"32000003"]`　自ら敗北を認めるの？！`[@][lv 0*"11"*"32000004"]`　魔女に騙されないで！！！」`[\]
 set_name_window_non

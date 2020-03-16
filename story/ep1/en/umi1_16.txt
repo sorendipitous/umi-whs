@@ -573,7 +573,7 @@
 ` Because of that power, {f:5:Beatrice} couldn't do anything to me, and me alone."`
 `"So she decided to use the other three for the sacrifices.`
 ` And then she said this to me."`
-`{e:070:― Come, face the wall and sing a song for me.`
+`{e:090:― Come, face the wall and sing a song for me.`
 `......You will sing lots and lots of songs, so no matter what happens, no matter what you hear, you won't hear you won't hear you won't know.`
 `Come, let me hear many fun songs.}`
 `"So I was singing the whole time.`
@@ -784,7 +784,7 @@
 ` ...George onii‐chan and Jessica onee‐chan.`
 ` ......The journey...{0}has ended...{0}and the witch...{0}has revived...{0}you see?"`
 `And {i:none shall be left alive.}`
-`{e:070:The witch shall praise the wise, and bestow four treasures.`
+`{e:090:The witch shall praise the wise, and bestow four treasures.`
 `{n}{n}One shall be all of the Golden Land's gold.`
 `{n}One resurrects all the dead people's souls.`
 `{n}One even revives all the love they possessed.`

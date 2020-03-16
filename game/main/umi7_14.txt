@@ -690,7 +690,7 @@ wait 1000
 seplay 1,20,50
 wait 667
 seplay 1,12,70
-set_window_simple 80
+set_window_simple 160
 meplay 1,5,70
 meplay 2,17,70
 msgwnd_but
@@ -1063,7 +1063,7 @@ textoff
 waits 167
 lbg s0_3,"different_spiral_1b"
 flush 8
-set_window_simple 80
+set_window_simple 160
 *d55006
 d `{a:c:`[lv 0*"55"*"75500633"]`紗音……、`[|][lv 0*"55"*"75500634"]`……紗音………。}`[\]
 set_name_window_non
@@ -1819,7 +1819,7 @@ textoff
 waits 167
 lbg s0_3,"black"
 flush 2
-set_window_simple 80
+set_window_simple 160
 msgwnd_bea
 *d55131
 d [lv 0*"55"*"75500707"]`「……次の親族会議など瞬く間よ。`[@][lv 0*"55"*"75500708"]`……のんびりと待つが良い……。`[@][lv 0*"55"*"75500709"]`必ず、戦人は約束を守るのだから………」`[\]

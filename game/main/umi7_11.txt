@@ -476,7 +476,7 @@ textoff
 waits 167
 lbg s0_3,"black"
 flush 22
-set_window_simple 80
+set_window_simple 160
 *d53816
 d [lv 0*"32"*"73700083"]`「何と、まぁ…！`[@][lv 0*"32"*"73700084"]`　糸で結ぶとは、面白い真似を！」`[\]
 set_name_window_non

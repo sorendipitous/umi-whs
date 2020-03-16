@@ -1911,7 +1911,7 @@ waits 167
 csp_slot s0_9
 lbg s0_3,"black"
 flush 22
-set_window_simple 80
+set_window_simple 160
 msgwnd_enj
 *d24767
 d `{a:c:`[lv 0*"11"*"42000954"]`……じゃあ死んでよ。}`[\]
@@ -2107,7 +2107,7 @@ waits 167
 csp_slot s0_9
 lbg s0_3,"black"
 flush 22
-set_window_simple 80
+set_window_simple 160
 meplay 3,16,80
 msgwnd_enj
 *d24792
@@ -2849,7 +2849,7 @@ waits 167
 csp_slot s0_9
 lbg s0_3,"black"
 flush 22
-set_window_simple 80
+set_window_simple 160
 *d24888
 d [lv 0*"13"*"40400859"]`絶交だ、絶交だ！！`[@][lv 0*"13"*"40400860"]`　もう魔女の仲間になんか入れてあげないッ…！！`[\]
 *d24889

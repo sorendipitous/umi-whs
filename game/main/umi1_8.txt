@@ -789,7 +789,7 @@ lbg s0_3,"black"
 flush 22
 vol_bgm -1,2000
 wait 2000
-set_window_simple 80
+set_window_simple 160
 msgwnd_rud
 *d3313
 d [lv 0*"08"*"11200296"]`「……………俺は多分。`[@][lv 0*"08"*"11200297"]`………今夜、`[|][lv 0*"08"*"11200298"]`殺されるだろうな」`[\]

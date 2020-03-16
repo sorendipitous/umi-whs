@@ -116,7 +116,7 @@ msgwnd_non
 d `……その時、……向こうへ伸びる薄暗い廊下から、……音が聞こえた。`[\]
 bgmplay 136,90,0
 waits 167
-set_window_simple 80
+set_window_simple 160
 *d68533
 d `{a:c:とっ、とてとてとてとてとて………。}`[\]
 set_name_window_non
@@ -265,7 +265,7 @@ textoff
 waits 167
 lbg s0_3,"black"
 flush 80
-set_window_simple 80
+set_window_simple 160
 *d68548
 d `{a:c:とてとてとてとてとてとて……。}`[\]
 set_name_window_non
@@ -460,7 +460,7 @@ textoff
 waits 167
 vol_mix_fade 1000
 wait 1000
-set_window_simple 80
+set_window_simple 160
 msgwnd_non
 *d68576
 d `{a:c:`[lv 0*"50"*"65000393"]`――蹴るとは、酷いことをする。}`[\]

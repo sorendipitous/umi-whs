@@ -526,7 +526,7 @@ textoff
 waits 167
 lbg s0_22,"black"
 flush 22
-set_window_simple 80
+set_window_simple 160
 msgwnd_non
 *d35981
 d2 [#][*]`{p:1:祖父さまはこの時点で死んでいる。}`[@]`存在するわけもない。`[\]
@@ -737,7 +737,7 @@ agpt onionalpha,0,1000
 sptwait2 warp_amp,s0_9
 *d36002
 d `しかし、あたかも書斎に閉じ篭っていてヘソを曲げているかのように語り、`[@]`ついさっきまで祖父さまと会っていたと主張する人間たちがいて、`[@]`俺たちは、それを鵜呑みにし、祖父さまは書斎の中にいると信じた。`[\]
-set_window_simple 80
+set_window_simple 160
 *d36003
 d `{a:c:`[text_fade_t 1667]`{i:だから祖父さまの幻想が書斎の中に存在できる}。}`[\]
 set_name_window_non
@@ -749,7 +749,7 @@ lbg s0_3,"black"
 flush 22
 *d36004
 d `そうさ、これまでのゲームで祖父さまに会えた人間は、`[@]`蔵臼伯父さんと夏妃伯母さん、`[@]`そしてその使用人たちだけじゃないか。`[\]
-set_window_simple 80
+set_window_simple 160
 *d36005
 d2 [#][*]`{p:2:彼ら全員が口裏を合わせることで、`[@]`祖父さまの幻想はこの島に、あたかも生きているように存在できるんだ。}`[\]
 wait_on_d 0
@@ -896,7 +896,7 @@ textoff
 waits 167
 lbg s0_3,"chess2"
 flush 8
-set_window_simple 80
+set_window_simple 160
 msgwnd_ber
 *d36021
 d [lv 0*"28"*"52100089"]`あなたはベアトと、その度に犯行現場で、隠し扉が存在しないかどうか、`[@][lv 0*"28"*"52100090"]`ずいぶんと熱心に確認していたわね？`[\]
@@ -926,7 +926,7 @@ textoff
 waits 167
 lbg s0_3,"chess2"
 show_glass 1200
-set_window_simple 80
+set_window_simple 160
 msgwnd_ber
 *d36022
 d [lv 0*"28"*"52100091"]`まるでそれ自体が戦いであるかのように、`[@][lv 0*"28"*"52100092"]`赤き真実を織り交ぜてガキンガキンと派手に。`[\]
@@ -935,7 +935,7 @@ textoff
 waits 167
 lbg s0_3,"black"
 flush 22
-set_window_simple 80
+set_window_simple 160
 msgwnd_ber
 *d36023
 d [lv 0*"28"*"52100093"]`あれ、私に言わせると時間の無駄。`[\]
@@ -952,7 +952,7 @@ textoff
 waits 167
 lbg s0_3,"different_spiral_1a"
 flush 8
-set_window_simple 80
+set_window_simple 160
 msgwnd_ber
 *d36027
 d [lv 0*"28"*"52100101"]`つまり、犯行現場に隠し扉が存在しないことが証明されてないから推理できないなんて、`[@][lv 0*"28"*"52100102"]`甘ったれたあなたは、ミステリー失格。`[@][lv 0*"28"*"52100103"]`その時点でゲームオーバー。`[\]
@@ -1992,7 +1992,7 @@ waits 167
 csp_slot s0_10
 lbg s0_3,"black"
 flush 1
-set_window_simple 80
+set_window_simple 160
 msgwnd_non
 *d36184
 d [lv 0*"28"*"52100122"][text_fade_t 1667]`「二度とないわ。`[@][lv 0*"28"*"52100123"]`その子が笑うことは、もう、二度と」`[\]
@@ -2045,7 +2045,7 @@ lbg s0_3,"black"
 flush 1
 vol_mix_fade 1000
 wait 1000
-set_window_simple 80
+set_window_simple 160
 msgwnd_ber
 *d36190
 d `{a:c:`[lv 0*"28"*"52100125"][text_fade_t 1667]`「おめでとう」}`[\]

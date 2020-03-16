@@ -2312,7 +2312,7 @@ wait 2000
 lss s0_9,"bea","a11_akuwarai1" ;1
 flush 2
 bgmplay 47,71,0
-set_window_simple 80
+set_window_simple 160
 *d9023
 d `さぁて、駒はこれで全て並んだか……？`[@]`{n}全ての駒を並べ直し、新しいゲームを始めようではないか。`[\]
 set_name_window_non

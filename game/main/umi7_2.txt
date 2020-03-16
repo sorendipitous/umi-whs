@@ -1615,7 +1615,7 @@ waits 167
 csp_slot s0_9
 lbg s0_3,"black"
 flush 1
-set_window_simple 80
+set_window_simple 160
 msgwnd_ber
 *d51064
 d `{a:c:`[lv 0*"28"*"72100060"]`「……どう、ゲームは？」}`[\]

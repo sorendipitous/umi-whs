@@ -2908,7 +2908,7 @@ sptwait2 xpos,s0_12
 msgwnd_non
 *d1074
 d `その姿を廊下の影から見守る割烹着姿の老婆は熊沢であった…。`[\]
-set_window_simple 80
+set_window_simple 160
 lips_sprite s0_12_b
 msgwnd_kum
 *d1075

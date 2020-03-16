@@ -917,7 +917,7 @@ lss s0_9,"bea","a11_gaman3" ;1
 flush 26
 lss s0_9,"bea","a11_gaman1" ;1
 flush 10,167
-set_window_simple 80
+set_window_simple 160
 *d30402
 d2 [#][*]`{p:1:ここは妾の黄金郷}…！`[@]`{n}`[#][*]`{p:1:妾以外の魔法は絶対に存在できない世界}！！！`[\]
 wait_on_d 0
@@ -1048,7 +1048,7 @@ textoff
 waits 167
 lbg s0_3,"sakutaro1a"
 flush 22
-set_window_simple 80
+set_window_simple 160
 msgwnd_enj
 *d30415
 d2 [lv 0*"11"*"42001871"]`「……大丈夫。`[@][lv 0*"11"*"42001872"]`さくたろうは、消えないよ。`[@][lv 0*"11"*"42001873"]`…………。`[@]`{n}`[|][lv 0*"33"*"44200551"]`『うりゅ、`[@][lv 0*"33"*"44200552"]`真里亞。ただいま』」`[#][*][\]
@@ -1787,7 +1787,7 @@ waits 167
 csp_slot s0_10
 lbg s0_3,"black"
 flush 22
-set_window_simple 80
+set_window_simple 160
 msgwnd_but
 *d30498
 d [lv 0*"10"*"40100847"]`……自分は右代宮戦人では、`[|][lv 0*"10"*"40100848"]`……ない…………。`[\]
@@ -1900,7 +1900,7 @@ textoff
 waits 167
 lbg s0_3,"black"
 flush 2
-set_window_simple 80
+set_window_simple 160
 *d30511
 d2 [lv 0*"11"*"42001927"][#][*]`{p:2:ベアトの対戦相手の資格は、“金蔵の孫である右代宮戦人”であって、`[@][lv 0*"11"*"42001928"][#][*]`“明日夢の息子”であるか否かは問題ではない}。`[\]
 wait_on_d 0
@@ -2388,7 +2388,7 @@ textoff
 waits 167
 lbg s0_3,"different_space_1c"
 flush 2
-set_window_simple 80
+set_window_simple 160
 *d30573
 d [lv 0*"11"*"42001985"]`……辛かったよ………。`[\]
 *d30574
@@ -3009,7 +3009,7 @@ csp_slot s0_8
 csp_slot s0_10
 lbg s0_3,"different_space_1c"
 flush 22
-set_window_simple 80
+set_window_simple 160
 msgwnd_bea
 *d30664
 d [lv 0*"27"*"40701027"]`……揺るぎ無き決意。`[@][lv 0*"27"*"40701028"]`…絶対の意思。`[\]
@@ -3025,7 +3025,7 @@ waits 167
 lbg s0_3,"black"
 flush 26
 seplay 1,32,71
-set_window_simple 80
+set_window_simple 160
 msgwnd_bea
 *d30668
 d [lv 0*"27"*"40701035"]`妾の足にはいつの間にか、音もなく、もう片方の足にも冷たく頑丈な鎖が絡みつき、`[@][lv 0*"27"*"40701036"]`この椅子に縛り付けている…。`[\]
@@ -3040,7 +3040,7 @@ textoff
 waits 167
 lbg s0_3,"different_spiral_1a"
 flush 22
-set_window_simple 80
+set_window_simple 160
 msgwnd_bea
 *d30672
 d [lv 0*"27"*"40701042"]`もう永遠の鎖は妾を縛り付けた。`[@]`{n}`[|][lv 0*"27"*"40701043"]`そして戦人もまた、妾を逃さない。`[\]
@@ -3058,7 +3058,7 @@ textoff
 waits 167
 lbg s0_3,"black"
 flush 1
-set_window_simple 80
+set_window_simple 160
 msgwnd_bea
 *d30677
 d [lv 0*"27"*"40701050"]`……………………………だが。`[\]
@@ -3073,7 +3073,7 @@ textoff
 waits 167
 lbg s0_3,"portrait2"
 flush 22
-set_window_simple 80
+set_window_simple 160
 msgwnd_bea
 *d30678
 d [lv 0*"27"*"40701051"]`妾は、黄金の魔女、ベアトリーチェ。`[\]

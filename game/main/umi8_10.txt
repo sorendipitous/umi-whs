@@ -597,7 +597,7 @@ csp_slot s0_10
 lbg s0_3,"black"
 flush 22
 vol_bgm -1
-set_window_simple 80
+set_window_simple 160
 msgwnd_non
 *d60874
 d `{a:c:`[lv 0*"09"*"81300091"]`「正解よ」}`[\]
@@ -1451,7 +1451,7 @@ textoff
 waits 167
 lbg s0_3,"black"
 flush 22
-set_window_simple 80
+set_window_simple 160
 *d60972
 d `{a:c:`[lv 0*"46"*"84500001"]`「こっちへ……！」}`[\]
 set_name_window_non
@@ -1708,7 +1708,7 @@ waits 167
 lbg s0_3,"black"
 flush 2
 wait 1000
-set_window_simple 80
+set_window_simple 160
 *d61006
 d2 [lv 0*"46"*"84500005"][#][*]`「{p:1:留弗夫一家犯人説以外でも、ロジックの構築は可能です。`[@][lv 0*"46"*"84500006"][#][*]`{p:2:例えば譲治一家犯人説でも可能です}」`[\]
 wait_on_d 0
@@ -2952,7 +2952,7 @@ flush 80
 vol_mix_fade 1000
 vol_bgm -1,1000
 wait 1000
-set_window_simple 80
+set_window_simple 160
 msgwnd_non
 *d61106
 d `{a:c:`[lv 0*"28"*"82100171"]`「………いいわ。`[|][lv 0*"28"*"82100172"]`教えてあげてもいい」}`[\]
@@ -4245,7 +4245,7 @@ vol_bgm -1,2000
 wait 2000
 vol_mix_fade 1000
 wait 1000
-set_window_simple 80
+set_window_simple 160
 *d61266
 d `………………………………。`[\]
 meplay 1,17,70
@@ -4329,7 +4329,7 @@ waits 167
 lbg s0_3,"black"
 flush 22
 vol_me 1,-1,1000
-set_window_simple 80
+set_window_simple 160
 *d61285
 d `{a:c:`[lv 0*"50"*"85000001"]`「久しぶりだな、人の子よ」}`[\]
 set_name_window_non

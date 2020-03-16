@@ -1810,7 +1810,7 @@ textoff
 waits 167
 lbg s0_3,"black"
 flush 2
-set_window_simple 80
+set_window_simple 160
 msgwnd_enj
 *d21847
 d [lv 0*"11"*"42000117_1"]`馬鹿……。`[\]

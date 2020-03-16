@@ -592,7 +592,7 @@ waits 167
 lss s0_12,"kum","a11_komaru1" ;1
 aspt2 xpos,s0_12,960
 flush 4
-set_window_simple 80
+set_window_simple 160
 lips_sprite s0_12_b
 msgwnd_kum
 *d9905
@@ -609,7 +609,7 @@ lbg s0_3,"black"
 lss s0_12,"kum","a11_komaru1" ;1
 aspt2 xpos,s0_12,960
 flush 22
-set_window_simple 80
+set_window_simple 160
 lips_sprite s0_12_b
 msgwnd_kum
 *d9907
@@ -631,7 +631,7 @@ lbg s0_3,"mkit_1ar"
 lss s0_12,"kum","a11_komaru1" ;1
 aspt2 xpos,s0_12,960
 flush 22
-set_window_simple 80
+set_window_simple 160
 lips_sprite s0_12_b
 msgwnd_kum
 *d9911

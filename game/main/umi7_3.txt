@@ -1691,7 +1691,7 @@ vol_bgm -1,2000
 wait 2000
 vol_mix_fade 1000
 wait 1000
-set_window_simple 80
+set_window_simple 160
 msgwnd_non
 *d51444
 d `{a:c:１９４４年。}`[\]

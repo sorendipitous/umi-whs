@@ -12226,7 +12226,7 @@ flush 80
 msgwnd_ber
 *d67420
 d [lv 0*"28"*"72100330"]`「何？`[@][lv 0*"28"*"72100331"]`　赤き真実ではっきり宣言してあげた方がいいの？`[@][lv 0*"28"*"72100332"]`　なら言ってあげるわ、赤き真実で」`[\]
-set_window_simple 80
+set_window_simple 160
 seplay 1,59,71
 *d67421
 d2 `{a:c:`[lv 0*"28"*"72100333_o"][ak][text_speed_t 0]`「“{p:1:これは全て真実}`[#][*]`}`[\]
@@ -15041,7 +15041,7 @@ wait 1000
 seplay 1,12,100
 seplay 2,1006,100
 seplay 3,1006,100
-set_window_simple 80
+set_window_simple 160
 *d67671
 d `{a:c:……世界は、肉と血と牙で、包まれた。}`[\]
 set_name_window_non

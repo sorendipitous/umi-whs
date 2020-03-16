@@ -1237,7 +1237,7 @@ waits 167
 lbg s0_3,"black"
 flush 22
 meplay 3,5,90
-set_window_simple 80
+set_window_simple 160
 msgwnd_sha
 *d7341
 d [lv 0*"15"*"20500128"]`「……約束は守りました。`[@][lv 0*"15"*"20500129"]`………今度はあなたが約束を守る番です。`[@][lv 0*"15"*"20500130"]`……私の願いをどうか叶えてください！`[@][lv 0*"15"*"20500131"]`　ベアトリーチェさまぁあッッ！！」`[\]
@@ -1247,7 +1247,7 @@ waits 167
 vol_mix_fade 1000
 wait 1000
 skip_off
-pam 749,"op",0
+pam 749,"op1",0
 skip_on
 textoff
 waits 167

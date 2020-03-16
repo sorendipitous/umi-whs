@@ -2589,7 +2589,7 @@ csp_slot s0_9
 csp_slot s0_1
 lbg s0_3,"black"
 flush 22
-set_window_simple 80
+set_window_simple 160
 *d19223
 d [lv 0*"09"*"31300350"]`明日夢さんは戦人くんを身篭ってたわ。`[@]`{n}`[|][lv 0*"09"*"31300351"]`そして同じ頃、私もまた男の子を身篭ってた。`[@]`{n}`[|][lv 0*"09"*"31300352"]`…運命的なことに、私たちの出産日は共に同じ日だったわ。`[\]
 set_name_window_non
@@ -2608,7 +2608,7 @@ textoff
 waits 167
 lbg s0_3,"black"
 flush 22
-set_window_simple 80
+set_window_simple 160
 *d19226
 d [lv 0*"09"*"31300361"]`明日夢さんなんか死んでしまえ。`[\]
 *d19227
@@ -2686,7 +2686,7 @@ seplay 1,37,100
 seplay 2,37,100
 wait 100
 seplay 3,37,100
-set_window_simple 80
+set_window_simple 160
 msgwnd_kir
 *d19237
 d [lv 0*"09"*"31300374"]`笑わせるなよ小娘が。`[\]

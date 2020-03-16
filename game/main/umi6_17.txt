@@ -2171,11 +2171,11 @@ csp_slot s0_5
 flush 2
 vol_me 1,-1,1000
 wait 1000
-set_window_simple 80
+set_window_simple 160
 msgwnd_bea
 *d49488
 d [lv 0*"27"*"60701041"]`…………私って、`[|][lv 0*"27"*"60701042"]`……どうして、`[|][lv 0*"27"*"60701043"]`……戦人さんのことを好きなんですか…？`[\]
-set_window_simple 80
+set_window_simple 160
 *d49489
 d `{a:c:`[lv 0*"27"*"60701044"]`……“お母様”。}`[\]
 set_name_window_non
@@ -2223,7 +2223,7 @@ csp_slot s0_9
 lbg s0_3,"black"
 show_glass 0
 wait 1000
-set_window_simple 80
+set_window_simple 160
 *d49494
 d `{a:c:――ベアトリーチェ。`[@]`{n}お聞きなさい。`[@]`{n}私はあなたに、右代宮戦人に恋する心を、譲ります。`[@]`{n}あなたは、右代宮戦人の望む女性となりなさい。}`[\]
 *d49495
@@ -2701,7 +2701,7 @@ textoff
 waits 167
 lbg s0_3,"portrait2"
 flush 2
-set_window_simple 80
+set_window_simple 160
 msgwnd_kan
 *d49555
 d `{a:c:`[lv 0*"16"*"60600419"]`魔女ってのは。}`[\]
@@ -2882,7 +2882,7 @@ textoff
 waits 167
 lbg s0_3,"black"
 flush 80
-set_window_simple 80
+set_window_simple 160
 *d49568
 d `{a:c:`[lv 0*"27"*"60701075"]`………ぁ…。}`[\]
 set_name_window_non

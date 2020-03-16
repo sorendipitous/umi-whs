@@ -1029,7 +1029,7 @@ aspt2 ypos,s0_8,400
 aspt2 xpos,s0_8,-500
 flush 10,167
 wait 500
-set_window_simple 80
+set_window_simple 160
 msgwnd_non
 *d43148
 d `{a:c:`[lv 0*"00"*"awase6004"]`「「家具じゃ、ない」」}`[\]

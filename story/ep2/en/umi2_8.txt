@@ -393,7 +393,7 @@
 ` Because that day will surely come."`
 `".....................Will it...`
 `surely come?`
-` {e:070:......Is it OK......for me to believe?}{e:100:"}`
+` {e:080:......Is it OK......for me to believe?}{e:100:"}`
 `"Yes.`
 ` Surely.`
 ` Definitely.`

@@ -17,7 +17,7 @@ seplay 2,19,71
 wait 2000
 bgmplay 1,71,0
 wait 1000
-set_window_simple 80
+set_window_simple 160
 msgwnd_nat
 *d35500
 d `{a:c:`[lv 0*"03"*"50900003"]`「夏妃です、開けて下さい…！！」}`[\]
@@ -539,7 +539,7 @@ lbg s0_3,"black"
 flush 1
 vol_bgm -1,1000
 wait 333
-set_window_simple 80
+set_window_simple 160
 msgwnd_cla
 *d35580
 d `{a:c:`[lv 0*"02"*"50800012"][text_fade_t 1667]`「待て」}`[\]
@@ -1646,7 +1646,7 @@ flush 1
 vol_mix_fade 1000
 vol_bgm -1,1000
 wait 1000
-set_window_simple 80
+set_window_simple 160
 msgwnd_kin
 *d35750
 d `{a:c:`[lv 0*"01"*"51500001"][text_fade_t 1667]`「やかましいぞ。`[@][lv 0*"01"*"51500002"]`私は沈黙を尊ぶといつも言っている」}`[\]

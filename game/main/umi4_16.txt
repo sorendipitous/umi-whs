@@ -590,7 +590,7 @@ textoff
 waits 167
 lbg s0_3,"letter1"
 flush 22
-set_window_simple 80
+set_window_simple 160
 msgwnd_non
 *d27831
 d `{a:c:{e:070:以下に掲げる三つの内。`[@]`{n}二つを得るために、一つを生贄に捧げよ。`[@]`{n}{n}一．自分の命`[@]`　{n}二．紗音の命`[@]`　{n}三．それ以外の全員の命`[@]`{n}{n}何れも選ばねば、上記の全てを失う。}}`[\]
@@ -9763,7 +9763,7 @@ aspt2 darken_g,s0_9,156
 aspt2 darken_b,s0_9,160
 flush 10,167
 meplay 1,5,70
-set_window_simple 80
+set_window_simple 160
 msgwnd_non
 *d28588
 d `ほっほっほっほ…。`[@]`浅はかな。`[@]`{n}お前たちの狙いはわかっていますよ。`[@]`{n}二人の距離は、１０ｍ以上は離れている。`[\]
@@ -10407,7 +10407,7 @@ csp_slot s0_8
 csp_slot s0_10
 lbg s0_3,"black"
 flush 22
-set_window_simple 80
+set_window_simple 160
 msgwnd_non
 *d28648
 d `クロスカウンターは４倍の破壊力。`[@]`{n}これはボクシングの常識だ。`[\]

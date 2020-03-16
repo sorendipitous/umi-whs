@@ -2294,7 +2294,7 @@ textoff
 waits 167
 lbg s0_3,"black"
 flush 42
-set_window_simple 80
+set_window_simple 160
 msgwnd_kin
 *d23021
 d [lv 0*"01"*"41500001"]`「駄目だな………」`[\]

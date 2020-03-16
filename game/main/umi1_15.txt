@@ -2444,7 +2444,7 @@ d `みんながそこに群がる。`[@]`{n}そしてみんなも俺と同じに
 *d6506
 d `そう。`[@]`碑文には記されていた。`[\]
 meplay 1,16,40
-set_window_simple 80
+set_window_simple 160
 *d6507
 d [text_fade_t 1667]`“第一の晩に、鍵の選びし六人を生贄に捧げよ”`[\]
 set_name_window_non
@@ -2662,7 +2662,7 @@ textoff
 waits 167
 lbg s0_3,"portrait2"
 flush 22
-set_window_simple 80
+set_window_simple 160
 msgwnd_non
 *d6539
 d [text_fade_t 1667]`“第三の晩に、残されし者は誉れ高き我が名を讃えよ”`[\]
@@ -2670,7 +2670,7 @@ set_name_window_non
 *d6540
 d `ああああぁぁ…、こうして読むと、まだまだ続いているんじゃないだろうか。`[\]
 meplay 3,16,40
-set_window_simple 80
+set_window_simple 160
 *d6541
 d [text_fade_t 1667]`“第四の晩に、頭を抉りて殺せ”`[\]
 set_name_window_non
@@ -2719,7 +2719,7 @@ csp_slot s0_10
 csp_slot s0_1
 lbg s0_3,"black"
 flush 22
-set_window_simple 80
+set_window_simple 160
 msgwnd_non
 *d6549
 d [text_fade_t 1667]`“第六の晩に、腹を抉りて殺せ”`[@]`{n}`[text_fade_t 1667]`“第七の晩に、膝を抉りて殺せ”`[@]`{n}`[text_fade_t 1667]`“第八の晩に、足を抉りて殺せ”`[\]
@@ -2748,7 +2748,7 @@ csp_slot s0_1
 lbg s0_3,"black"
 flush 1
 seplay 1,21,71
-set_window_simple 80
+set_window_simple 160
 msgwnd_non
 *d6552
 d [text_fade_t 1667]`“第九の晩に、魔女は蘇り、誰も生き残れはしない”`[\]
@@ -2781,7 +2781,7 @@ flush 10,167
 msgwnd_mar
 *d6555
 d [lv 0*"13"*"10400808"]`「……………誰も生き残れなくていいんだよ。`[@][lv 0*"13"*"10400809"]`……第十の晩には、黄金郷にたどり着く」`[\]
-set_window_simple 80
+set_window_simple 160
 msgwnd_non
 *d6556
 d [text_fade_t 1667]`“第十の晩に、旅は終わり、黄金の郷に至るだろう”`[@]`{n}`[text_fade_t 1667]`“魔女は賢者を讃え、四つの宝を与えるだろう”`[\]
@@ -3143,7 +3143,7 @@ lbg s0_3,"black"
 flush 26
 *d6605
 d `内容は、以下の通り。`[\]
-set_window_simple 80
+set_window_simple 160
 *d6606
 d [lv 0*"27"*"10700001"]`{e:070:“金蔵さまの碑文の謎をお楽しみいただいているでしょうか。`[@]`{n}`[|][lv 0*"27"*"10700002"]`すでにご存知と思いますが、皆様方には時間が多くは残されてはおりません。`[@]`{n}`[|][lv 0*"27"*"10700003"]`どうか、嵐が過ぎ去れば逃げ出すことができるという甘えをお捨て下さいませ。`[@]`{n}`[|][lv 0*"27"*"10700004"]`このゲームには、私と皆様方のどちらが勝つかの結果しかない。`[@]`{n}`[|][lv 0*"27"*"10700005"]`時間切れは私の勝ちとなる。`[@][lv 0*"27"*"10700006"]`引き分けはありません。`[@]`{n}`[|][lv 0*"27"*"10700007"]`そこをどうか誤解なきようお願い申し上げます”}`[\]
 set_name_window_non

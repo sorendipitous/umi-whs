@@ -732,7 +732,7 @@ textoff
 waits 167
 lbg s0_3,"black"
 flush 11
-set_window_simple 80
+set_window_simple 160
 msgwnd_but
 *d56850
 d `{a:c:`[lv 0*"10"*"80100066"]`お帰り、縁寿。`[@]`{n}`[|][lv 0*"10"*"80100067"]`そしてこれで最後なんだ。}`[\]

@@ -1169,7 +1169,7 @@ lbg s0_3,"black"
 flush 5
 *d23241
 d `その手紙を、ママの机の上にそっと置く。`[\]
-set_window_simple 80
+set_window_simple 160
 *d23242
 d `{e:070:“ママへ。`[@]`{n}今日もお仕事お疲れさま☆　幸せのおすそわけ。`[@]`{n}――真里亞より”}`[\]
 set_name_window_non
@@ -2122,7 +2122,7 @@ textoff
 waits 167
 lbg s0_3,"black"
 flush 1
-set_window_simple 80
+set_window_simple 160
 vol_mix_fade 1000
 vol_bgm -1,1000
 wait 1000

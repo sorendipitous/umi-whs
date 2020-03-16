@@ -822,7 +822,7 @@ lbg s0_3,"black"
 flush 1
 vol_me 2,-1,1000
 vol_me 3,-1,1000
-set_window_simple 80
+set_window_simple 160
 *d36733
 d `{a:c:`[lv 0*"46"*"54500003"]`「…………こんにちは」}`[\]
 set_name_window_non

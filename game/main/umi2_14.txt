@@ -948,7 +948,7 @@ textoff
 waits 167
 lbg s0_3,"letter1"
 flush 66
-set_window_simple 80
+set_window_simple 160
 msgwnd_non
 *d12699
 d [lv 0*"27"*"20701249_1"]`{e:070:“右代宮家の皆様。`[@]`{n}`[|][lv 0*"27"*"20701249_2"]`黄金の碑文の謎解きはいよいよ佳境に入りましたでしょうか。`[@]`{n}`[|][lv 0*"27"*"20701249_3"]`皆さんに私を止めることができる唯一の方法が、碑文の謎を解くことなのです。}`[\]
@@ -2369,7 +2369,7 @@ csp_slot s0_10
 csp_slot s0_1
 lbg s0_3,"black"
 flush 22
-set_window_simple 80
+set_window_simple 160
 *d12898
 d [lv 0*"12"*"21400755"]`「……うみねこの、なく頃に」`[\]
 set_name_window_non

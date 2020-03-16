@@ -632,7 +632,7 @@ waits 167
 lbg s0_3,"black"
 flush 2
 wait 2000
-set_window_simple 80
+set_window_simple 160
 msgwnd_mar
 *d10374
 d [lv 0*"13"*"20400262"]`「きっひひひひひひひひひひひひひひひひひひひ…」`[\]

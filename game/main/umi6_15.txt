@@ -3647,7 +3647,7 @@ csp_slot s0_9
 csp_slot s0_10
 lbg s0_3,"black"
 flush 1
-set_window_simple 80
+set_window_simple 160
 *d48231
 d `{a:c:`[lv 0*"29"*"62200226"]`「……有効」}`[\]
 set_name_window_non
@@ -3970,7 +3970,7 @@ waits 167
 vol_mix_fade 1000
 vol_bgm -1,1000
 wait 1000
-set_window_simple 80
+set_window_simple 160
 msgwnd_dla
 *d48275
 d2 `{a:c:`[lv 0*"47"*"64600234"]`{p:1:`[#][*]`右代宮霧江ニハ、`[|][lv 0*"47"*"64600242"]`戦人ヲ救エナイ`[!w167]`。}}`[\]
@@ -4837,7 +4837,7 @@ csp_slot s0_9
 lbg s0_3,"blood_1ar"
 lss s0_9,"eri","a11_akuwarai4" ;1
 flush 5
-set_window_simple 80
+set_window_simple 160
 lips_sprite s0_9_b
 *d48344
 d [lv 0*"46"*"64501191"]`もちろん、包丁もビニールも人数分用意し、現場にそのまま捨てていきました。`[\]
@@ -6061,7 +6061,7 @@ csp_slot s0_8
 csp_slot s0_10
 lbg s0_3,"black"
 flush 22
-set_window_simple 80
+set_window_simple 160
 *d48470
 d [lv 0*"29"*"62200284"]`………ベルンやヱリカが憎い？`[@]`{n}`[|][lv 0*"29"*"62200285"]`ならばそれはベルンたちの餞別よ。`[\]
 *d48471
@@ -6364,7 +6364,7 @@ textoff
 waits 167
 lbg s0_3,"different_spiral_1a"
 flush 8
-set_window_simple 80
+set_window_simple 160
 *d48506
 d2 `何で、……俺は昔からこう、不器用なんだよ…。`[@]`………俺が不器用なんじゃねぇ…、……チェーンと相性が悪いだけなんだ…。`[@]`くそ、……チェーンは嫌いだ、…鎖は嫌いだ……。`[@]`何で、……うまく行かねぇんだよ……。`[@]`何でチェーンロックが、……外から閉められねぇんだよ………。`[@]`くそくそ、くそくそ、`[#][*][!w167]`……く、`[!w167]`……ぐぅうううぅぅぅぅぅぅぅ…ッッッ！！！`[\]
 wait_on_d 0

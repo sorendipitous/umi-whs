@@ -583,7 +583,7 @@ waits 167
 lbg s0_3,"black"
 flush 1
 vol_bgm -1,1000
-set_window_simple 80
+set_window_simple 160
 msgwnd_but
 *d42671
 d `{a:c:`[lv 0*"10"*"60100008"]`「ベアト。`[@][lv 0*"10"*"60100009"]`……部屋にいるように言ったはずだ」}`[\]

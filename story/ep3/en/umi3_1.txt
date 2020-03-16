@@ -516,7 +516,7 @@
 ` You'll fall, so stop running!"`
 `It seemed Maria was already getting excited.`
 ` She ran circles around Hideyoshi, escaping from Rosa, who was trying to catch her.`
-`"{e:070:.........belove..................key......}{e:100:"}`
+`"{e:080:.........belove..................key......}{e:100:"}`
 `"What is it, Mother?`
 ` ...Do you feel sick...?"`
 `"George.`

@@ -890,7 +890,7 @@ color_mod2 s0_3,#ffffff
 lss s0_9,"kin","a23_akuwarai2" ;1
 color_mod2 s0_9,#ffffff
 flush 2
-set_window_simple 80
+set_window_simple 160
 msgwnd_but
 *d57270
 d [lv 0*"10"*"80100170"]`あの日も、６年前と何も変わらず、`[@][lv 0*"10"*"80100171"]`祖父さまはハッピーハロウィンの声とともに客間にやって来たよ。`[\]

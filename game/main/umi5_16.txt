@@ -935,7 +935,7 @@ wait 1000
 lss s0_24,"eri","a11_akuwarai2" ;1
 flush 10,167
 seplay 1,59,100
-set_window_simple 80
+set_window_simple 160
 msgwnd_eri
 *d65804
 d [lv 0*"46"*"54501335"]`{e:090:「エピソード６、Checkmate of the golden witch！」}`[\]

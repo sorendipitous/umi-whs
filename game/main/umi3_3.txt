@@ -745,7 +745,7 @@ aspt2 xpos,s0_8,-550
 flush 10,167
 d_continue
 wait_on_d -1
-set_window_simple 80
+set_window_simple 160
 msgwnd_non
 *d14961
 d `……いるならぜひ現れて欲しいものよ。`[@]`{n}でも、どんなに願っても、一度も私の前には現れてくれなかった。`[@]`私を苦境から助けてはくれなかった…。`[\]

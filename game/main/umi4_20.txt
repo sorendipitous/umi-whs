@@ -641,7 +641,7 @@ d `朱志香は確か、……「やられちまったぜ」と、そう言っ�
 d `電話の時点で、すでに瀕死の重傷を負っていたと見るのが妥当だろう。`[\]
 *d31335
 d `そうだ、そしてこうも言った。`[\]
-set_window_simple 80
+set_window_simple 160
 msgwnd_jes
 *d31336
 d [lv 0*"04"*"90200073"]`「戦人が来た時には、私は頭を半分ブチまけた死体だよ」`[\]
@@ -793,7 +793,7 @@ textoff
 waits 167
 lbg s0_3,"different_spiral_1a"
 flush 22
-set_window_simple 80
+set_window_simple 160
 msgwnd_jes
 *d31359
 d [lv 0*"04"*"90200074"]`「譲治兄さんも駄目だった。`[@][lv 0*"04"*"90200075"]`ありゃあ、即死だ」`[\]
@@ -1693,7 +1693,7 @@ aspt2 alpha,s0_21,150
 lbg s0_22,"hana1"
 aspt2 alpha,s0_22,150
 flush 22
-set_window_simple 80
+set_window_simple 160
 msgwnd_bea
 *d31534
 d [lv 0*"27"*"90700395"]`ほぅ、……死体がないだけで犯人扱い…？`[@]`{n}`[|][lv 0*"27"*"90700396"]`疑わしきはシロだとほざいたのは誰だったやら……。`[\]
@@ -1749,7 +1749,7 @@ lbg s0_22,"hana1"
 aspt2 alpha,s0_22,150
 flush 22
 lips_sprite s0_10_b
-set_window_simple 80
+set_window_simple 160
 msgwnd_bea
 *d31538
 d [lv 0*"27"*"90700402"]`妾が赤で囁いたところで、駒であるそなたには届かぬか……。`[@][lv 0*"27"*"90700403"]`………だが、{i:そなた}には、届いたよな………？`[\]
@@ -3720,7 +3720,7 @@ d `避けられぬベアトの胸に、何本もの青い杭が打ち込まれ�
 *d31708
 d `ベアトはその杭を握り、何とか引き抜こうとする…。`[\]
 bgmplay 25,71,0
-set_window_simple 80
+set_window_simple 160
 msgwnd_bea
 *d31709
 d [lv 0*"27"*"90700495"]`………あぁぁぁ、`[|][lv 0*"27"*"90700496"]`……食らっちまったぁ……、`[|][lv 0*"27"*"90700497"]`………痛ぇよォ………。`[\]
@@ -3757,7 +3757,7 @@ waits 167
 seplay 1,55,71
 lbg s0_3,"no45_00150"
 flush 2
-set_window_simple 80
+set_window_simple 160
 msgwnd_bea
 *d31715
 d [lv 0*"27"*"90700504"]`これが抜けなきゃ、………死んでしまう………。`[@]`{n}`[|][lv 0*"27"*"90700505"]`……これが、………最後の反撃……………。`[\]
@@ -3781,7 +3781,7 @@ lbg s0_21,"black"
 aspt2 alpha,s0_21,150
 lips_sprite s0_10_b
 flush 22
-set_window_simple 80
+set_window_simple 160
 msgwnd_non
 *d31717
 d `確かにあの時、楼座は黄金の蝶たちが群れ集まり、魔法の奇跡でマシュマロを直すところを目撃している。`[\]
@@ -3868,7 +3868,7 @@ flush 1
 msgwnd_non
 *d31726
 d `その言葉で、青き杭が一層に眩しい光を放ち、私の手を弾き飛ばす。`[\]
-set_window_simple 80
+set_window_simple 160
 seplay 3,55,71
 msgwnd_bea
 *d31727
@@ -3891,7 +3891,7 @@ waits 167
 lbg s0_3,"black"
 flush 22
 wait 1000
-set_window_simple 80
+set_window_simple 160
 msgwnd_bea
 *d31732
 d [lv 0*"27"*"90700525"]`妾は、………無理かも知れぬ………。`[\]
@@ -3906,7 +3906,7 @@ textoff
 waits 167
 lbg s0_3,"different_spiral_1a"
 flush 22
-set_window_simple 80
+set_window_simple 160
 msgwnd_bea
 *d31736
 d [lv 0*"27"*"90700532"]`…………勝てるかもしれないと、…始めたゲームだった。`[\]
@@ -3921,7 +3921,7 @@ waits 167
 lbg s0_3,"different_spiral_1a"
 color_mod2 s0_3,#ffffff
 flush 8
-set_window_simple 80
+set_window_simple 160
 msgwnd_bea
 *d31739
 d [lv 0*"27"*"90700535"]`……しかし、今やその奇跡は完全に失われた。`[\]
@@ -3940,7 +3940,7 @@ lbg s0_3,"black"
 flush 22
 vol_me 1,-1,1000
 wait 1000
-set_window_simple 80
+set_window_simple 160
 msgwnd_bea
 *d31744
 d [lv 0*"27"*"90700542"]`そうさ、私は、`[@][lv 0*"27"*"90700543"]`………戦人に殺されるためだけに、………戦っている………。`[\]
@@ -3977,7 +3977,7 @@ lss s0_10,"bea","a11_warai2" ;1
 aspt2 xpos,s0_10,370
 color_mod2 s0_10,#ffffff
 flush 2
-set_window_simple 80
+set_window_simple 160
 lips_sprite s0_10_b
 msgwnd_bea
 *d31749
@@ -3998,7 +3998,7 @@ lss s0_10,"bea","a21_akuwarai2" ;1
 aspt2 xpos,s0_10,370
 color_mod2 s0_10,#ffffff
 flush 2
-set_window_simple 80
+set_window_simple 160
 lips_sprite s0_10_b
 msgwnd_bea
 *d31750
@@ -4013,7 +4013,7 @@ csp_slot s0_10
 csp_slot s0_1
 lbg s0_3,"black"
 flush 2
-set_window_simple 80
+set_window_simple 160
 msgwnd_bea
 *d31752
 d [lv 0*"27"*"90700551"]`…………でも、`[|][lv 0*"27"*"90700552"]`………駄目なんだよなァ…。`[@]`{n}`[|][lv 0*"27"*"90700553"]`………あれじゃ、`[|][lv 0*"27"*"90700554"]`…本当の勝ちじゃないんだよなぁ………。`[\]
@@ -4198,7 +4198,7 @@ aspt2 alpha,s0_21,150
 lips_sprite s0_8_b
 lips_sprite s0_10_b
 flush 22
-set_window_simple 80
+set_window_simple 160
 msgwnd_bea
 *d31774
 d [lv 0*"27"*"90700586_1"]`それが知りたくば、……そなたの十八番でも試せば良い……。`[\]
@@ -4294,7 +4294,7 @@ csp_slot s0_8
 csp_slot s0_10
 lbg s0_3,"black"
 flush 22
-set_window_simple 80
+set_window_simple 160
 msgwnd_bea
 *d31787
 d [lv 0*"27"*"90700596"]`狼と羊のパズルどころか、`[|][lv 0*"27"*"90700597"]`………これじゃア、狼少年だなぁ……………。`[\]
@@ -4323,7 +4323,7 @@ textoff
 waits 167
 lbg s0_3,"different_spiral_1a"
 flush 8
-set_window_simple 80
+set_window_simple 160
 msgwnd_bea
 *d31795
 d [lv 0*"27"*"90700611"]`勝ちはなく、引き分け終了もない。`[\]
@@ -7293,7 +7293,7 @@ csp_slot s0_12
 lbg s0_3,"black"
 flush 2
 waittimer 7950
-set_window_simple 80
+set_window_simple 160
 msgwnd_bea
 *d32039
 d2 `{a:c:`[lv 0*"27"*"90700849"][ak][text_speed_t 5]`「……私は、`[*][|][lv 0*"27"*"90700850"]`……だぁれ………？」`[*]`}`[\]

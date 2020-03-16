@@ -943,13 +943,13 @@
 `"......Behold the sweetfish river, running through my beloved home of old.`
 ` You who seek the Golden Land, follow its path downstream in search of the key..."`
 `That which is written on the epitaph of the portrait of my beloved witch {f:5:Beatrice} is as follows:`
-`{e:070:Behold the sweetfish river, running through my beloved home of old.`
+`{e:090:Behold the sweetfish river, running through my beloved home of old.`
 `{n}You who seek the Golden Land, follow its path downstream in search of the key.`
 `{n}{n}As you travel down it, you will see a village.`
 `{n}In that village, look for the shore the two speak of.`
 `{n}There the key to the Golden Land sleeps.`
 `{n}{n}You who laid hand upon the key must journey as follows to the Golden Land.}`
-`{e:070:On the first twilight, sacrifice the six chosen by the key.`
+`{e:090:On the first twilight, sacrifice the six chosen by the key.`
 `{n}On the second twilight, those who remain shall tear apart the two who are close.`
 `{n}On the third twilight, those who remain shall praise my noble name.`
 `{n}On the fourth twilight, gouge the head and kill.`
@@ -959,7 +959,7 @@
 `{n}On the eighth twilight, gouge the leg and kill.`
 `{n}On the ninth twilight, the witch revives, and none shall be left alive.`
 `{n}On the tenth twilight, the journey ends, and you shall reach the Home of the Gold.}`
-`{e:070:The witch shall praise the wise, and bestow four treasures.`
+`{e:090:The witch shall praise the wise, and bestow four treasures.`
 `{n}{n}One shall be all of the Golden Land's gold.`
 `{n}One resurrects all the dead people's souls.`
 `{n}One even revives all the love they possessed.`

@@ -280,7 +280,7 @@ waits 167
 csp_slot s0_8
 lbg s0_3,"black"
 flush 22
-set_window_simple 80
+set_window_simple 160
 msgwnd_ber
 *d42285
 d `{a:c:`[lv 0*"28"*"62100012"]`「ねぇ、……{i:聞いてる}？`[@][lv 0*"28"*"62100013"]`　あんたたち？」}`[\]
@@ -454,7 +454,7 @@ waits 167
 csp_slot s0_9
 lbg s0_3,"black"
 flush 1
-set_window_simple 80
+set_window_simple 160
 msgwnd_but
 *d42307
 d [lv 0*"10"*"60100004"]`「………く……ぅ………。`[@][lv 0*"10"*"60100005"]`……出られ……ない……」`[\]

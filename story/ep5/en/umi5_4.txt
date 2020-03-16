@@ -266,7 +266,7 @@
 ` Why not relax with some black tea for now...?`
 ` Come, Kanon‐san.`
 ` Quickly, quickly, serve it, serve it."`
-`"{e:070:...Why do {i:I} have to...}{e:100:"}`
+`"{e:080:...Why do {i:I} have to...}{e:100:"}`
 `Kanon knew that this tea was just Gohda's way of earning points,`
 ` so he lined the cups up with a slightly sullen air.`
 `"Uu.`

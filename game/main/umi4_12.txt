@@ -633,7 +633,7 @@ rumble 63,500
 gptwait quakeyamp
 *d26382
 d `そうしたいといつも思ってたけど、したらもっと怒られると思って、ずっとずっと我慢してきた。`[\]
-set_window_simple 80
+set_window_simple 160
 *d26383
 d `{a:c:`[text_fade_t 1667]`我慢してきたからコンナニ立派ナ大人ニナレタノニっ！！！}`[\]
 set_name_window_non
@@ -1116,7 +1116,7 @@ waits 167
 lbg s0_3,"sakutaro2bb"
 color_mod2 s0_3,#ffffff
 flush 22
-set_window_simple 80
+set_window_simple 160
 *d26445
 d [lv 0*"13"*"40401121"]`でもね、……さくたろがそうじゃないって真里亞を叱ってくれたの。`[\]
 *d26446
@@ -1579,7 +1579,7 @@ waits 167
 csp_slot s0_8
 lbg s0_3,"black"
 flush 1
-set_window_simple 80
+set_window_simple 160
 msgwnd_mar
 *d26515
 d2 [lv 0*"13"*"40401140"]`「うがあああああぁあおおおおっぉおおおおおッ！！！」`[#][*][\]
@@ -1667,7 +1667,7 @@ textoff
 waits 167
 lbg s0_3,"black"
 flush 1
-set_window_simple 80
+set_window_simple 160
 msgwnd_mar
 *d26528
 d [lv 0*"13"*"40401148"]`「うわああああああああああぁああああああああああ…！！！」`[\]
@@ -2384,7 +2384,7 @@ csp_slot s0_10
 csp_slot s0_1
 lbg s0_3,"black"
 flush 22
-set_window_simple 80
+set_window_simple 160
 msgwnd_mar
 *d26625
 d `{a:c:`[lv 0*"13"*"40401231"]`きひひひひひひひひひひひひひ。}`[\]

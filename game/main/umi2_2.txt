@@ -1696,7 +1696,7 @@ flush 22
 msgwnd_sha
 *d8187
 d [lv 0*"15"*"20500385"]`「きっと、嘉音くんにも真っ青な海が見えるよ。`[@][lv 0*"15"*"20500386"]`だって、」`[\]
-set_window_simple 80
+set_window_simple 160
 msgwnd_non
 *d8188
 d `{a:c:愛がなければ、視えない。}`[\]

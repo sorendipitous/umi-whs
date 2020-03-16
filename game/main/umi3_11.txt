@@ -110,7 +110,7 @@ waits 167
 lbg s0_3,"black"
 flush 22
 seplay 1,67,100
-set_window_simple 80
+set_window_simple 160
 *d17888
 d `“{p:1:第十の晩に、旅は終わり、黄金の郷に至るだろう}”`[\]
 set_name_window_non
@@ -1219,7 +1219,7 @@ waits 167
 csp_slot s0_9
 lbg s0_3,"black"
 flush 46
-set_window_simple 80
+set_window_simple 160
 msgwnd_bea
 *d18066
 d [lv 0*"27"*"30701370"]`「……うむ。`[@][lv 0*"27"*"30701371"]`妾がそれを認めようぞ。`[@][lv 0*"27"*"30701372"]`そなたこそ、魔女の碑文に選ばれし、正当なる右代宮家の当主よ。`[@][lv 0*"27"*"30701373"]`今こそそれを、我が名において認めようぞ」`[\]

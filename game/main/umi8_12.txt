@@ -1305,7 +1305,7 @@ textoff
 waits 167
 lbg s0_22,"black"
 flush 80
-set_window_simple 80
+set_window_simple 160
 msgwnd_non
 *d62360
 d [lv 1*"10"*"80101173"][lv 0*"46"*"84500096"]`「「わっははははははっはっはっはっは！！」」`[\]
@@ -2407,7 +2407,7 @@ textoff
 waits 167
 lbg s0_3,"black"
 flush 22
-set_window_simple 80
+set_window_simple 160
 msgwnd_but
 *d62463
 d [lv 0*"10"*"80101184"]`「生きろッ、縁寿ぇええええええええぇええええぇええええッ！！！」`[\]
@@ -2618,7 +2618,7 @@ waits 167
 csp_slot s0_9
 lbg s0_3,"black"
 flush 22
-set_window_simple 80
+set_window_simple 160
 msgwnd_but
 *d62482
 d [lv 0*"10"*"80101188"]`「……待ちな。`[@][lv 0*"10"*"80101189"]`俺たちの決着は、まだついてねぇぜ」`[\]
@@ -3730,7 +3730,7 @@ textoff
 waits 167
 lbg s0_3,"mhal_2d"
 flush 22
-set_window_simple 80
+set_window_simple 160
 msgwnd_lam
 *d62583
 d [lv 0*"29"*"82200176"]`「私が助けたってより、ベルンがあんたたちを殺し損ねたって感じね。`[@][lv 0*"29"*"82200177"]`あるいは、あの子の気紛れかもしれない。`[@][lv 0*"29"*"82200178"]`奇跡の魔女の、奇跡的な気紛れってわけね。`[@][lv 0*"29"*"82200179"]`くすくすくす……」`[\]

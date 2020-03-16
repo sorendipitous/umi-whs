@@ -1676,7 +1676,7 @@ numalias config_main_lsp2,%0 : inc %0
 ;8061 - animated rain
 
 if %init_done = 1 jumpf 
-	mov %bgm_vol,100 
+	mov %bgm_vol,70 
 	mov %sfx_vol,100
 	mov %dlg_vol,100 
 	mov %textspeed,5
@@ -1696,7 +1696,7 @@ if %init_done = 1 jumpf
 
 	mov %op_ed_song_subtitles,2
 	mov %rumble_strength,50
-	mov %bgm_chapter_display,1
+	mov %bgm_chapter_display,0
 	mov %sskip_turbo,0
 
 	for %Free1 = flag_scenario_1_op to flag_scenario_8_ura
@@ -14730,13 +14730,20 @@ goto *boot_logo_skip_100
 	mov %Free1,off
 	mov %anim_mode,off
 
-	if %UMINEKOEND > 0 mov %Free1,on
-	if $flag_scenario_1_op == "●" mov %Free1,on
-	if %title_skip > 0 mov %Free1,off
-	if %Free1 != on goto *boot_logo_no_video
+	if %title_skip > 0 goto *boot_logo_no_video
 
-	if %CHIRU_MODE == 0 mov $Free1,"op"
-	if %CHIRU_MODE == 1 mov $Free1,"op4"
+	if %CHIRU_MODE != 0 jumpf
+		if %UMINEKOEND > 0 || $flag_scenario_1_op == "●" mov %Free1,"op1"
+		if $flag_scenario_4_op == "●" mov %Free1,"op2"
+		if %UMINEKOEND >= 50 mov %Free1,"op"
+	~
+	if %CHIRU_MODE != 1 jumpf
+		if %UMINEKOEND >= 60 || $flag_scenario_5_op == "●" mov %Free1,"op56"
+		if %UMINEKOEND >= 80 || $flag_scenario_7_op == "●" mov %Free1,"op78"
+		if %UMINEKOEND >= 90 mov %Free1,"op4"
+	~
+	
+	if %Free1 == off goto *boot_logo_no_video
 
 	pam 100,$Free1,1
 	mov %Free1,off
@@ -15174,8 +15181,13 @@ if %CHIRU_MODE = 1 gosub *verify_chiru
 	if %CHIRU_MODE = 1 && %BtnRes = t_btn_omake_lsp mov %scenario_Number,5 mov %omake,1 : goto *umi_start
 	if %BtnRes = t_btn_omake_end_lsp gosub *omake_sub_menu_end
 	; Show the op only after ep1 prologue
+	if %CHIRU_MODE == 1 jumpf
 	if %BtnRes = -5 && %UMINEKOEND > 0 goto *show_opening
 	if %BtnRes = -5 && $flag_scenario_1_op == "●" goto *show_opening
+	goto *b_title_button_loop
+	~
+	if %BtnRes = -5 && %UMINEKOEND >= 60 goto *show_opening
+	if %BtnRes = -5 && $flag_scenario_5_op == "●" goto *show_opening
 	goto *b_title_button_loop
 
 *switch_game
@@ -15197,26 +15209,51 @@ if %CHIRU_MODE = 1 gosub *verify_chiru
 	definereset
 
 *show_opening
-	if %CHIRU_MODE == 0 mov $Free1,"op" : goto *show_opening_do
+	if %CHIRU_MODE == 1 goto *show_opening_chiru
 	
 	;OP level
-	mov %Free1,0
-	if %UMINEKOEND > 50           mov %Free1,1 ;56
-	if $flag_scenario_5_op == "●" mov %Free1,1 ;56
-	if %UMINEKOEND >= 70          mov %Free1,2 ;78
+	mov %Free1,0                               ;1
+	if $flag_scenario_4_op == "●" mov %Free1,1 ;14
+	if %UMINEKOEND >= 50          mov %Free1,2 ;14Rondo
 
 	if %Free1 != 0 jumpf
-		mov $Free1,"op4"
+		mov $Free1,"op1"
 	~
 	if %Free1 != 1 jumpf
-		if %current_op == 0 mov $Free1,"op56"
-		if %current_op == 1 mov $Free1,"op4"
+		if %current_op == 0 mov $Free1,"op2"
+		if %current_op == 1 mov $Free1,"op1"
 		inc %current_op
 		if %current_op = 2 mov %current_op,0
 	~
 	if %Free1 != 2 jumpf
+		if %current_op == 0 mov $Free1,"op"
+		if %current_op == 1 mov $Free1,"op2"
+		if %current_op == 2 mov $Free1,"op1"
+		inc %current_op
+		if %current_op = 3 mov %current_op,0
+	~
+	goto *show_opening_do
+	
+*show_opening_chiru
+	
+	;OP level
+	mov %Free1,0                               ;5
+	if $flag_scenario_7_op == "●" mov %Free1,1 ;57
+	if %UMINEKOEND >= 80          mov %Free1,1 ;57
+	if %UMINEKOEND >= 90          mov %Free1,2 ;57Nocturne
+
+	if %Free1 != 0 jumpf
+		mov $Free1,"op56"
+	~
+	if %Free1 != 1 jumpf
 		if %current_op == 0 mov $Free1,"op78"
-		if %current_op == 1 mov $Free1,"op4"
+		if %current_op == 1 mov $Free1,"op56"
+		inc %current_op
+		if %current_op = 2 mov %current_op,0
+	~
+	if %Free1 != 2 jumpf
+		if %current_op == 0 mov $Free1,"op4"
+		if %current_op == 1 mov $Free1,"op78"
 		if %current_op == 2 mov $Free1,"op56"
 		inc %current_op
 		if %current_op = 3 mov %current_op,0
@@ -19627,7 +19664,7 @@ return
 	flush 7
 
 	lsp2 s0_29,cinema_logo_2,500,-50,100,100,0
-	set_hotspot s0_29,"480","320"
+	set_hotspot s0_29,"480","280"
 	flush 18,3333,msk_down
 
 	wait 1500
@@ -19641,7 +19678,7 @@ return
 
 	csp -10
     lsp2 s0_29,cinema_logo_2,500,-50,100,100,0
-    set_hotspot s0_29,"480","320"
+    set_hotspot s0_29,"480","280"
 
 	skip_on
 return
@@ -19667,7 +19704,7 @@ return
     wait 1000
 
 	lsp2 s0_29,cinema_logo_2,500,-50,100,100,0
-	set_hotspot s0_29,"480","320"
+	set_hotspot s0_29,"480","280"
 	flush 18,3333,msk_down
 
 	wait 1000
@@ -19677,7 +19714,7 @@ return
 
 	csp -10
 	lsp2 s0_29,cinema_logo_2,500,-50,100,100,0
-    set_hotspot s0_29,"480","320"
+    set_hotspot s0_29,"480","280"
 
 	skip_on
 return
@@ -23258,10 +23295,19 @@ gosub *pam_audio
 
 ;video
 mov $anim_sprite,"video"
-if %legacy_op = 1 && $anim_file = "op" mov $anim_sprite,"legacy"
-if $anim_file = "op_new" mov $anim_file,"op"
-if %video_res = 1 mov $anim_file,$anim_sprite+"\720p\"+$anim_file+".mp4"
-if %video_res = 0 mov $anim_file,$anim_sprite+"\1080p\"+$anim_file+".mp4"
+
+if $anim_file = "op1" || $anim_file = "op2" jumpf
+	if $anim_file = "op_new" mov $anim_file,"op"
+	if %video_res = 1 mov $anim_file,$anim_sprite+"\720p\"+$anim_file+".mp4"
+	if %video_res = 0 mov $anim_file,$anim_sprite+"\1080p\"+$anim_file+".mp4"
+~
+
+if $anim_file != "op1" && $anim_file != "op2" jumpf
+	mov $anim_sprite,"legacy"
+	if $anim_file = "op2" mov $anim_file,"op"
+	if %video_res = 1 mov $anim_file,$anim_sprite+"\720p\"+$anim_file+".mp4"
+	if %video_res = 0 mov $anim_file,$anim_sprite+"\1080p\"+$anim_file+".mp4"
+~
 
 fileexist %track_id,$anim_file
 if %track_id == 0 return ;do not play missing videos
@@ -23300,6 +23346,16 @@ if $anim_file != "op" jumpf
 	if %legacy_op == off dwaveload 9,"sound\bgm\op.ogg" 
 	if %legacy_op == on  dwaveload 9,"legacy\bgm\op.ogg" 
 	mov %track_id,1012 : goto *pam_audio_ok
+~
+
+if $anim_file != "op1" jumpf
+	dwaveload 9,"legacy\bgm\op1.ogg" 
+	mov %track_id,1001 : goto *pam_audio_ok
+~
+
+if $anim_file != "op2" jumpf
+	dwaveload 9,"legacy\bgm\op.ogg" 
+	mov %track_id,1002 : goto *pam_audio_ok
 ~
 
 if $anim_file != "op4" jumpf
@@ -24587,6 +24643,8 @@ if %BGM_Id == 1010	mov $BGM_Play,"sound\bgm\bgm_final.ogg" : gosub *bgm_title_la
 if %BGM_Id == 1013  mov $BGM_Play,"sound\bgm\bgm_final_chiru.ogg" : gosub *bgm_title_language : return
 ;Extra
 if %BGM_Id == 94	mov $BGM_Play,"sound\bgm\umib_094.ogg" : gosub *bgm_title_language : return
+if %BGM_Id == 1001  mov $BGM_Play,"legacy\bgm\op1.ogg" : gosub *bgm_title_language : return
+if %BGM_Id == 1002  mov $BGM_Play,"legacy\bgm\op.ogg" : gosub *bgm_title_language : return
 if %BGM_Id == 1011	mov $BGM_Play,"sound\bgm\system0.ogg" : gosub *bgm_title_language : return
 if %legacy_op == off && %BGM_Id == 1012	mov $BGM_Play,"sound\bgm\op.ogg" : gosub *bgm_title_language : return
 if %legacy_op == on  && %BGM_Id == 1012 mov $BGM_Play,"legacy\bgm\op.ogg" : gosub *bgm_title_language : return
@@ -24795,12 +24853,14 @@ if %BGM_Id == 193 	mov $BGM_Title,"Flying" : return
 if %BGM_Id == 194 	mov $BGM_Title,"lastendconductor" : return
 if %BGM_Id == 195 	mov $BGM_Title,"Revelations" : return
 if %BGM_Id == 240 	mov $BGM_Title,"Cocoon of White Dreams -Ricordando il passato-" : return
-if %BGM_Id == 241 	mov $BGM_Title,"When the Seagulls Cry" : return
+if %BGM_Id == 241 	mov $BGM_Title,"When the Seagulls Cry (ED)" : return
 if %BGM_Id == 1000	mov $BGM_Title,"SuiSui☆SWEETS(^-^)" : return
 if %BGM_Id == 1010	mov $BGM_Title,"Bring The Fate" : return
 if %BGM_Id == 1013  mov $BGM_Title,"Bring The Fate(Ver chiru)" : return
 ;Extra
 if %BGM_Id == 94	mov $BGM_Title,"Tsurupettan" : return
+if %BGM_Id == 1001	mov $BGM_Title,"When the Seagulls Cry" : return
+if %BGM_Id == 1002	mov $BGM_Title,"When the Seagulls Cry (EP4)" : return
 if %BGM_Id == 1011	mov $BGM_Title,"system0(Original Version)" : return
 if %legacy_op == off && %BGM_Id == 1012	mov $BGM_Title,"Igreja of Echoing Vows" : return
 if %legacy_op == on  && %BGM_Id == 1012	mov $BGM_Title,"When the Seagulls Cry" : return
@@ -25002,12 +25062,14 @@ if %BGM_Id == 193 	mov $BGM_Title,"В полёте" : return
 if %BGM_Id == 194 	mov $BGM_Title,"Дирижёр окончательного конца" : return
 if %BGM_Id == 195 	mov $BGM_Title,"Откровение" : return
 if %BGM_Id == 240 	mov $BGM_Title,"Кокон чистых снов -Ricordando il passato-" : return
-if %BGM_Id == 241 	mov $BGM_Title,"Когда плачут чайки" : return
+if %BGM_Id == 241 	mov $BGM_Title,"Когда плачут чайки (ED)" : return
 if %BGM_Id == 1000	mov $BGM_Title,"SuiSui☆SWEETS(^-^)" : return
 if %BGM_Id == 1010	mov $BGM_Title,"Предъявите судьбу" : return
 if %BGM_Id == 1013  mov $BGM_Title,"Предъявите судьбу (вер. chiru)" : return
 ;Extra
 if %BGM_Id == 94	mov $BGM_Title,"tsurupettan (Плоскодонка)" : return
+if %BGM_Id == 1001	mov $BGM_Title,"Когда плачут чайки" : return
+if %BGM_Id == 1002	mov $BGM_Title,"Когда плачут чайки (EP4)" : return
 if %BGM_Id == 1011	mov $BGM_Title,"system0 (оригинальная версия)" : return
 if %legacy_op == off && %BGM_Id == 1012	mov $BGM_Title,"Senkyou no Igreja" : return
 if %legacy_op == on  && %BGM_Id == 1012	mov $BGM_Title,"Когда плачут чайки" : return
@@ -25209,12 +25271,14 @@ if %BGM_Id == 193 	mov $BGM_Title,"飛翔" : return
 if %BGM_Id == 194 	mov $BGM_Title,"lastendconductor" : return
 if %BGM_Id == 195 	mov $BGM_Title,"Revelations" : return
 if %BGM_Id == 240 	mov $BGM_Title,"白夢の繭 -Ricordando il passato-" : return
-if %BGM_Id == 241 	mov $BGM_Title,"うみねこのなく頃に" : return
+if %BGM_Id == 241 	mov $BGM_Title,"うみねこのなく頃に (ED)" : return
 if %BGM_Id == 1000	mov $BGM_Title,"SuiSui☆SWEETS(^-^)" : return
 if %BGM_Id == 1010	mov $BGM_Title,"Bring The Fate" : return
 if %BGM_Id == 1013  mov $BGM_Title,"Bring The Fate(Ver chiru)" : return
 ;Extra
 if %BGM_Id == 94	mov $BGM_Title,"つるぺったん" : return
+if %BGM_Id == 1001	mov $BGM_Title,"うみねこのなく頃に" : return
+if %BGM_Id == 1002	mov $BGM_Title,"うみねこのなく頃に (EP4)" : return
 if %BGM_Id == 1011	mov $BGM_Title,"システム零 (Original Version)" : return
 if %legacy_op == off && %BGM_Id == 1012	mov $BGM_Title,"誓響のイグレージャ" : return
 if %legacy_op == on  && %BGM_Id == 1012	mov $BGM_Title,"うみねこのなく頃に" : return
@@ -25416,12 +25480,14 @@ if %BGM_Id == 193 	mov $BGM_Title,"Hishou" : return
 if %BGM_Id == 194 	mov $BGM_Title,"lastendconductor" : return
 if %BGM_Id == 195 	mov $BGM_Title,"Revelations" : return
 if %BGM_Id == 240 	mov $BGM_Title,"Byakumu no Mayu -Ricordando il passato-" : return
-if %BGM_Id == 241 	mov $BGM_Title,"Umineko no Naku Koro ni" : return
+if %BGM_Id == 241 	mov $BGM_Title,"Umineko no Naku Koro ni (ED)" : return
 if %BGM_Id == 1000	mov $BGM_Title,"SuiSui☆SWEETS(^-^)" : return
 if %BGM_Id == 1010	mov $BGM_Title,"Bring The Fate" : return
 if %BGM_Id == 1013  mov $BGM_Title,"Bring The Fate(Ver chiru)" : return
 ;Extra
 if %BGM_Id == 94	mov $BGM_Title,"Tsurupettan" : return
+if %BGM_Id == 1001	mov $BGM_Title,"Umineko no Naku Koro ni" : return
+if %BGM_Id == 1002	mov $BGM_Title,"Umineko no Naku Koro ni (EP4)" : return
 if %BGM_Id == 1011	mov $BGM_Title,"system0 (Original Version)" : return
 if %legacy_op == off && %BGM_Id == 1012	mov $BGM_Title,"Senkyou no Igreja" : return
 if %legacy_op == on  && %BGM_Id == 1012	mov $BGM_Title,"Umineko no Naku Koro ni" : return
@@ -25920,6 +25986,7 @@ return
 	mov ?bgm_list[105],1
 	mov ?bgm_list[106],1
 	mov ?bgm_list[107],1
+	mov ?bgm_list[1012],1
 
 *load_bgms_3
 	;ura
@@ -26023,7 +26090,7 @@ return
 	mov ?bgm_list[38],1
 	mov ?bgm_list[39],1
 	mov ?bgm_list[1010],1
-	mov ?bgm_list[1012],1
+	mov ?bgm_list[1001],1
 
 return
 
@@ -30961,6 +31028,8 @@ mov %BGM_Id, 1000 : gosub *bgm_gen_box
 mov %BGM_Id, 1010 : gosub *bgm_gen_box
 mov %BGM_Id, 1011 : gosub *bgm_gen_box
 mov %BGM_Id, 1012 : gosub *bgm_gen_box
+mov %BGM_Id, 1001 : gosub *bgm_gen_box
+mov %BGM_Id, 1002 : gosub *bgm_gen_box
 
 if %CHIRU_MODE != 1 jumpf
 	for %BGM_Id = 111 to 195
@@ -31042,7 +31111,7 @@ return
 	if $Free2 == "" return
 	if %Free3 != -1 && %Free3 == %Free2 return
 	
-	if $Free2 == "sound\bgm\op.ogg" || $Free2 == "legacy\bgm\op.ogg" jumpf
+	if $Free2 == "sound\bgm\op.ogg" || $Free2 == "legacy\bgm\op.ogg" || $Free2 == "legacy\bgm\op1.ogg" jumpf
 	if $Free2 == "sound\bgm\tiruop.ogg" || $Free2 == "sound\bgm\ep5_op.ogg" || $Free2 == "sound\bgm\ep7_op.ogg" jumpf
 		; Set the background
 		if %Free3 != -1 tree_set 2,%Free3,"bg","318"
@@ -31059,7 +31128,9 @@ return
 	scrollable_cfg mousectrl,320,0
 	stop
 	loopbgmstop
-	if $Free2 == "sound\bgm\op.ogg" || $Free2 == "legacy\bgm\op.ogg" pam 100,"op",1
+	if $Free2 == "sound\bgm\op.ogg" pam 100,"op",1
+	if $Free2 == "legacy\bgm\op.ogg" pam 100,"op2",1
+	if $Free2 == "legacy\bgm\op1.ogg" pam 100,"op1",1
 	if $Free2 == "sound\bgm\tiruop.ogg" pam 100,"op4",1
 	if $Free2 == "sound\bgm\ep5_op.ogg" pam 100,"op56",1
 	if $Free2 == "sound\bgm\ep7_op.ogg" pam 100,"op78",1
@@ -32279,9 +32350,9 @@ return
 	if %msgwnd_type = 2 setwindowd msgwnd3
 	if %msgwnd_type = 3 setwindowd msgwnd4
 
-	setwindowd_dimensions 167,725,1586,306
-	setwindowd_padding -20,87,-41,87
-	setwindowd_name_padding 25,100,-60,87
+	setwindowd_dimensions 167,736,1586,295
+	setwindowd_padding -9,87,-41,87
+	setwindowd_name_padding 31,100,-60,87
 	setwindowd_main_region 240,14,1408,274,77
 	setwindowd_non_region 0,235,112,38,60
 	setwindowd_name_region 0,11,224,118,60,170,170,74
@@ -32291,7 +32362,7 @@ return
 	getparam %setwindow_x,%setwindow_y
 
 	;if we passed no params we will use the default ones (0,0 is just senseless)
-	if %setwindow_x = 0 mov %setwindow_x,80
+	if %setwindow_x = 0 mov %setwindow_x,160
 	if %setwindow_y = 0 mov %setwindow_y,320
 	gosub *set_window_simple_update
 	mov %log_sw_x,%setwindow_x

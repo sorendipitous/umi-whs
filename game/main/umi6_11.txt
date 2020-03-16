@@ -103,7 +103,7 @@ msgwnd_non
 d `１億近くのカネを、何とか３月までに用意しなくてはならない。`[\]
 *d46157
 d `それが、“あの人”の仕事を応援するために背負った、私の精一杯の気持ちのはずだった。`[\]
-set_window_simple 80
+set_window_simple 160
 lips_sprite s0_10_b
 msgwnd_ros
 *d46158
@@ -448,7 +448,7 @@ aspt2 xpos,s0_10,370
 color_mod2 s0_10,#ffffff
 flush 22
 lips_sprite s0_10_b
-set_window_simple 80
+set_window_simple 160
 *d46213
 d [lv 0*"12"*"61400071"]`……あの頃の私は、互いの途方もない夢を認め合うのが恋人同士だ、みたいな考えだった。`[\]
 *d46214
@@ -2305,7 +2305,7 @@ waits 167
 lbg s0_3,"black"
 flush 22
 vol_bgm -1,1000
-set_window_simple 80
+set_window_simple 160
 *d46356
 d [lv 0*"27"*"60700622"]`「その夫への愛ゆえに、`[@][lv 0*"27"*"60700623"]`……見知らぬ赤子を抱かされるのが、許されなかったのですね」`[\]
 set_name_window_non

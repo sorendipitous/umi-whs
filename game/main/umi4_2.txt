@@ -2487,7 +2487,7 @@ lbg s0_3,"black"
 flush 1
 vol_mix_fade 1000
 wait 1000
-set_window_simple 80
+set_window_simple 160
 msgwnd_enj
 *d22335
 d [lv 0*"11"*"42000226"]`「…………真里亞、…お姉ちゃん………っ！」`[\]

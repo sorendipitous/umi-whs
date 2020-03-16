@@ -2704,7 +2704,7 @@ textoff
 waits 167
 lbg s0_3,"book1"
 flush 2
-set_window_simple 80
+set_window_simple 160
 *d56495
 d `{a:c:１１月２９日。`[@]`{n}私は本当の魔女に、なりました。}`[\]
 set_name_window_non
@@ -2716,7 +2716,7 @@ textoff
 waits 167
 lss s0_9,"cur","a11_hoshin1star" ;1
 flush 42
-set_window_simple 80
+set_window_simple 160
 lips_sprite s0_9_b
 msgwnd_cur
 *d56496

@@ -14,7 +14,7 @@ lss s0_9,"nat","a12_warai2" ;1
 color_mod2 s0_9,#ffffff
 flush 8
 seplay 1,1010,50
-set_window_simple 80
+set_window_simple 160
 *d42147
 d `{e:070:望まぬ結婚を強いられた夏妃は、`[@]`右代宮家に対し恨みを抱き、復讐心を膨らませていきました。`[@]`{n}（※裁判概要書：３ページより）}`[\]
 seplay 2,1010,50
@@ -344,7 +344,7 @@ textoff
 waits 167
 csp_slot s0_22
 flush 42
-set_window_simple 80
+set_window_simple 160,240
 *d42172
 d `{e:070:大法院公示第０１７２４４３４号`[@]`{n}幻想裁判第０１４７－００７９８２号（１９８６年１０月５日２４時）により、以下が確定したことを公示する。`[@]`{n}右代宮夏妃が、犯行を認めたこと。`[@]`{n}関係書類は本公示行為から１３ヶ月間、大法院法務部文書管理課第一係にて、縦覧に供する。`[@]`{n}　　　　　　　　　　　　　　　　　　　　　大法院長官職務代理者`[@]`{n}　　　　　　　　　　　　　　　　　　　　　主席異端審問官`[@]`{n}　　　　　　　　　　　　　　　　　　　　　　　　ドラノール・Ａ・ノックス}`[\]
 set_name_window_non
@@ -578,7 +578,7 @@ waits 167
 lbg s0_3,"forest_p1af"
 color_mod2 s0_3,#ffffff
 flush 2
-set_window_simple 80
+set_window_simple 160
 msgwnd_nat
 *d42206
 d [lv 0*"03"*"50901113"]`そして私は、……心を、………悪魔に売り渡したのです…。`[\]
@@ -692,7 +692,7 @@ csp_slot s0_9
 csp_slot s0_1
 lbg s0_3,"black"
 flush 22
-set_window_simple 80
+set_window_simple 160
 *d42227
 d [lv 0*"03"*"50901157"]`きっと私は、ここから赤ん坊が落ちればいいのにと願いすぎて、`[@][lv 0*"03"*"50901158"]`白昼夢を見てしまったに違いない…。`[\]
 *d42228
@@ -747,7 +747,7 @@ csp_slot s0_9
 csp_slot s0_1
 lbg s0_3,"black"
 flush 22
-set_window_simple 80
+set_window_simple 160
 *d42239
 d [lv 0*"03"*"50901180"]`……でも、`[|][lv 0*"03"*"50901181"]`……あなたは死んでいなかったのですね……。`[\]
 *d42240
@@ -839,7 +839,7 @@ textoff
 waits 167
 lbg s0_22,"black"
 flush 1
-set_window_simple 80
+set_window_simple 160
 msgwnd_but
 *d42251
 d `{a:c:`[lv 0*"10"*"50101247"][text_fade_t 1667]`「……駄目だな」}`[\]
@@ -876,7 +876,7 @@ lbg s0_3,"m1f_s1cr"
 flush 2
 vol_mix_fade 1000
 wait 1000
-set_window_simple 80
+set_window_simple 160
 msgwnd_but
 *d42254
 d `{a:c:`[lv 0*"10"*"50101248"]`「全然駄目だぜ」}`[\]
@@ -897,7 +897,7 @@ csp_slot s0_8
 csp_slot s0_1
 lbg s0_3,"black"
 flush 2
-set_window_simple 80
+set_window_simple 160
 msgwnd_but
 *d42256
 d2 [lv 0*"10"*"50101249"][ak][text_speed_t 5]`「………あぁ。`[#][*][|][lv 0*"10"*"50101250"]`……駄目だな。`[#][*][|][lv 0*"10"*"50101251"]`全然駄目だぜ……」`[#][*][\]

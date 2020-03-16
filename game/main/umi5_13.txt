@@ -1568,7 +1568,7 @@ flush 2
 msgwnd_nat
 *d40622
 d [lv 0*"03"*"50900904"]`「……あのカードで私を驚かし、うまく手綱を取れたつもりだったのでしょうが、`[@][lv 0*"03"*"50900905"]`……むしろ墓穴を掘ったようですね」`[\]
-set_window_simple 80
+set_window_simple 160
 msgwnd_non
 *d40623
 d2 `{a:c:`[#][*]`{p:1:紗音にしか、秋が好きだと語ったことはない。}}`[\]
@@ -3025,7 +3025,7 @@ flush 1
 vol_mix_fade 1000
 vol_bgm -1,1000
 wait 1000
-set_window_simple 80
+set_window_simple 160
 msgwnd_eri
 *d40854
 d `{a:c:`[lv 0*"46"*"54500804"]`「夏妃さん」}`[\]
@@ -3757,7 +3757,7 @@ waitvideo
 lbg s0_5,"no83_0051"
 flush 1
 wait 2000
-set_window_simple 80
+set_window_simple 160
 msgwnd_non
 *d40963
 d `ベアトリーチェ。`[@]`{n}あなたは、死ぬべき時を迎えたのです。`[\]

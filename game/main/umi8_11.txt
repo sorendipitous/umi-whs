@@ -5749,7 +5749,7 @@ wait 1000
 wait 1000
 vol_me 1,-1,1000
 seplay 1,75,71
-set_window_simple 80
+set_window_simple 160
 msgwnd_non
 *d61959
 d `{a:c:挑まれてるのは、お前らなんだぜ。}`[\]
@@ -7064,7 +7064,7 @@ rumble 63,500
 gptwait quakeyamp
 *d62065
 d `砲丸のような拳の塊が打ち下ろされる光景が、……ウィルが瞼を閉じる直前に見た、最後の光景となった。`[\]
-set_window_simple 80
+set_window_simple 160
 *d62066
 d `{a:c:`[lv 0*"10"*"80101089"]`「“思考停止”は、」}`[\]
 set_name_window_non
@@ -8248,7 +8248,7 @@ textoff
 waits 167
 lbg s0_22,"black"
 flush 22
-set_window_simple 80
+set_window_simple 160
 msgwnd_non
 *d62165
 d [lv 0*"46"*"84500051"]`「………退屈ではありませんでした。`[@][lv 0*"46"*"84500052"]`……だって、信じてましたから」`[\]
@@ -8308,7 +8308,7 @@ textoff
 waits 167
 lbg s0_22,"black"
 flush 22
-set_window_simple 80
+set_window_simple 160
 *d62170
 d [lv 0*"46"*"84500053"]`「あの暗い深遠は。`[@][lv 0*"46"*"84500054"]`……次にあなたに再会できたなら、どんなミステリーで戦ってやろうかと思案するには、実に丁度いい場所でした」`[\]
 set_name_window_non
@@ -8316,7 +8316,7 @@ msgwnd_but
 *d62171
 d [lv 0*"10"*"80101127"]`「この水晶の檻は、俺たちの決闘のリングってわけか。`[@][lv 0*"10"*"80101128"]`逃げ場なしのチェーンデスマッチってわけだ」`[\]
 seplay 1,21,71
-set_window_simple 80
+set_window_simple 160
 msgwnd_non
 *d62172
 d [lv 0*"46"*"84500055"]`「……思えば私たち。`[@][lv 0*"46"*"84500056"]`いっつもチェーンの密室を巡って、戦ってましたね」`[\]
@@ -8324,7 +8324,7 @@ set_name_window_non
 msgwnd_but
 *d62173
 d [lv 0*"10"*"80101129"]`「なら、そうするか。`[@][lv 0*"10"*"80101130"]`まさにチェーンデスマッチってわけだ」`[\]
-set_window_simple 80
+set_window_simple 160
 msgwnd_non
 *d62174
 d [lv 0*"46"*"84500057"]`「私に準備はありますが、あなたはどうです？」`[\]

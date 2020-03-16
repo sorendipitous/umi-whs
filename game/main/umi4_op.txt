@@ -603,7 +603,7 @@ wait 1000
 textoff
 waits 167
 skip_off
-pam 749,"op",0
+pam 749,"op2",0
 skip_on
 textoff
 waits 167

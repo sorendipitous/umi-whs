@@ -3098,7 +3098,7 @@ flush 1
 vol_mix_fade 1000
 vol_bgm -1,1000
 wait 1000
-set_window_simple 80
+set_window_simple 160
 msgwnd_non
 *d5400
 d `……………ふむ。`[@]`…言い分は出揃ったようだな。`[\]

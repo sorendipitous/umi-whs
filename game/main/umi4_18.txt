@@ -3247,7 +3247,7 @@ lbg s0_21,"black"
 aspt2 alpha,s0_21,150
 lips_sprite s0_8_b
 flush 22
-set_window_simple 80
+set_window_simple 160
 *d30007
 d `――――“うーうー。”`[@]`{n}それが、大好きなママと、いつまでも仲良しでいられる魔法の、呪文。`[\]
 set_name_window_non
@@ -3422,7 +3422,7 @@ vol_mix_fade 3000
 vol_bgm -1,3000
 wait 3000
 wait 1000
-set_window_simple 80
+set_window_simple 160
 msgwnd_enj
 *d30031
 d [lv 0*"11"*"42001669_1"]`……………じゃあ、`[|][lv 0*"11"*"42001669_2"]`………魔法を私が見せることが出来たなら、……お姉ちゃんの魔法を、`[@][lv 0*"11"*"42001669_3"]`………信じてくれるの………？`[\]
@@ -5031,7 +5031,7 @@ waits 167
 vol_mix_fade 1000
 wait 1000
 bgmplay 77,71,0
-set_window_simple 80
+set_window_simple 160
 msgwnd_ev2
 *d30213
 d [lv 0*"34"*"43300194"]`うっふふふふふ！`[@][lv 0*"34"*"43300195"]`　薄々は想像がついてるくせに！`[@]`{n}`[|][lv 0*"34"*"43300196"]`あんたが、もっとも憎み、恨んだ、あの女よ！`[@]`{n}`[|][lv 0*"34"*"43300197"]`そして女もあなたをもっとも恨み、憎んだ…！`[\]
@@ -5650,7 +5650,7 @@ waits 167
 vol_mix_fade 1000
 vol_bgm -1,1000
 wait 1000
-set_window_simple 80
+set_window_simple 160
 *d30298
 d `{e:120:あんたにお兄ちゃんは、譲れないのッ…！！！}`[\]
 set_name_window_non

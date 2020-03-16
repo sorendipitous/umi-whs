@@ -6904,7 +6904,7 @@ csp_slot s0_8
 csp_slot s0_1
 lbg s0_3,"black"
 flush 1
-set_window_simple 80
+set_window_simple 160
 vol_mix_fade 1000
 wait 1000
 msgwnd_but

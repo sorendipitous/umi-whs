@@ -374,7 +374,7 @@
 `Hoping that when Mama comes home late Sunday night, almost certainly tired,`
 ` I could make her even just a little brighter by sharing this happiness......`
 `I softly placed that letter on Mama's desk.`
-`{e:070:To Mama.`
+`{e:090:To Mama.`
 `{n}Good job with your work again today{p:0:☆} Some of my happiness for you to share.`
 `{n}{m:-5:―}―From Maria}`
 `Then, I decided to give a present to Sakutaro for proposing this wonderful night.`

@@ -948,7 +948,7 @@ vol_bgm -1,1000
 wait 1000
 seplay 2,12,70
 wait 3000
-set_window_simple 80
+set_window_simple 160
 meplay 1,5,50
 *d23756
 d `教えてあげる。`[@]`{n}真里亞の、原初の魔法を。`[\]

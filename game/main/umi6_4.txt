@@ -2149,7 +2149,7 @@ csp_slot s0_10
 csp_slot s0_1
 lbg s0_3,"black"
 flush 22
-set_window_simple 80
+set_window_simple 160
 *d43652
 d [lv 0*"46"*"64500151"]`まぁぶっちゃけ。`[@][lv 0*"46"*"64500152"]`ベアトの肖像画であることは知ってるわけですが。`[\]
 *d43653

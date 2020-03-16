@@ -336,7 +336,7 @@
 `The first page......had a magic circle drawn on it, in something like blood.`
 `If I asked Maria, she'd probably know what it meant.`
 `And there was writing on the other page.`
-`{e:070:― Are you making progress solving the riddle of the epitaph?`
+`{e:090:― Are you making progress solving the riddle of the epitaph?`
 `Very, very soon, you'll run flat out of time.`
 `The ninth twilight will start very soon.}`
 `......There was no mistake.`

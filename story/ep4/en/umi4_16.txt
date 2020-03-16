@@ -130,7 +130,7 @@
 `"Don't be naive.`
 ` ......The one you choose will definitely lose their life."`
 `"......................................."`
-`{a:c:{e:070:Among the three mentioned below.`
+`{a:c:{e:090:Among the three mentioned below.`
 `{n}In order to gain two, sacrifice one.`
 `{n}{n}1. Your life`
 `{n}2. Shannon's life`

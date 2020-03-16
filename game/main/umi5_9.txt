@@ -597,7 +597,7 @@ csp_slot s0_10
 csp_slot s0_1
 lbg s0_3,"black"
 flush 22
-set_window_simple 80
+set_window_simple 160
 *d38380
 d [lv 0*"27"*"50700365"]`{e:090:妾は右代宮家顧問錬金術師、黄金のベアトリーチェ！`[@]`{n}`[|][lv 0*"27"*"50700366"]`}{e:090:仕えし主に売りし喧嘩は妾が買おうぞ！`[@]`{n}`[|][lv 0*"27"*"50700367"]`}{e:090:１９年前の復讐とな？`[@]`{n}`[|][lv 0*"27"*"50700368"]`}{e:090:千年の魔女の前にその程度の年月、瞬きにも足りぬと知れ！！}`[\]
 seplay 1,37,71
@@ -1565,7 +1565,7 @@ waits 167
 csp_slot s0_9
 lbg s0_3,"different_space_1a"
 flush 2
-set_window_simple 80
+set_window_simple 160
 *d38512
 d `{a:c:ようこそ、第５のゲーム、`[@]`{n}End of the golden witchへ。`[@]`{n}邪まなる魔女たちに乗っ取られた、主賓なき宴へ……。}`[\]
 set_name_window_non
