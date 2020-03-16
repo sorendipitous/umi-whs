@@ -11,6 +11,7 @@ So far this is **only for playing the game in English** with Umineko Project's t
 - New logos for menus, chapter breaks and text boxes
 - Increased text size, updated margins and positioning
 - EP1 Tea Party post-credits scene moved back to before the credits as in the original PC games
+- Set default BGM volume to 70 from 100
 - _no Naku Koro ni_ changed to _When They Cry_ to match the official English naming convention with the logos
 - _Nocturne of Truth and Illusions_ is now _Nocturne of **the** Truth and Illusions_, to make its name consistent with _Rondo of the Witch and Illusions_ and _Symphony of the Cat Box and Dreams_ (the upcoming Switch/PS4 game)
 
