@@ -34,7 +34,7 @@ See instructions for the latest patch version at [releases](https://github.com/P
 - Set default BGM volume to 70
 - Set BGM/Chapter popup off by default
 - _no Naku Koro ni_ changed to _When They Cry_ (to match the official English title convention with the logos)
-- _Nocturne of Truth and Illusions_ is now _Nocturne of **the** Truth and Illusions_ (to match _Rondo of **the** Witch and Reasoning_ and _Symphony of **the** Catbox and Dreams_)
+- _Nocturne of Truth and Illusions_ is now _Nocturne of **the** Truth and Illusions_ (to match _Rondo of **the** Witch and Reasoning_ and _Symphony of **the** Cat Box and Dreams_)
 - Fixed a typo in an EP8 character TIP
 
 ## Known Issues
