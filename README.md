@@ -19,6 +19,7 @@ So far this is **only for playing the game in English** with Umineko Project's t
 - Changed files have not been added to file verification at the start of the game
 - Patch relies on ons.cfg settings to increase Japanese text size and skip file verification
 - No openings displayed at launch
+- legacy op1.ogg is the same file as op.ogg, just required separately for the current version of the script to work
 - Smaller text than preferable in some scenes to avoid awkward line breaks
 
 ## Installation instructions
@@ -31,5 +32,10 @@ So far this is **only for playing the game in English** with Umineko Project's t
 ```font-multiplier=p0:6:1.16```<br>
 ```env[verify]=none```
 
-_Extra: if you wish to avoid some scenes possibly inducing motion sickness, add the following line to your ons.cfg after installing:_<br>
+Extra: if you wish to avoid some scenes possibly inducing motion sickness, add the following line to your ons.cfg after installing:<br>
 ```reduce-motion```
+
+## Credits
+- Umineko Project - Most of the things
+- Pteryon - Additional scripting and logos
+- Forteissimo - Original OP PS3fication
