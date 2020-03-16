@@ -32,7 +32,7 @@ So far this is **only for playing the game in English** with Umineko Project's t
 ```font-multiplier=p0:6:1.16```<br>
 ```env[verify]=none```
 
-Extra: if you wish to avoid some scenes possibly inducing motion sickness, add the following line to your ons.cfg after installing:<br>
+Extra: if you wish to avoid some scenes possibly inducing motion sickness, add this line to your ons.cfg after installing:<br>
 ```reduce-motion```
 
 ## Credits
