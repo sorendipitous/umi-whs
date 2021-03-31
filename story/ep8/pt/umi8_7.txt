@@ -1,23 +1,23 @@
-`"Quem devemos perguntar agora?"`
+`"Para quem devemos perguntar agora?"`
 `"Que tal aqueles dois?"`
 `"A Shannon‐chan e o Kanon‐kun?`
 ` Claro, eles parecem ser bons adversários."`
 `"Precisam de alguma coisa, Eva‐sama, Ange‐sama?"`
-`"......Não seja burra, Nee‐san.`
+`"......Não seja burra, nee‐san.`
 ` Elas querem as nossas perguntas."`
 `"Ah, e‐eu sinto muito."`
 `Shannon estava mais distraída do que nunca.`
-`Contudo, Kanon parecia estar extremamente calado e provavelmente estava com um quizz, extremamente bem elaborado, já de prontidão.`
-`"Hmmm, hhhh..............."`
+`Contudo, Kanon parecia estar excepcionalmente calado e, provavelmente, já estava com um quiz, extremamente bem elaborado, preparado.`
+`"Bem, hmm..............."`
 `"......Haah.`
 ` Certo, eu começo.`
-` Enquanto a Nee‐san pensa na pergunta dela."`
+` Enquanto a nee‐san pensa na pergunta dela."`
 `"C‐Certo... me desculpa..."`
-`"então, se vou ganhar tempo para ela pensar em uma pergunta, terei que fazer algo difícil o suficiente para mantê‐la ocupada por um tempo."`
+`"Então, se vou ganhar tempo para ela pensar em uma pergunta, terei que fazer algo difícil o suficiente para mantê‐la ocupada por um tempo."`
 `"Eheheheheh, você tem coragem.`
 ` Podemos começar?`
 ` Mande a sua mais difícil!"`
-`"Não provoca ela!`
+`"Não provoca ele!`
 ` Quero uma fácil!"`
 `"Agora que tenho a permissão da Eva‐sama, permita‐me impôr uma questão extremante complicada."`
 `"Deixa comigo.`
@@ -25,7 +25,7 @@
 `"O número das moedas é realmente diferente, e meio estranho."`
 `"Espera aí, Kanon‐kun! O que está pensando?!`
 ` Não tem como ela saber isso, sabia?!"`
-`"Sinto muito, mas é para que a Nee‐san ganhe algum tempo até pensar na sua pergunta."`
+`"Sinto muito, mas é para que a nee‐san ganhe algum tempo até pensar na sua pergunta."`
 `"O‐Obrigada...!`
 ` Eu já bolei uma pergunta...!"`
 `"......Certo.`
@@ -80,10 +80,10 @@
 ` Se a platina é melhor que ouro, então por que o ouro ganha mais moedas?!"`
 `"O número de moedas que você obtém de prêmio é sempre equivalente ao seu número atômico.`
 ` Cobre é 29, prata é 47 e ouro é 79.`
-` E, a propósito, platina é 78.`
+` A propósito, platina é 78.`
 ` Portanto, o prêmio de platina é 78 moedas de ouro."`
 `"T‐......Tia Eva, a senhora é incrível!!"`
-`Meu pai já tinha dito que a tia Eva era muito dedicada aos estudos e, realmente, muito esperta na sua época de escol.`
+`Meu pai já tinha dito que a tia Eva era muito dedicada aos estudos e, realmente, muito esperta na sua época de escola.`
 `Até o George onii‐chan, seu filho mais velho, é inteligente, então a tia Eva deve ser mesmo incrível.`
 `"Ainda assim, foi uma pergunta bem cruel.`
 ` Ao menos, deveria ter feito uma pergunta que a Ange‐chan pudesse entender."`
@@ -100,8 +100,8 @@
 `{n}Mas ainda faltam muitas.`
 ` Agora é a Shannon.`
 `"A minha é simples, então não precisa se preocupar."`
-`"...Até porque vão ter que pensar no mesmo nível da Nee‐san."`
-`"E‐Está debochando de mim...?!`
+`"...Até porque vão ter que pensar no mesmo nível da nee‐san."`
+`"P‐Poxa! Está debochando de mim...?!`
 ` Quero ver se vai conseguir resolver, Kanon‐kun."`
 `"Pode mandar."`
 `"Parece que você vai conseguir entender essa, Ange‐chan.`
@@ -115,16 +115,16 @@
 ` Por que tem letras...?"`
 `"......Seria a primeira letra de cada palavra?"`
 `"Foi o que pensei no começo.`
-` Damasco é "D", salgado é "S" e pimenta é "P".`
+` Damasco é "D", sal é "S" e pimenta é "P".`
 ` Essas são as primeiras letras de cada palavra.`
-` Mas então, como você explica café preto sento "A"?"`
+` Mas então, como você explica café preto sendo "A"?"`
 `"Heheheheheheheh.`
 ` Entendeu?"`
 `"Não tem mais nenhuma dica?"`
 `"Tenho, sim.`
 ` Vou ensiná‐la as letras de algumas outras comidas.`
 ` Primeiro, doce de leite é "D".`
-` Sal é "S".`
+` Salgado é "S".`
 ` Para "P", que tal páprica?`
 ` Cacau pode ser "A".`
 ` Heheheheheheheh......"`
@@ -169,11 +169,11 @@
 ` Então, e quanto ao grupo "S"?`
 ` E o grupo "P"?"`
 `".........Entendi, então era isso...`
-` Vindo de você, não foi nada mau, Nee‐san..."`
+` Vindo de você, não foi nada mal, nee‐san..."`
 `"Por que não experimente dizer: "me desculpe por debochar de você"?`
 ` Se não disser, farei comer todos os "S" e "P"."`
 `"‘S’ é uma coisa, mas comer "P" o tempo todo seria horrível."`
-`No fim, Kanon cansou e se rendeu a ameça das comidas "P" e foi forçado a pedir desculpas a Shannon.`
+`No fim, Kanon cansou e se rendeu a ameaça das comidas "P" e foi forçado a pedir desculpas à Shannon.`
 `Ange ainda estava confusa.`
 `Não faz mais sentido continuar falando sobre isso.`
 `Farei o meu melhor para me recompor e desafiar o próximo.`
@@ -181,7 +181,7 @@
 ` Pense sobre o sabor de cada uma das comidas!`
 ` Qual o gosto do damasco?"`
 `"Doce."`
-`"E o salgado?"`
+`"E o sal?"`
 `"Salgado."`
 `"E quanto a pimenta?`
 ` E o café preto?!"`
@@ -191,8 +191,8 @@
 ` ......Então?`
 ` As letras batem com os sabores?"`
 `"Isso mesmo!`
-` A primeira letra de "doce" é "D".`
-` A primeira letra de "salgado" é "S", "picante" é "P" e "amargo" é "I"!`
+` A primeira letra de "damasco" é "D".`
+` A primeira letra de "sal" é "S", "pimenta" é "P" e "café preto" é "A"!`
 ` Então, qual o sabor da limonada?"`
 `"Azeda!"`
 `"Exato!`
@@ -209,7 +209,7 @@
 ` Obrigada!"`
 `"Você não entendeu, né, Kanon‐kun?`
 ` Aposto que foi difícil."`
-`"............Vindo de você, não foi nada mau, Nee‐san..."`
+`"............Vindo de você, não foi nada mal, nee‐san..."`
 `"Por que não experimente dizer: "me desculpe por debochar de você"?`
 ` Se não disser, farei comer todos os "S" e "P"."`
 `"‘S’ é uma coisa, mas comer "P" o tempo todo seria horrível."`
@@ -218,8 +218,8 @@
 ` Mas se for até a minha casa, eu ficarei muito feliz em compartilhar com você."`
 `"Eba!!`
 ` Eu te amo, tia Eva!!"`
-`No fim, Kanon cansou e se rendeu a ameça das comidas "P"...`
-`e foi forçado a pedir desculpas a Shannon....`
+`No fim, Kanon cansou e se rendeu a ameaça das comidas "P"...`
+`e foi forçado a pedir desculpas à Shannon....`
 `"Essas foram as nossas perguntas.`
 ` Se divertiu...?"`
 `"Sim.`
@@ -232,7 +232,7 @@
 ` Podemos conseguir se trabalharmos juntas...!"`
 `"Isso mesmo.`
 ` Vamos combinar nossa sabedoria e continuar!"`
-`"Tchau.`
+`"Divirtam‐se.`
 ` E boa sorte."`
 `Shannon e Kanon retornaram à cozinha junto ao carrinho de serviço.`
 `A sala de jantar estava tomada por uma atmosfera animada e divertida,`
@@ -242,7 +242,7 @@
 `".........Com isso, chegamos ao fim deste longo jogo..."`
 `"Eu me sinto aliviado.`
 ` ......Finalmente não precisaremos mais sermos brinquedos de ninguém.`
-` ......Eu gostaria se ser silenciosamente esquecido, coberto por poeira e desaparecer."`
+` ......Eu gostaria de ser silenciosamente esquecido, coberto por poeira e desaparecer."`
 `"Errado.`
 ` Nós não desapareceremos assim."`
 `"....................."`
@@ -253,12 +253,12 @@
 `"Que tipo de futuro faremos para nós mesmos dentro do mundo da caixa de gato?"`
 `"Ninguém sabe. Por isso chamam de caixa de gato."`
 `"............Bem dito."`
-`"Você não se arrepende de nada, Nee‐san?`
+`"Você não se arrepende de nada, nee‐san?`
 ` .........Sobre o George‐sama, por exemplo?"`
 `".............................."`
 `"Receber aquele anel é tudo que pode fazer pelo George‐sama.`
-` Já casa, viverem juntos e tudo mais..."`
-`"Nossos futuros dentro da caixa é o que torna todos verdade, não é mesmo?`
+` Já casar, viverem juntos e tudo mais..."`
+`"Nossos futuros dentro da caixa são o que realizarão tudo isso, não é mesmo?`
 ` ......Eu não sou a única.`
 ` O mesmo vale para você, sabia?`
 ` E quanto ao seu futuro com a Jessica ojou‐sama?"`
@@ -280,18 +280,18 @@
 `Não é uma gaiola que nos sela.`
 `Pelo contrário, o interior da caixa é um mundo ilimitado que nos liberta de tudo......`
 `"Um mundo onde somos livres de tudo e todos os nossos desejos podem se realizar.`
-` ......Porém, o "eu" nesse mundo não será o "eu" que está aqui e agora.`
+` ......Mas o "eu" nesse mundo não será o "eu" que está aqui e agora.`
 ` ......Isso é um pouco deprimente."`
 `".........Ei, Kanon‐kun."`
 `"O quê...?"`
-`"Vamos fazer isso."`
-`".........Isso o quê?"`
+`"Vamos fazer aquilo?"`
+`".........Aquilo o quê?"`
 `"Duelar."`
 `".....................Tem certeza?"`
-`"Ambos desejamos desejamos decidir isso há tempo.`
+`"Ambos desejamos decidir isso há tempo.`
 ` Mesmo assim, fomos postergando até o último momento, logo antes do jogo terminar."`
-`"......Realmente.`
-` ......O jogo já está próximo do fim mesmo`
+`"......Tudo bem.`
+` ......O jogo já está próximo do fim mesmo.`
 ` Agora, em seus últimos momentos...`
 ` .........Está na hora de acertarmos as coisas de vez."`
 `"Dessa forma, seremos capazes de ver nossos futuros antes de sermos postos na caixa."`
@@ -299,7 +299,7 @@
 ` Vamos fazer isso.`
 ` ......Como iremos decidir?`
 ` Uma moeda?`
-` Ou pistolas de novo...?"`
+`{n}Ou pistolas de novo...?"`
 `"Hmmm,`
 ` ......bem, por que não fazemos o nosso próprio torneio de quizzes?"`
 `"......Hã?`
@@ -307,13 +307,13 @@
 `"Certo, então, bem...`
 ` Primeira pergunta!"`
 `"Kihhihihihihihihi!`
-` Vou fazer uma pergunta suuuuper difícil pra Ange!`
-` Vou enganá‐la com meu enigma super complicado para que você {i:jamais} consiga a minha medalha!"`
+` Vou fazer uma pergunta suuuuperdifícil pra Ange!`
+` Vou enganá‐la com meu enigma supercomplicado para que você {i:jamais} consiga a minha medalha!"`
 `"A Ange vai resolver.`
 ` Com toda certeza...!"`
-`Assim que que Maria e Ange cruzaram seus olhares, elas logo começaram a brigar.`
+`Assim que Maria e Ange cruzaram seus olhares, elas logo começaram a brigar.`
 `As duas garotas tinham idades muito próximas, mas também brigavam muito.`
-`Especialmente quando estavam em lados opostos de um jogo`
+`Especialmente quando estavam em lados opostos de um jogo.`
 `"A Maria‐chan deve saber muitos enigmas diferentes.`
 ` Isso vai ser divertido.`
 ` Vamos começar."`
@@ -328,8 +328,8 @@
 `"Hmmmm...... Acho que não precisa de dicas dessa vez."`
 `"*risos*, tem razão.`
 ` Eu a preparei para a Ange‐chan.`
-` Deve ser moleza para você, Nee‐san."`
-`"Uma hora tem 60 minutes, e leva 8 minutos para cada viagem......"`
+` Deve ser moleza para você, nee‐san."`
+`"Uma hora tem 60 minutos, e leva 8 minutos para cada viagem......"`
 `"Boa sorte.`
 ` Eu sei que consegue.`
 ` Não darei nenhuma dica dessa vez."`
@@ -352,13 +352,13 @@
 ` Afinal, a pergunta foi "quantos ela consegue carregar para fora do quarto".`
 ` Só precisa dar um passo para "carregar para fora"."`
 `"Muito bem, Ange‐chan...!`
-` Todas essas peguntas foram um bom aquecimento."`
+` Todas essas perguntas foram um bom aquecimento."`
 `"Isso mesmo.`
-` Par fazer 7 viagens, são 8 × 7 = 56 minutos.`
+` Para fazer 7 viagens, são 8 × 7 = 56 minutos.`
 ` Só sobram mais quatro minutos.`
-` HMas você consegue voltar ao subterrâneo em 3 minutos e "carregar para fora" o oitavo lingote no último minuto."`
+` Mas você consegue voltar ao subterrâneo em 3 minutos e "carregar para fora" o oitavo lingote no último minuto."`
 `"Kihihihihihihi...`
-` Nada mau, Ange!`
+` Nada mal, Ange!`
 ` Foi incrível, uu."`
 `"Não perderei para você, Maria onee‐chan!"`
 `"Parabéns.`
@@ -374,19 +374,19 @@
 `De dentro de sua bolsa,`
 ` Maria puxou para fora o livro "Lobos e o Enigma do Carneiro", que já estava desgastado e com muito uso, passando a sensação de ser um majestoso grimório.`
 `"Você conhece os enigmas dos Lobos e Carneiro, né?"`
-`"Conheço!.`
+`"Conheço!`
 ` Já me mostrou várias vezes."`
 `"São enigmas que usam um barco para levar as pessoas de uma margem do rio até a outra."`
 `"Eles costumam ter algumas regras bizarras.`
-` Quando há lobos e carneiros, você não pode deixar que o número de lobos em nenhuma das margens seja maior que o número de carneiro, né?"`
+` Quando há lobos e carneiros, você não pode deixar que o número de lobos em nenhuma das margens seja maior que o número de carneiros, né?"`
 `"Sim, isso mesmo!`
 ` Enviando um barco de um lado ao outro, movendo todo mundo para a outra margem enquanto cuida para ter certeza que o número de lobos nunca vai superar o de carneiro...!!`
-` Mas aqueles quem têm apenas um lobo e um carneiro são os mais simples, fáceis e tranquilos para se praticar as regras básicas...!"`
+` Mas aqueles que têm apenas um lobo e um carneiro são os mais simples, fáceis e tranquilos para se praticar as regras básicas...!"`
 `"Quando chega nos níveis superiores, há mais coisas além de lobos e carneiros.`
 ` São bem divertidos."`
 `".........Não é melhor anotarmos em um pedaço de papel?"`
 `"Boa ideia. Isso vai ajudar você a organizar melhor seus pensamentos."`
-`"*sigh*, ......parece que esse enigma vai ser difícil."`
+`"Poxa, ......parece que esse enigma vai ser difícil."`
 `"Nunca vai conseguir a sua medalha, Ange!`
 ` Kihi{0}hi{0}hi{0}hi{0}hihi!!"`
 `"Não vou perder! De jeito nenhum que vou perder!!"`
@@ -402,7 +402,7 @@
 ` Apenas três humanos podem remar o bote.`
 ` Por isso, vai precisar memorizar tudo para descobrir.`
 ` Quando o fazendeiro não está, você não pode deixar a esposa com o pastor.`
-` Quanto o fazendeiro e a esposa não estão, você não pode deixar o pastor com a carne.`
+` Quando o fazendeiro e a esposa não estão, você não pode deixar o pastor com a carne.`
 ` Quando o pastor não está, você não pode deixar a ovelha com os vegetais.`
 ` Também precisa de alguém para cuidar da vaca, mas qualquer humano pode fazer isso.`
 ` Ainda assim, acho que a carne continua sendo a chave aqui."`
@@ -436,13 +436,13 @@
 `A risada foi interrompida quando a tia Rosa bateu nela, mas ela começou a sorrir de novo.`
 `"Não entendi nada. Qual o nível de dificuldade disso...?"`
 `"Uns 20 {i:picarats}, eu acho?`
-` Ainda tem um monte de outros enigmas {i:ainda} mais difíceis que esse!"`
+` Ainda tem um monte de outros enigmas {i:muito} mais difíceis que esse!"`
 `Eu não sei o que é essa pica‐não‐sei‐do‐quê,`
 ` mas pelo que parece, a Maria onee‐chan nem considera esse enigma como muito difícil...`
 `Abatida, eu baixei minha cabeça.`
 `A Maria onee‐chan continuou com seu kihihihihihihi até a tia Rosa bater na cabeça dela, de novo.`
 `"Esse é um enigma bem cruel. Dá mesmo para resolver?`
-` Tem algum tipo de truque, tipo jogar as coisas no rio de deixar elas boiarem até a outra margem se usar o bote, ou fazer a vaca comer os vegetais para que sejam conduzidos como um passageiro,`
+` Tem algum tipo de truque, tipo jogar as coisas no rio e deixar elas boiarem até a outra margem se usar o bote, ou fazer a vaca comer os vegetais para que sejam conduzidos como um passageiro,`
 ` ou algum outro tipo de truque parecido com isso...?"`
 `"Bem, quem sabe?`
 ` Se continuar pensando não está levando você a lugar nenhum, não acha que é melhor desistir...?"`
@@ -450,11 +450,11 @@
 ` Nem a mamãe conseguiu resolver!`
 ` Mas a Maria resolveu na primeira tentativa!"`
 `"Então, entendeu?`
-` Quantas viagens precisa fazer para levar cada pessoas?"`
+` Quantas viagens precisa fazer para levar cada pessoa?"`
 `"Isso é um truque barato ou um enigma, hein?`
 ` Não tem como você resolver ele tão rápido assim!"`
 `"Não, não é verdade.`
-` Tenho certeza que você consegue, Nee‐san, afinal é muito inteligente.`
+` Tenho certeza que você consegue, nee‐san, afinal é muito inteligente.`
 ` Quantas viagens para levar cada pessoa ao outro lado?"`
 `"Entendi.`
 ` Três viagens."`
@@ -462,12 +462,12 @@
 ` Três?!`
 ` Como...?!"`
 `"É simples.`
-` O fazendeiro e a esposa sobem no marco, depois ele deixa a esposa na outra margem durante o primeiro movimento.`
+` O fazendeiro e a esposa sobem no barco, depois ele deixa a esposa na outra margem durante o primeiro movimento.`
 ` Depois o fazendeiro leva o barco de volta, no segundo movimento.`
 ` Então, ele cruza de novo com o pastor durante o terceiro movimento."`
 `"Mas e a vaca e a ovelha?!`
 ` E quanto a carne e os vegetais?!"`
-`"Mas, Auntie Eva, está dizendo para levar as pessoas, lembra?`
+`"Mas, tia Eva, está dizendo para levar as pessoas, lembra?`
 ` Vacas não são pessoas."`
 `"Quê? Ah..........."`
 `Com a tia Eva boquiaberta, a tia Rosa começou a aplaudir.`
@@ -490,8 +490,8 @@
 `Enquanto a Maria onee‐chan sorria de volta para mim, ......seu rosto estava alegre, como se fosse mesmo uma irmã mais velha.`
 `"Essas foram as nossas perguntas.`
 ` Vamos brincar de novo outra hora, tá?"`
-`"Na próxima, terei uma enigma ainda mais cruel esperando por você...!`
-` Um tão difícil que nem a Maria vai conseguir resolver!"`
+`"Na próxima, terei um enigma ainda mais cruel esperando por você...!`
+` Um tão difícil que nem a Maria consegue resolver!"`
 `"Sem chance!`
 ` Não vou mais brincar com você...!!"`
 `"*risos*.`
@@ -502,14 +502,14 @@
 ` Até mais Ange‐chan.`
 ` Não restam mais muitas pessoas para desafiar você.`
 ` Continue assim até o fim.`
-` E não deixe de torcer por ela, Nee‐san."`
+` E não deixe de apoiá‐la, nee‐san."`
 `"Mas é claro.`
 ` Conseguimos todas essas medalhas trabalhando juntas, né?"`
 `"Sim!"`
 `Nós saímos correndo.`
 `O papai e a mamãe estavam acenando para nós.`
 `Tenho certeza que eles pensaram em perguntas cruéis.`
-`Ainda assim, tenho certeza que vai ser mais fácil que a pergunta da Maria onee‐chan's...!`
+`Ainda assim, tenho certeza que vai ser mais fácil que a pergunta da Maria onee‐chan...!`
 `Odeio a Maria onee‐chan! Ela é muito malvada!`
 `"Uryuu.`
 ` Você a maltratou demais com aquela pergunta......"`
@@ -533,7 +533,7 @@
 `"Sim.`
 ` ......Se ela realmente se divertir nesta festa,`
 ` isso por si só já será uma lição maior do que poderíamos ensinar a ela agora."`
-`Ange, a garota que não acredita em nenhuma magia mostra a ela, simplesmente chamando tudo de "truques"...`
+`Ange, a garota que não acredita em nenhuma magia mostrada a ela, simplesmente chamando tudo de "truques"...`
 `Doze anos no futuro, ela se tornará a última pessoa a herdar o nome {f:5:Beatrice}.`
 `"Em determinado momento, aquela garota compreendeu a minha magia alva."`
 `"Sim.`
@@ -546,24 +546,24 @@
 `"É simples soltar um feitiço em outra pessoa.`
 ` E acreditar na magia de outras pessoas não é tão difícil.`
 ` O mais difícil é conjurar a magia em você mesma."`
-`"Isso é algo...que a Ange consiga fazer......?"`
+`"Isso é algo...que a Ange conseguiria fazer......?"`
 `"Ela consegue.`
 ` Até o Battler deu um jeito de entender a magia.`
 ` É óbvio que a irmãzinha dele também vai conseguir."`
 `"Você tem razão.`
-` .........Existem algumas magias que só podem ser vista quando somos crianças.`
-` ......Existem algumas as quais só os adultos podem entender.`
+` .........Existem algumas magias que só podem ser vistas quando somos crianças.`
+` ......Existem algumas nas quais só os adultos podem entender.`
 ` Nesse momento, a Ange está entre ambas."`
 `"Ela perdeu a magia das crianças e, mesmo assim, ela ainda não entendeu a magia dos adultos. Esse é o período mais doloroso da vida."`
 `"É tão triste......que ela sequer tem alguém próximo dela para enfrentar esse período..."`
-`"Isso não é verdade`
+`"Isso não é verdade.`
 ` Nós sempre estaremos ao lado dela.`
-` Ela apenas não acredita nisso."`
+` Ela só não acredita nisso ainda."`
 `Ange, por favor, perceba de uma vez.`
 `Há muitas pessoas sorrindo por trás de você, cuidando de você.`
-`Se apenas se virar, nós seremos de sorrir ainda mais para você, poderemos conversar muito mais com você.`
+`Se apenas se virar, nós seremos capazes de sorrir ainda mais para você, poderemos conversar muito mais com você.`
 `.........{f:5:Ange Beatrice}, a última bruxa da Mariage Sorcière.`
-`"Mesmo que você não alcance um final apropriado,`
+`"Mesmo que não alcance um final apropriado,`
 ` ......eu oro para que você possa aproveitar esta noite......"`
 `Divirta‐se, Ange.`
 `Adeus.`
@@ -580,7 +580,7 @@
 `"Entendi.`
 ` Muito bem.`
 ` Aproveite as perguntas dos seus pais!`
-` Já vou avisando, vão ser dureza!"`
+` Já vou avisando, vai ser dureza!"`
 `"Todos disseram o mesmo, mas nós continuamos resolvendo tudo!"`
 `"Sim!`
 ` Então vamos conseguir essas medalhas também, juntas!"`
@@ -602,7 +602,7 @@
 `"Tia Eva!"`
 `"A Rika é a chave.`
 ` Ela disse que a Miyoko é mentirosa.`
-` Então, se Miyoko está falando a verdade e a Rika é mentirosa e, se a Miyoko está mentindo, então a Rika está falando a verdade.`
+` Então, se a Miyoko está falando a verdade e a Rika é mentirosa e, se a Miyoko está mentindo, então a Rika está falando a verdade.`
 ` ......Em outras palavras, essas duas estão se contradizendo; nós sabemos que uma delas está mentindo e a outra está falando a verdade."`
 `"Como esperado da Eva nee‐san.`
 ` Exatamente.`
@@ -612,7 +612,7 @@
 `"Hmmm, ............???"`
 `"Que pena, mas não é isso."`
 `"Acho que a Ange ainda é muito nova pra isso."`
-`"Não só! Só cometi um pequeno engano!`
+`"Não sou! Só cometi um pequeno engano!`
 ` Vou acertar dessa vez.`
 ` Só mais uma...!"`
 `"Poxa, você chegou tão perto..."`
@@ -629,7 +629,7 @@
 `"Sim.`
 ` Se a Miyoko é a mais velha, então o que a Satoko disse é verdade.`
 ` Só a pessoa com mais idade pode dizer a verdade, então não faria sentido."`
-`"ISso mesmo.`
+`"Isso mesmo.`
 ` E se a Satoko fosse a mais velha?"`
 `"Se ela fosse, então a Rika, que disse que a Miyoko é mentirosa, estaria dizendo a verdade, o que não funcionaria.`
 ` Então, a Rika é a mais velha."`
@@ -645,7 +645,7 @@
 ` ......Esse é difícil."`
 `"Não é.`
 ` Eu já descobri.`
-` Essa pergunta é ainda mais fácil que a dua sua mãe fez a pouco."`
+` Essa pergunta é ainda mais fácil que a que sua mãe fez a pouco."`
 `"Por quê?"`
 `"Você não pode confiar em que não é a Miyoko, logo precisa descobrir quem é a Miyoko primeiro.`
 ` A Miyoko não mente, né?"`
@@ -682,7 +682,7 @@
 ` Se elas fossem a Miyoko, elas não poderiam mentir e dizer que outra pessoa além delas era a Miyoko."`
 `"Isso mesmo.`
 ` A Miyoko deveria ser honesta.`
-` Por isso, qualquer uma que dga "ela é a Miyoko" não pode ser a Miyoko."`
+` Por isso, qualquer uma que diga "ela é a Miyoko" não pode ser a Miyoko."`
 `"Então, como a do meio e a da direita não são a Miyoko, automaticamente só sobra a da esquerda.`
 ` E como a Miyoko fala a verdade, então também é verdade que a criança na direita é a Satoko."`
 `"O que significa que a garota que sobrou, que está no meio, é a Rika.`
@@ -713,7 +713,7 @@
 `"Nós nos divertimos muito conversando com você assim, Ange‐chan."`
 `"............?`
 ` Não entendi.`
-` Seu estranho."`
+` Estranha."`
 `"Me desculpa.`
 ` Vamos indo?`
 ` Agora, todos que restam são os primos e a {f:5:Beatrice}, eu acho."`
@@ -730,13 +730,13 @@
 ` ......Seria moleza."`
 `"...................................."`
 `"Eu estive pensando......eu provavelmente serei morto esta noite.`
-` ......Mas precisa dizer isso."`
+` ......Mas preciso dizer isso."`
 `"......Eu sempre soube.`
 ` Sempre soube que você estava escondendo algo."`
 `"Sempre soube?`
 ` Acho que preciso praticar mais, então."`
 `".........Se não é sobre a Ange, então é sobre quem?`
-` Não é sobre a Asumu‐san, né...?"`
+` Não vai me dizer que é sobre a Asumu‐san, né...?"`
 `"É sobre o Battler."`
 `"......Acaba que é a mesma coisa.`
 ` Se quer saber, eu tenho sido bem madura ao lidar com o Battler‐kun.`
@@ -747,13 +747,13 @@
 `"Desculpa, mas terei que traçar uma linha aqui."`
 `"Você não entendeu.`
 ` Ele é meu filho...e seu filho."`
-`".....................O quê?"`
+`".....................O que disse?"`
 `"Você não teve um natimorto.`
 ` A Asumu teve.`
 ` .........Naquela época, quando eu estava tendo uma vida dupla com vocês, eu não sabia o que fazer..."`
 `"Não......... Não está dizendo............"`
 `"......A Asumu e eu éramos casados.`
-` Nós estávamos tendo um caso.`
+` Eu e você estávamos tendo um caso.`
 ` E aí, o filho da Asumu nasceu morto e você deu à luz.`
 ` ......Minha cabeça estava uma loucura."`
 `O pecado que Rudolf cometeu descaradamente quando sua mente estava em um estado de caos...`
@@ -764,18 +764,18 @@
 `Se Kyrie tivesse um filho, Rudolf teria duas famílias para se preocupar.`
 `Entretanto, se o filho de Kyrie tivesse uma morte fetal e a criança sobrevivente fosse a de Asumu, isso iria decidir tudo.`
 `......O natimorto poderia até dar uma chance a ele de acabar com sua relação com Kyrie.`
-`......Foi um pecado grave, que não poderia ser perdoado como um simples ato de entusiamos da juventude e imaturidade.`
+`......Foi um pecado grave, que não poderia ser perdoado como um simples ato de entusiasmo da juventude e imaturidade.`
 `"............É por isso...que eu devo pedir desculpas aos três.`
 ` ......Eu forcei a Asumu a criar uma criança que não era dela.`
 ` .........Aquela mulher podia parecer maleável, mas ela era muito mais afiada do que aparentava.`
 ` ......Havia a chance dela descobrir.`
-` ...Mas ela criou o Battler, quem a amou como mãe, como toda a afeição que ela poderia dar a ele."`
+` ...Mas ela criou o Battler, quem a amou como mãe, com toda a afeição que ela poderia dar a ele."`
 `E para Kyrie e Battler, ......ele precisava expiar um pecado ainda maior.`
 `Ele roubou cada momento do dia‐a‐dia da vida familiar que os dois compartilhariam como mãe e filho.`
 `Até o dia de hoje, Kyrie sempre acreditou que Battler era filho de Asumu.`
 `Embora, superficialmente, ela agisse de forma gentil com ele, Kyrie sempre manteve, em seu coração, uma distância entre ela própria e o filho de Asumu.`
 `Finalmente, ......a consciência de Rudolf foi incapaz de continuar suportando vê‐la dessa forma.`
-`"............Mas............I.................."`
+`"............Não............eu.................."`
 `Kyrie se encolheu, sem palavras.`
 `"......Fique à vontade para me odiar.`
 ` Na verdade, eu não reclamaria se me matasse aqui e agora.`
@@ -792,18 +792,18 @@
 ` Pensamos até que tinham esquecido de nós."`
 `Nós finalmente vamos desafiar o George onii‐chan e a Jessica onee‐chan.`
 `"Desculpe deixá‐los esperando.`
-` Então, pensaram em perguntas super difíceis para nós?"`
+` Então, pensaram em perguntas superdifíceis para nós?"`
 `"Nós decidimos fazer uma pergunta em conjunto."`
 `"Francamente, um único enigma dessa dupla já parece um desafio."`
 `"É uma pergunta especial, elaborada especialmente para a Ange‐chan. Boa sorte!"`
 `"Vou resolver! Definitivamente vou resolver!"`
 `"Certo, então vamos começar.`
-` Jessica‐chan, vamos mostrar aquilo"`
+` Jessica‐chan, vamos mostrar aquilo."`
 `"Lá vem."`
 `Eles colocaram três pequenas e coloridas caixas sobre a mesa.`
 `"Duas delas são armadilhas!`
-` Dentro da outra tem uma medlha."`
-`"Ange‐chan, acha que consegui acertar qual tem a medalha...?"`
+` Dentro da outra tem uma medalha."`
+`"Ange‐chan, acha que consegue acertar qual tem a medalha...?"`
 `"Sem dicas não dá.`
 ` É pura sorte!"`
 `"Isso mesmo. Assim será apenas um teste de sorte, com três escolhas.`
@@ -817,10 +817,10 @@
 ` Qual dessas você acha que tem uma medalha dentro?`
 ` Só diga a primeira que aparecer na sua cabeça."`
 `Uma caixa vermelha, uma caixa azul e uma caixa verde.`
-`{n}Não tem como saber em qual deles está.`
+`{n}Não tem como saber em qual delas está.`
 `......Isso é mesmo...um teste de sorte.`
 `Assim será pior que uma pergunta complexa.`
-`{n}Afinal, você sempre por acertar uma pergunta difícil — basta resolvê‐la.`
+`{n}Afinal, você sempre pode acertar uma pergunta difícil — basta resolvê‐la.`
 `......Mas logo no começo, eu achei a amêndoa em uma chance 1 para 15.`
 `Comparado com isso, uma chance de 1 pra 3 é cinco vezes mais fácil.`
 `Não precisa ficar se preocupando.`
@@ -829,7 +829,7 @@
 `"A caixa vermelha?`
 ` Então vamos deixá‐la na sua frente.`
 ` .........Não seria ótimo se tivesse uma medalha dentro dela?`
-` Certo, vamos começar um um pequeno aquecimento.`
+` Certo, vamos começar com um pequeno aquecimento.`
 ` A probabilidade da medalha estar na caixa vermelha é de 1 pra quanto?"`
 `"1 pra 3."`
 `"Isso mesmo.`
@@ -838,10 +838,10 @@
 ` Tem certeza, Ange?`
 ` Você tem absolu~ta certeza que está satisfeita com a caixa vermelha?`
 ` Logo faremos você abrir ela.`
-` ......Se for uma armadilha, será su~per assustador."`
+` ......Se for uma armadilha, será su~perassustador."`
 `A Jessica onee‐chan sorriu de forma ameaçadora.`
 `"Está satisfeita com a caixa vermelha?`
-` ......A medalha pode estar na caixa azul ou na verdade.`
+` ......A medalha pode estar na caixa azul ou na verde.`
 ` Não quer mudar de ideia?"`
 `Não é justo ficarem me assustando assim depois que já tomei a minha decisão.`
 `E eu sei.`
@@ -853,16 +853,16 @@
 `"Estou feliz com a vermelha.`
 ` Vou apostar nela!"`
 `"Esse é o espírito.`
-` Mas sério, as armadilhas são su~per assustadoras.`
+` Mas, sério, as armadilhas são su~perassustadoras.`
 ` Por que não mostramos a ela como são?"`
-`A Jessica onee‐chan riu de forma sinistra e abriu a caixa verdade.`
+`A Jessica onee‐chan riu de forma sinistra e abriu a caixa verde.`
 `E então,`
 ` *bang*!`
-` Com o som de um estalo violento, monstro de abóbora e laços saíram voando de dentro da caixa.`
+` Com o som de um estalo violento, monstros de abóbora e confetes saíram voando de dentro da caixa.`
 `......Me deu um leve susto.`
 ` ......Não, mentira.`
 ` Foi um baita susto......`
-`Saiu voando de dentro na caixa no momento em que abri, indo direto na minha cara; eu poderia ter caído de joelhos e começado a chorar...`
+`Saiu voando de dentro da caixa no momento em que abri, indo direto na minha cara; eu poderia ter caído de joelhos e começado a chorar...`
 `"Ange~, tem {i:certeza} que quer a caixa vermelha...?`
 ` Pode ser que algo bem assustador saía voando dela, sabia...?`
 ` Tem certeza que não quer trocar pela azul...?"`
@@ -908,7 +908,7 @@
 ` Por‐......Por quê?!"`
 `Nós começamos com três caixas.`
 `Quando a vermelha foi posta na minha frente, as probabilidades dela conter medalha eram, obviamente, de 1 pra 3.`
-`Ao mesmo tempo, a probabilidade de ser a caixa azul também era de 1 pra 3, assim como para a caixa verdade.`
+`Ao mesmo tempo, a probabilidade de ser a caixa azul também era de 1 pra 3, assim como para a caixa verde.`
 `A Jessica onee‐chan abriu a caixa verde, então só sobrou duas caixas e a probabilidade caiu para 50%.`
 `Então, ......por que eu errei...???`
 `"...............Foi você, George, não foi?`
@@ -918,28 +918,28 @@
 ` É um enigma que já existe no mundo da Ange‐chan, por isso achei que estaria tudo bem em usá‐lo."`
 `"O George nii‐san me explicou a resposta,`
 ` mas eu fiquei completamente perdida.`
-` ......Seja como for, eu não entendi os detalhes, mas ele disse que nesse caso, a probabilidade da caixa azul conter a medalha são o dobro das probabilidades da caixa vermelha estar com ela."`
+` ......Seja como for, eu não entendi os detalhes, mas ele disse que nesse caso, a probabilidade da caixa azul conter a medalha é o dobro da probabilidade da caixa vermelha estar com ela."`
 `O dobro das chances?`
 ` ......Mesmo que tivesse uma diferença, eu imaginei que seria mínima.`
 `......Probabilidades são difíceis.`
 `O onii‐chan não chegou a dizer uma vez que pessoas que não entendem probabilidades não deveriam apostar?`
 `......Acho que nunca apostarei pelo resto da minha vida...`
 `A tia Eva concordou e passou a mão na minha cabeça, me encorajando...`
-`"Ah!.`
+`"Ah!`
 ` .........As probabilidades da caixa azul são maiores!"`
-`"Hmmm.`
+`"Oh?`
 ` E por quê?"`
-`"Be,, ............meio......meio que sei..."`
-`"Pensei nas 15 fatias de bolo onde você encontrou a amêndoa.`
+`"Bem, ............meio......meio que sei..."`
+`"Pense nas 15 fatias de bolo onde você encontrou a amêndoa.`
 ` Se tivesse uma única amêndoa, as chances de vencer seriam de 1 em 15, certo?"`
 `"Sim.`
 ` 1 em 15."`
 `Eu percebi isso quando o bolo apareceu.`
-`Eu pensei que esperar mais pessoas erraram iria aumentar as minhas chances de vencer.`
+`Eu pensei que esperar mais pessoas errarem iria aumentar as minhas chances de vencer.`
 `Mas, no fim, não importa quando eu comesse a minha fatia, a probabilidade ainda era de 1 em 15.`
 `"Mesmo assim, Ange‐chan.`
 ` E se...`
-`se os serviçais também tivesse comido o bolo, e tivesse começado com vinte fatias?"`
+`os serviçais também tivessem comido o bolo, e tivesse começado com vinte fatias?"`
 `"............Hã?`
 ` ......O quê...?"`
 `"Isto é uma festa, não é?`
@@ -959,7 +959,7 @@
 `"Ahahahahahahahah, ......eu meio que entendi, mas não entendi......"`
 `Se remover uma caixa perdedora, é natural que suas chances de acertar aumentem.`
 `E agora mesmo, a Jessica onee‐chan removeu uma caixa perdedora {i:das caixas que eu não tinha escolhido}.`
-`Então, não faz sentido que minhas chances de vencer com {i:esses caixas} aumentem......?`
+`Então, não faz sentido que minhas chances de vencer com {i:essas caixas} aumentem......?`
 `"......Agora estou ficando confusa......"`
 `"Na verdade, você foi incrível, Ange‐chan.`
 ` Mesmo tendo apenas seis anos, está tentando aprender probabilidade a {i:posteriori}, um conceito da teoria da probabilidade.`
@@ -970,7 +970,7 @@
 `Com um olhar de espantamento, eu implorei para a tia Eva me explicar.`
 `Ela me respondeu com um sorriso amargo.`
 ` Aposto que ela também não entendeu.`
-`Como se estivéssemos sentido uma espécie de conexão na falha, nós alegremente pegamos as medalhas que foram nos foram entregues......`
+`Como se estivéssemos sentindo uma espécie de conexão na falha, nós alegremente pegamos as medalhas que nos foram entregues......`
 `"Ange‐chan,`
 ` poderia vir aqui um segundinho?"`
 `".........?`
@@ -982,9 +982,9 @@
 `"Sim.`
 ` Só falta o Battler onii‐chan e a {f:5:Beatrice}.`
 ` .........Estou começando a ficar com sono."`
-`Deve ser porque bebi a bebida do papia.`
+`Deve ser porque bebi a bebida do papai.`
 `Estou meio tonta desde que bebi aquilo.`
-` ......Essa sensação de tontura continua aumentando e eu tenho ficado com mais sono.`
+` ......Essa sensação de tontura continua aumentando e tenho ficado com mais sono.`
 `Eu bocejei.`
 `"Com sono?"`
 `"......Sim.`
@@ -992,13 +992,13 @@
 `"Entendi.`
 ` ......Então acho que já está quase na hora de encerrar a festa."`
 `".........?"`
-`......A festa vai achar se eu dormir?`
+`......A festa vai acabar se eu dormir?`
 `Mas eu só quero tirar um cochilo enquanto todos continuam se divertindo.`
 `"Nossa pergunta foi a mais difícil?"`
 `"......Sim.`
 ` Ainda não entendi muito bem.`
 ` ......E mais, ...estou com sono......"`
-`"E chamado de probabilidade a {i:posteriori}.`
+`"Aquilo é chamado de probabilidade a {i:posteriori}.`
 ` É assim que chamamos quando a probabilidade de alguma coisa muda porque aprendemos ou falhamos em aprender algum tipo de informação."`
 `"........................"`
 `O George onii‐chan me chamou até aqui para me dar uma aula de matemática...?`
@@ -1022,12 +1022,12 @@
 `"No futuro,`
 ` vários pedaços de informação vão afetar a fatia de bolo em suas mãos.`
 ` ......Aprendendo sobre eles, o interior da sua fatia pode mudar.`
-` Às vezes, vão mudar para coisas que você deseje.`
+` Às vezes, vão mudar para coisas que você deseja.`
 ` ......Mas, na maioria dos casos, quase sempre serão mudanças ruins."`
 `"A verdade está sempre na palma das suas mãos, Ange.`
-` ......Não acha que é idiota deixar que ela mude só porque ouviu algum dizer alguma coisa? Só porque você ouviu aquilo que os {i:outros} pensam que deveria ser verdade?"`
+` ......Não acha que é idiota deixar que ela mude só porque ouviu alguém dizer alguma coisa? Só porque você ouviu aquilo que os {i:outros} pensam que deveria ser verdade?"`
 `"A verdade dentro de você esteve em suas mãos desde o princípio.`
-` ......E a natureza desas verdade é algo que cabe a você mesma decidir.`
+` ......E a natureza dessa verdade é algo que cabe a você mesma decidir.`
 ` ......Você a muda em si dependendo daquilo que ouve...e aquilo que se recusa a ouvir."`
 `"Você provavelmente não entende o que estamos dizendo.`
 ` Mas precisa entender.`
@@ -1050,7 +1050,7 @@
 ` Foi divertida.`
 ` Mas estou meio sonolenta."`
 `"......Não é surpresa,`
-` considerando o quanto esteve correndo pra lá e pra cá."`
+` considerando o quanto estava correndo pra lá e pra cá."`
 `Eu esfreguei meus olhos.`
 `Eu devo ter ficado mesmo empolgada.`
 `{n}Mas sempre que fico empolgada, logo depois eu fico cansada.`
@@ -1059,7 +1059,7 @@
 ` Se estiver com sono, pode parar agora."`
 `"Não.`
 ` Já vim tão longe, então vou continuar......`
-` .........*yaaawn*......"`
+` .........*bocejo*......"`
 `O onii‐chan e a Beato riram do meu bocejo.`
 `"Parece que chega por hoje..."`
 `"Sim.`
@@ -1071,14 +1071,14 @@
 `...também quero......a medalha do onii‐chan........."`
 `Só estou......com muito sono......`
 `{n}..............................`
-`Ange derivou no canto do cômodo e jougou‐se em uma cadeira.`
-`Então, ela fechou seus olhos, parecendo uma boneca sentada sobre a cadeira.`
-`Não demoro muito para que o adorável som de sua respiração durante o sono pudesse ser ouvido...`
+`Ange derivou no canto do cômodo e jogou‐se em uma cadeira.`
+`Então, ela fechou seus olhos, parecendo uma boneca sentada sobre ela.`
+`Não demorou muito para que o adorável som de sua respiração durante o sono pudesse ser ouvido...`
 `Quando viu que Ange finalmente havia dormido, Beato falou gentilmente.`
 `"Pessoal, peço que façam silêncio.`
 ` ......A Ange dormiu."`
 `Quando ela disse essas palavras, o agradável ruído que preenchia o cômodo foi gentilmente retornando ao silêncio.`
-`Todos olharam para o rosto de Ange enquanto ela dormia.`
+` Todos olharam para o rosto de Ange enquanto ela dormia.`
 `Cada um dos olhares era afetivo, como se estivessem observando um bebê que finalmente havia caído no sono.`
 `".........A Ange‐chan se divertiu?"`
 `"É claro que sim.`
@@ -1086,13 +1086,13 @@
 ` mas tenho certeza que, um dia, ela certamente irá lembrar da festa desta noite e apreciar o quão divertida ela foi."`
 `".........Tem razão."`
 `"......Brincar com a Ange‐chan também foi divertido para nós."`
-`A essa altura, todos estava em um círculo ao redor de Ange, enquanto ela dormia.`
+`Agora, todos estavam em um círculo ao redor de Ange, enquanto ela dormia.`
 `Agora que a convidada de honra dormiu, ......esta festa de Halloween precisa chegar ao fim...`
 `"Adeus, minha netinha.`
 ` .........Foi muito agradável ter esta oportunidade para brincar com você novamente depois de doze anos.`
 ` ......Não importa se irá se esquecer de mim.`
 ` Lembre de mim como um arrogante déspota.`
-` ......Mas, de vez em quanto, tente lembrar o quanto eu a adorava."`
+` ......Mas, de vez em quando, tente lembrar o quanto eu a adorava."`
 `"Ela vai lembrar.`
 ` .........Ange‐san.`
 ` Você tem uma longa vida pela frente.`
@@ -1108,17 +1108,17 @@
 ` ......Há certas coisas que só entendemos de verdade quando voltamos a pensar nelas anos depois."`
 `"Trate de lembrar do meu lindo rosto de tempos em tempos.`
 ` Saber que você lembrará já é o melhor funeral que poderíamos ter."`
-`"Qual é?.`
+`"Qual é?`
 ` Não é como se fôssemos morrer.`
 ` Só estamos indo para dentro da caixa de gato — para o outro lado da cortina."`
 `"Isso mesmo.`
 ` Sequer é uma cortina.`
 ` É exatamente como somos agora.`
-` A Ange‐chan tá dormindo tranquilamente.`
+`{n}A Ange‐chan tá dormindo tranquilamente.`
 ` Nós estamos ao lado dela, a observando com muito afeto.`
 ` ......Nós sempre estaremos com ela."`
-`Todos ainda mantinham calorosos sorrisos em seus rotos, mas sons de narizes fungando vinham de diversas partes do cômodo...`
-`Esta festa não era apenas pera a garotinha que não pôde vir aqui neste dia.`
+`Todos ainda mantinham calorosos sorrisos em seus rostos, mas sons de narizes fungando vinham de diversas partes do cômodo...`
+`Esta festa não era apenas para a garotinha que não pôde vir aqui neste dia.`
 `Também era para todas as pessoas que não puderam encontrá‐la aqui,`
 ` ......que nunca tiveram a chance de se despedir...`
 `"Ange.`
@@ -1127,15 +1127,15 @@
 ` Isso definitivamente a fortalecerá."`
 `"......Eva nee‐san.`
 ` Cuide da nossa filha.`
-` ......Ela não é honesta com sigo mesmo, e muitas vezes é egoísta e esquentadinha.`
+` ......Ela não é honesta consigo mesma, e muitas vezes é egoísta e esquentadinha.`
 ` Ela pode ser difícil de se lidar, mas......"`
 `"Eu tratarei de...fazê‐la feliz.`
 ` Contando que seja o que ela quer......"`
-`"Ange‐sama, ...tudo bem se esquecer o meu rosto.`
-` Mas ao menos lembra do sabor da minha comida...!"`
+`"Ange‐sama, ...tudo bem se esquecer do meu rosto.`
+` Mas ao menos lembre do sabor da minha comida...!"`
 `"Hohhohohohohohohoho.`
-` Não vou pedir que lembra de velha Kumasawa.`
-` Mas, por favor, ao menos lembre o sabor do meu suco de cavalinha."`
+` Não vou pedir que lembre de velha Kumasawa.`
+` Mas, por favor, ao menos lembre do sabor do meu suco de cavalinha."`
 `Alguém disse "quando foi que deu isso pra ela?!" e todos começaram a rir.`
 `"O rostinho dela é tão adorável enquanto dorme assim.`
 ` ......Ela parece uma anjinha, igual ao seu nome."`
@@ -1152,10 +1152,10 @@
 `"Ange......`
 ` Não se esqueça.`
 ` Não esqueça de si, da sua felicidade, do seu destino.`
-` É você quem cria todas essas coisas.`
+`{n}É você quem cria todas essas coisas.`
 ` Apenas você pode escolher.`
 ` Não são coisas que alguém pode dar a você, não são coisas que alguém possa esconder de você.`
-` ......Lembre‐se"`
+` ......Lembre‐se."`
 `"Eu tenho certeza que a sua mensagem chegou até ela."`
 `"......Espero que sim."`
 `"Eu tenho certeza que o conto de vocês ajudará a Ange‐sama a entender."`
@@ -1168,7 +1168,7 @@
 ` Tenho certeza que ela aprenderá algo com isso."`
 `"......Ange‐sama.`
 ` Eu rezo para que você seja guiada pelo caminho certo enquanto segue seu futuro."`
-`Um por um, eles se aproximaram dela e proferiram seus últimas palavras de adeus Ange.`
+`Um por um, eles se aproximaram dela e proferiram suas últimas palavras de adeus à Ange.`
 `Então, finalmente Battler e Beato se aproximaram......`
 `"Ange.`
 ` .........Você foi capaz de se lembrar de todo mundo, mesmo que só um pouquinho?"`
@@ -1196,40 +1196,40 @@
 ` Toda essa festa que compartilhamos foi uma ilusão mágica, criada pelo Game Master, Battler."`
 `"Mas agora você se lembra, né...?`
 ` O quão gentil todos eram, o quanto nós todos nos divertíamos nos encontros da família.`
-` ......Você se lembre......da verdade...?"`
+` ......Você se lembra......da verdade...?"`
 `Ange respirou gentilmente enquanto dormia.`
-`Quem pode saber......se essas palavras realmente chegaram até ela...`
+`Quem pode saber......se essas palavras realmente chegaram até ela...?`
 `"Tia Eva."`
 `"........................"`
 `"......Cuide bem dela."`
 `"Você.........acha mesmo......que eu mereço me tornar a mãe dela......?"`
-`"Acho, sim.`
+`"É claro.`
 ` .........Mesmo que a sua própria tristeza seja insuportável,`
 ` ......você tentou ao máximo ser uma mãe para a Ange."`
 `"Mas, no fim............"`
 `"Está tudo bem.`
 ` ............Ange, ouça com muita atenção."`
-`Battler segurou na mão de Ange, logo depois pegou a mãe de Eva e juntou ambas as mãos...`
+`Battler segurou na mão de Ange, logo depois pegou a mão de Eva e juntou ambas as mãos...`
 `"......Nós sabemos que um trágico destino leva a um futuro onde as duas ferem uma a outra.`
 ` ......É algo muito triste para você......e tão triste quanto para a tia Eva.`
 ` .........Não é justo com você pedir para que abra o seu coração.`
 ` E não é justo para a Eva pedir que ela aguente a própria tristeza por você."`
-`".........Nenhum de vocês...`
+`".........Nenhuma de vocês...`
 `tem culpa."`
 `"Mesmo assim, .....não temos o direito de dizer para perdoá‐la.`
 ` ......Por isso, não iremos.`
 ` .........Apenas tente entender.`
 ` Não importa quanto tempo possa levar, o quanto distante no futuro isso venha a acontecer.`
 ` ......Tente entender a tia Eva.`
-` E, de tempos em tempos, .........lembre de nós."`
+`{n}E, de tempos em tempos, .........lembre de nós."`
 `"E não se esqueça de mim.`
-` De tempos em tempos, lembre‐se da natureza jovial, animada e festiva desse modelo de mulher que eu sou e pronuncie meu nome três vezes ao dia."`
+` De tempos em tempos, lembre‐se da natureza jovial, animada e festiva desse modelo de mulher que eu sou e pronuncie meu nome três vezes ao dia — manhã, tarde e noite."`
 `Os parentes exibiram um sorriso agridoce, aparentemente divergindo da última parte.`
 `Eva gentilmente acariciou a bochecha de Ange e falou com ela uma última vez.`
 `".........Tudo bem se não perdoar a sua tia.`
 ` ......Mesmo assim.`
 ` É verdade que eu não a odeio.`
-` ......AO menos entenda isso......"`
+` ......Ao menos entenda isso......"`
 `Eva secou seus olhos e levantou‐se lentamente.`
 ` Hideyoshi confortou seus ombros, e Rudolf e Kyrie juntaram‐se ao seu redor.`
 `".........Genji‐san.`
@@ -1271,25 +1271,25 @@
 `Kanon colocou um cartão ao lado do travesseiro, junto com o presente de Kinzo.`
 `A mensagem no cartão dizia:`
 `{a:c:Nós estaremos sempre com você.`
-`{n}{nobreak:{m:‐5:—}—}De toda a família Ushiromiya}`
-`E lá, ao lado de sua travesseiro, estava um presente de Kinzo, ......uma escova de Banho.`
-`E lá, ao lado de sua travesseiro, estava um presente de Kinzo, ......uma lata de cavalinha.`
-`E lá, ao lado de sua travesseiro, estava um presente de Kinzo, ......um travesseiro de espuma com a Águia de Uma Asa.`
-`E lá, ao lado de sua travesseiro, estava um presente de Kinzo, ......um maiô à moda antiga.`
-`E lá, ao lado de sua travesseiro, estava um presente de Kinzo, ......uma manga madura.`
-`E lá, ao lado de sua travesseiro, estava um presente de Kinzo, ......um kadomatsu.`
-`E lá, ao lado de sua travesseiro, estava um presente de Kinzo, ......um uniforme do Angel Mort.`
-`E lá, ao lado de sua travesseiro, estava um presente de Kinzo, ......uma foto autografada do kinzo.`
-`E lá, ao lado de sua travesseiro, estava um presente de Kinzo, ......um saco de risos do kinzo.`
-`E lá, ao lado de sua travesseiro, estava um presente de Kinzo, ......uma bandeira de carpa da Águia de Uma Asa.`
-`E lá, ao lado de sua travesseiro, estava um presente de Kinzo, ......um buquê de rosas douradas.`
-`E lá, ao lado de sua travesseiro, estava um presente de Kinzo, ......uma caixa de música de família.`
-`E lá, ao lado de sua travesseiro, estava um presente de Kinzo, ......um boneco Sakutarou produzido em massa.`
-`E lá, ao lado de sua travesseiro, estava um presente de Kinzo, ......um jogo de chá com o brasão da família.`
-`E lá, ao lado de sua travesseiro, estava um presente de Kinzo, ......um relógio de bolso com o brasão da família.`
-`E lá, ao lado de sua travesseiro, estava um presente de Kinzo, ......um corpete da {f:5:Beatrice}.`
-`E lá, ao lado de sua travesseiro, estava um presente de Kinzo, ......um boneco do Battler.`
-`E lá, ao lado de sua travesseiro, estava um presente de Kinzo, ......uma boneca da {f:5:Beatrice}.`
+`{n}{nobreak:{m:-5:—}—}De toda a família Ushiromiya}`
+`E lá, ao lado de seu travesseiro, estava um presente de Kinzo, ......uma escova de Banho.`
+`E lá, ao lado de seu travesseiro, estava um presente de Kinzo, ......uma lata de cavalinha.`
+`E lá, ao lado de seu travesseiro, estava um presente de Kinzo, ......um travesseiro de espuma com a Águia de Uma Asa.`
+`E lá, ao lado de seu travesseiro, estava um presente de Kinzo, ......um maiô à moda antiga.`
+`E lá, ao lado de seu travesseiro, estava um presente de Kinzo, ......uma manga madura.`
+`E lá, ao lado de seu travesseiro, estava um presente de Kinzo, ......um kadomatsu.`
+`E lá, ao lado de seu travesseiro, estava um presente de Kinzo, ......um uniforme do Angel Mort.`
+`E lá, ao lado de seu travesseiro, estava um presente de Kinzo, ......uma foto autografada do Kinzo.`
+`E lá, ao lado de seu travesseiro, estava um presente de Kinzo, ......um saco de risos do Kinzo.`
+`E lá, ao lado de seu travesseiro, estava um presente de Kinzo, ......uma bandeira de carpa da Águia de Uma Asa.`
+`E lá, ao lado de seu travesseiro, estava um presente de Kinzo, ......um buquê de rosas douradas.`
+`E lá, ao lado de seu travesseiro, estava um presente de Kinzo, ......uma caixa de música de família.`
+`E lá, ao lado de seu travesseiro, estava um presente de Kinzo, ......um boneco Sakutarou produzido em massa.`
+`E lá, ao lado de seu travesseiro, estava um presente de Kinzo, ......um jogo de chá com o brasão da família.`
+`E lá, ao lado de seu travesseiro, estava um presente de Kinzo, ......um relógio de bolso com o brasão da família.`
+`E lá, ao lado de seu travesseiro, estava um presente de Kinzo, ......o corsage da {f:5:Beatrice}.`
+`E lá, ao lado de seu travesseiro, estava um presente de Kinzo, ......um boneco do Battler.`
+`E lá, ao lado de seu travesseiro, estava um presente de Kinzo, ......uma boneca da {f:5:Beatrice}.`
 `Ange, murmurou em seu sonho, segurando seu presente com força contra sua bochecha.`
 `"Vamos indo.`
 ` Não devemos acordá‐la."`

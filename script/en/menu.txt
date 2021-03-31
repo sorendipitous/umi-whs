@@ -1518,7 +1518,7 @@ stralias set_game_language_en,":s;#C7C7C7#FFFFFF`{p:8:English}"
 stralias set_game_language_en_on,":s;#FFFFFF`{p:8:English}"
 stralias set_bgm_title_language,":s;#FFFFFF`{p:8:BGM title language}"
 stralias set_bgm_title_language_en,":s;#FFFFFF`{p:8:{w:375:}{a:c:}{fit}English}"
-stralias set_bgm_title_language_ru,":s;#FFFFFF`{p:8:{w:375:}{a:c:}{fit}Russian}"
+stralias set_bgm_title_language_tl,":s;#FFFFFF`{p:8:{w:375:}{a:c:}{fit}Russian}"
 stralias set_bgm_title_language_jp,":s;#FFFFFF`{p:8:{w:375:}{a:c:}{fit}Japanese}"
 stralias set_bgm_title_language_rom,":s;#FFFFFF`{p:8:{w:375:}{a:c:}{fit}Romanized}"
 stralias set_window_size,":s;#FFFFFF`{p:8:Window size}"
@@ -1820,7 +1820,7 @@ stralias name_s41,"Chiester410"
 stralias name_s45,"Chiester45"
 stralias name_s55,"Chiester55"
 stralias name_s56,"Chiester556"
-stralias name_sak,"Sakutaro"
+stralias name_sak,"Sakutarou"
 stralias name_sha,"Shannon"
 stralias name_wal,"{f:5:Virgilia}"
 stralias name_fea,"{f:5:Featherine}"
@@ -2022,8 +2022,7 @@ stralias trophy_text_94,"{p:18:Golden trophy{n}Twilight of the Golden Witch: Mag
 stralias trophy_text_95,"{p:18:Golden trophy{n}CG Hunter{n}Achieve 100% completion for the Picture Box.}"
 stralias trophy_text_96,"{p:18:Golden trophy{n}Music Hunter{n}Achieve 100% completion for the Music Box.}"
 
-; ugly temporary config fix
-
+;Hardcoded offsets in menus and other places, which are currently not calculated
 numalias settings_base_off1,1478
 numalias settings_base_off2,1605
 numalias settings_base_off3,1010
@@ -2031,6 +2030,7 @@ numalias settings_base_off4,1377
 numalias settings_base_off5,850
 numalias settings_base_off6,1213
 numalias settings_base_off7,1559
+numalias omake3_line_y,105
 
 ;quiz 8 episode
 stralias quiz_ask_auntie_eva,":a/2,0,3;graphics\menu_en\quiz\ask_auntie_eva.png"
