@@ -76,17 +76,6 @@ jobs:
           draft: false
           prerelease: false
 
-      - name: Upload Extra
-        if: github.repository_owner == 'umineko-project'
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./ciout/extra_${{ env.TODAY }}.zip
-          asset_name: extra_${{ env.TODAY }}.zip
-          asset_content_type: application/zip
-
       - name: Upload Main
         if: github.repository_owner == 'umineko-project'
         uses: actions/upload-release-asset@v1
