@@ -32157,7 +32157,7 @@ return
 	if %msgwnd_type = 1 setwindowd msgwnd2
 	if %msgwnd_type = 2 setwindowd msgwnd3
 	if %msgwnd_type = 3 setwindowd msgwnd4
-	setwindowd_dimensions 167,725,1586,306
+	setwindowd_dimensions 167,736,1586,295
 	setwindowd_padding text_main_pad_t,text_main_pad_r,text_main_pad_b,text_main_pad_l
 	setwindowd_name_padding text_name_pad_t,text_name_pad_r,text_name_pad_b,text_name_pad_l
 	setwindowd_main_region 240,14,1408,274,77
