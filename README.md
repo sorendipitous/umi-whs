@@ -14,7 +14,7 @@ So far this is **only for playing the game in English** with Umineko Project or 
 - _no Naku Koro ni_ changed to _When They Cry_, matching the official English title convention with the logos
 
 ## Installation instructions
-See instructions for the latest patch version at [releases](https://github.com/Pteryon/umipro-goat/releases).
+See instructions for the latest patch version at [releases](https://github.com/Pteryon/umipro-goat/releases/tag/v0.2).
 
 ## Credits
 - 07th Expansion & Alchemist - Original game
