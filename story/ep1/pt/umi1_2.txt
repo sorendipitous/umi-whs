@@ -447,7 +447,7 @@
 `"Eu me lembro do jardim de rosas, mas...`
 `eu não me lembro dessa casa de hóspedes.`
 ` Ela foi construída recentemente?"`
-`"Toraian" (Retiro dos visitantes), estava escrito em uma placa fixada em uma das colunas, mas como todos chamavam de casa de hóspedes, eu fui na deles.`
+`"Fixada em uma das colunas havia uma placa escrito {ruby:Retiro dos Visitantes:Toraian}, mas como todos chamavam de casa de hóspedes, eu fui na deles.`
 `A pousada de estilo ocidental, que tinha vista para o jardim de rosas, era de um design magnífico, feito cuidadosamente para harmonizar com o jardim.`
 `"Correto!`
 ` Ela foi construída dois anos atrás.`
@@ -743,7 +743,7 @@
 ` Vamos deixar eles ofereceram nossas "bebidas de boas‐vindas"."`
 `Rudolf fez um sinal sutil com os olhos para que elas sentassem novamente.`
 `{n}...Kyrie e Rosa entenderam imediatamente e obedientemente retornaram aos seus assentos.`
-`Os convidados já haviam sido recebidos, então já estava na hora de preparar o chá para eles.`
+`Os convidados já haviam sido recebidos, portanto já estava na hora de preparar o chá para eles.`
 `...O chá estava atrasado, e ter os convidados falando sobre ir prepará‐lo era algo embaraçoso para os anfitriões.`
 `Natsuhi mordeu seu lábio inferior, frustrada com a inaptidão de seus serviçais que estavam demorando demais para trazer o chá.`
 `...Vendo sua expressão, Eva, sem hesitar, começou a rir.`
@@ -791,8 +791,8 @@
 `".........Eu, ...eu peço desculpas......`
 ` Eu vou buscar imediatamente—"`
 `"Ei, Shannon‐chan?`
-` Você sabe para que colheres de prata são usadas?`
-` Ou o porquê delas serem de prata?`
+` Você sabe qual a finalidade das colheres de prata?`
+`{n}Ou o porquê delas serem de prata?`
 ` Você sabe o motivo?"`
 `"...............Não...`
 `.........bem......"`

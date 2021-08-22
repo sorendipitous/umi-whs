@@ -300,7 +300,7 @@
 ` A Ange está apenas começando seu treinamento.`
 ` ......Você está bem, Ange?`
 ` Sua dor de cabeça está melhor...?’`
-`Sakutaro se esticou na ponta dos pé e deu pequenos saltos, tentando passar a mão na cabeça de Ange.`
+`Sakutaro se esticou na ponta dos pés e deu pequenos saltos, tentando passar a mão na cabeça de Ange.`
 `Vendo isso, Maria coçou sua cabeça, reconhecendo que este treinamento repentino havia sido difícil demais.`
 `"Uu.`
 ` Talvez aquilo tenha sido um pouco sério demais.`
@@ -907,7 +907,7 @@
 `"Mas estamos bem nisso, afinal, ela é a Bruxa do Infinito.`
 ` A Beato é estúpida, por isso ela otimistamente pensa que, mesmo assim, ela certamente vencerá eventualmente,`
 ` e apenas precisa repetir esse jogo infinitamente até que isso aconteça."`
-`"Garotas loiras são sempre as mais idiotas. *risos*risos*!"`
+`"Garotas loiras tendem a ser as mais idiotas. *risos*risos*!"`
 `".........Então, neste jogo de bruxas,`
 ` .........não existem coisas como...`
 `vitória ou derrota......"`
