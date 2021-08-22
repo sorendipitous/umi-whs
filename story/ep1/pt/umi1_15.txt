@@ -1,5 +1,5 @@
 `......No final, o Kanon‐kun não recuperou a consciência.`
-`Mesmo com o Doutor Nanjo e o resto do pessoal fazendo tudo o que podiam para salvá‐lo...`
+`Mesmo com o doutor Nanjo e o resto do pessoal fazendo tudo o que podiam para salvá‐lo...`
 `{n}...Havia muito pouco que poderia ser feito em uma ilha como essa, sem medicamentos ou instalações adequadas...`
 `No entanto, o Kanon‐kun foi o único humano a enfrentar o culpado.`
 `{n}Se ele pudesse nos dar algum tipo de pista...`
@@ -8,9 +8,9 @@
 `".........Minhas sinceras desculpas.`
 ` Sem instalações adequadas, não havia nada que eu pudesse fazer com uma ferida tão grave..."`
 `"...Não, isso é perfeitamente compreensível.`
-` Muito obrigado por ter feito tudo o que podia."`
-`A camisa do Doutor Nanjo tinha sido pulverizada por um jato violento de sangue, então era fácil imaginar a devoção com a qual ele tentou salvar a vida do Kanon‐kun, até o último segundo.`
-`Jessica estava agachada no corredor, chorando de angústia.`
+` Muito obrigada por ter feito tudo o que podia."`
+`A camisa do doutor Nanjo tinha sido pulverizada por um jato violento de sangue, então era fácil imaginar a devoção com a qual ele tentou salvar a vida do Kanon‐kun, até o último segundo.`
+`A Jessica estava agachada no corredor, chorando de angústia.`
 `{n}......Ela provavelmente estava cuidando do Kanon‐kun até o momento de sua morte.`
 `O George‐aniki tentou se aproximar dela com palavras de consolo, mas quando Jessica o afastou,`
 ` ele parou de tentar interferir e a deixou sozinha.`
@@ -21,7 +21,7 @@
 `"Como você pode dizer isso?!`
 ` O Kanon‐kun avistou o assassino e bravamente foi contra ele!!`
 ` Se a Kumasawa‐san tivesse ido com ele, o assassino poderia ter hesitado e escolhido fugir!!"`
-`Palavras cheias de emoção que eu nunca pensei que ouviria da normalmente discreta Jessica saíram de sua boca.`
+`Palavras cheias de emoção que eu nunca pensei que ouviria da normalmente discreta Jessica, saíram de sua boca.`
 `...Kumasawa, olhando realmente arrependida, não pôde fazer nada além de balançar a cabeça...`
 `"Jessica..."`
 `".........Agora não é o momento para tais palavras.`
@@ -36,7 +36,7 @@
 ` .........Você será capaz de encontrar o Kanon novamente em breve."`
 `"...Pare com isso!`
 ` Eu não preciso desse tipo de consolo...!"`
-`"A {f:5:Beatrice} ressuscitará os mortos, e até o amor que possuíram.`
+`"A {f:5:Beatrice} ressuscitará os mortos, e até o amor que possuíam.`
 ` ......Então você definitivamente será capaz de encontrá‐lo.`
 ` Então todos poderão viver em paz."`
 `"Essa {f:5:Beatrice}, que você disse que te deu aquela carta ontem, foi ela quem matou o Kanon‐kun?!`
@@ -75,32 +75,32 @@
 `"Quero ouvir isso da boca da Maria‐chan.`
 ` ......Quem é a {f:5:Beatrice}?"`
 `"........................`
-` Mesmo se eu te disser, você não vai......acreditar em mim de qualquer maneira."`
+` Posso contar, mas você não vai......acreditar em mim de qualquer maneira."`
 `"O que quer dizer com isso?!`
 ` ...É possível que o assassino seja alguém que conhecemos bem,`
 ` ...e então, por alguma razão, você está cobrindo ele por permanecer em silêncio?!`
 ` Quem te deu aquela carta?!"`
-`"............Eu ganhei ela da {f:5:Beatrice}.`
+`"............Ganhei ela da {f:5:Beatrice}.`
 ` Vou dizer isso não importa quantas vezes você me pergunte.`
-` Eu recebi aquela carta da {f:5:Beatrice}.`
+` Recebi aquela carta da {f:5:Beatrice}.`
 ` ......Kihihi{0}hi{0}hi{0}hi{0}hihihi.`
-` George onii‐chan, você se recusa a acreditar em {f:5:Beatrice} porque ela não é um oponente que você pode bater?"`
+` George onii‐chan, você se recusa a acreditar na {f:5:Beatrice} porque ela não é um oponente que você pode bater?"`
 `"Você quer transformar seus sentimentos de desamparo em violência e bater em alguém.`
-` Então você não ficará satisfeito a menos que seu oponente seja um {y:0:Humano}{n:0:humano} que você possa bater."`
+` Por isso, não ficará satisfeito a menos que seu oponente seja um {y:0:Humano}{n:0:humano} que você possa bater."`
 `".........Então, mesmo que eu diga a verdade, você não será capaz de aceitar.`
 ` Por isso é inútil dizer.`
 ` Você não vai acreditar."`
 `"............Mas a Maria vai continuar repetindo.`
 ` Vou dizer porque é verdade.`
-` ......A {f:5:Beatrice} "existe"!`
+`{n}......A {f:5:Beatrice} "existe"!`
 ` Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi...!`
 ` A porta para a Terra Dourada será aberta em breve.`
 ` E é para lá que a Maria vai.`
 ` A {f:5:Beatrice} prometeu!"`
 `"Naquele mundo, a mamãe é boa, o papai está com a gente também e é gentil.`
-` A Maria quer ir para lá o mais rápido possível.`
+`{n}A Maria quer ir para lá o mais rápido possível.`
 ` ......Todos temem a {f:5:Beatrice}.`
-` E isso é algo natural.`
+`{n}E isso é algo natural.`
 ` ......Mas não precisam se preocupar.`
 ` ...A {f:5:Beatrice} me disse pessoalmente."`
 `"{i:Quando o tufão tiver passado, ela terá terminado tudo.}`
@@ -110,7 +110,7 @@
 ` ...Aposto que essa é uma situação muito feliz para você, já que você está sempre falando sobre como as bruxas existem, mas mantenha isso para você mesma por enquanto.`
 ` Deixe todos os outros fora disso."`
 `"Uu."`
-`"E‐Ela, há muito tempo venho pensando que ela é assustadora,`
+`"H‐Há muito tempo venho pensando que ela é assustadora,`
 ` ......mas ela é na verdade perturbada, de alguma forma ela é perturbada!!"`
 `"Você não acha, Battler?! Genji‐san?!`
 ` Kumasawa‐san?!`
@@ -123,29 +123,29 @@
 `"...........................Kihihihi."`
 `".........Maria‐chan.`
 ` ...Você deve aprender que há momentos em que uma discussão deve ser evitada.`
-` Se você continuar a adicionar mais óleo ao fogo, até mesmo eu vou ficar muito irritada."`
+` Se continuar a adicionar mais óleo ao fogo, até mesmo eu vou ficar muito irritada."`
 `".................."`
 `A tia Natsuhi olhou para a Maria com um olhar assustador.`
-`...Maria estava acostumada com o estilo de repreensão da tia Rosa, mas aparentemente ela não tinha desenvolvido resistência a esse tipo de silêncio.`
+`...Maria estava acostumada com o estilo de repreensão da tia Rosa, mas aparentemente, ela não tinha desenvolvido resistência a esse tipo de silêncio.`
 ` ...Ela encolheu os ombros e manteve a boca fechada.`
-`Um sentimento desolado ocupou a sala...`
+`Um sentimento desolado ocupou o local...`
 `{n}Parecia que as coisas ficariam mais complicadas se alguém falasse.`
 `......Quantas pessoas já haviam morrido?`
 `Seis no grupo do meu pai.`
-` Além disso, a tia Eva e o tio Hideyoshi; o Kanon‐kun; e o vovô.`
-`.........Havia um total de dezoito pessoas nessa ilha.`
+` Além disso, a tia Eva e o tio Hideyoshi; o Kanon‐kun e o vovô.`
+`.........Havia um total de dezoito pessoas nesta ilha.`
 `{n}...Dez delas foram mortas.`
 `Mais de metade de nós haviam sido mortos.`
 ` ......E nessa etapa, não havia absolutamente nenhuma garantia de que os oito restantes ficariam bem...`
 `"......De qualquer forma, agora não é o momento de discórdia.`
-` ......Agora que temos certeza de que o assassino pode entrar e sair da mansão à vontade, e atacar do nada,`
+` ......Agora que temos certeza de que o assassino pode entrar e sair da mansão à vontade e atacar do nada,`
 ` devemos fazer de tudo para sobreviver até amanhã."`
 `"...Eu concordo fortemente com a tia Natsuhi.`
 ` ......Nós podemos perder nosso tempo torturando nossos cérebros pensando no culpado mais tarde.`
-` Por hora, devemos considerar onde vamos nos abrigar."`
-`Enquanto eu dizia isso, eu apontava o relógio para todos.`
+` Por ora, devemos considerar onde vamos nos abrigar."`
+`Enquanto dizia isso, eu apontava o relógio para todos.`
 `Já eram oito da noite.`
-` ...Nós estamos sendo pegos de surpresa repetidamente desde o início da manhã, e tanto nossos corpos como nossas mentes estavam completamente cansados.`
+` ...Nós estamos sendo pegos de surpresa repetidamente desde o início da manhã, e tanto nossos corpos como nossas mentes estão completamente exaustos.`
 `......Ainda havia muito, muito tempo até amanhã.`
 ` Precisávamos encontrar um lugar para nos abrigar, algum lugar onde pudéssemos descansar nossos corpos e nos sentirmos pelo menos um pouco seguros...`
 `".........Eu concordo...`
@@ -157,23 +157,23 @@
 `".........Sim.`
 ` Enquanto eles estivessem de serviço, estariam com elas."`
 `"...Não queríamos atrapalhar a cena, então não investigamos isso, mas não podemos eliminar a possibilidade de uma chave ter sido roubada de um deles."`
-`".........Mesmo antes disso, sabemos que há uma possibilidade do culpado ter visitado o quarto dos serviçais em algum ponto, de modo que pudessem destravar o {i:shutter} à vertente do jardim de rosas.`
+`".........Mesmo antes disso, sabemos que há uma possibilidade do culpado ter visitado a sala dos serviçais em algum ponto, de modo que pudessem destravar o {i:shutter} à vertente do jardim de rosas.`
 ` Eu acho que é muito provável que ele já tenha obtido uma chave mestra lá."`
-`Haviam muitos serviçais servindo a família Ushiromiya.`
-`{n}Por causa disso, haviam várias chaves mestras.`
+`Havia muitos serviçais servindo a família Ushiromiya.`
+`{n}Por causa disso, havia várias chaves mestras.`
 `Além disso, cada vez que os turnos mudavam, as chaves eram passadas entre os serviçais.`
 ` Ela teve que admitir que o arranjo tinha sido um pouco desleixado.`
 `"Supondo que ele tomou emprestado um molho de chaves do bolso de um dos serviçais assassinados,`
 ` há algum lugar seguro que até mesmo aquelas chaves não poderiam abrir...?"`
 `".........Devido à natureza de nossos trabalhos, nos foram confiadas chaves para todos os quartos...`
 ` Todos na mansão e na casa de hóspedes..."`
-`"Então, em outras palavras, ......não importa onde nos fechemos e nos trancamos, seria apenas inútil.`
+`"Então, em outras palavras, ......não importa onde nos fechemos e nos tranquemos, seria apenas inútil.`
 ` ...Tudo bem por mim, quem precisa de malditas fechaduras?! Se você vai vir, venha logo, droga!`
 ` Eu vou matá‐lo primeiro!!"`
 `".........O inimigo não se aproximará de nós pela frente.`
 ` Eu não sei sobre os seis primeiros, mas se olharmos para o que aconteceu com meus pais e o Kanon‐kun,`
 ` ...e até mesmo o vovô, o inimigo só foi atrás de pessoas isoladas.`
-` Ele não têm o poder de atacar todos nós abertamente em um quarto seguro."`
+` Ele não tem o poder de atacar todos nós abertamente em um quarto seguro."`
 `"Exato.`
 ` É como o aniki diz.`
 ` ......Talvez o rifle da tia possa servir para afastar o inimigo."`
@@ -202,7 +202,7 @@
 `".........Entendo...`
 ` O que significa que o quarto do Kinzo‐san é o único local seguro agora..."`
 `"...Parece que sim.`
-` ......Eu nem quero pensar em ficar calada a noite toda naquele quarto de cheiros peculiares,`
+` ......Eu nem quero pensar em ficar trancada a noite toda naquele quarto de cheiros peculiares,`
 ` mas parece que devemos aceitar que seu quarto é mais seguro do que qualquer outro lugar agora."`
 `"...............O vovô se trancou naquele "quarto seguro", mas o culpado ainda o matou.`
 ` ...Não podemos dizer com certeza se é realmente seguro."`
@@ -211,8 +211,8 @@
 `"......Você é muito otimista, aniki."`
 `No entanto, ......ao mesmo tempo, eu pensei que ele trouxe um ponto muito interessante.`
 `Afinal, isso nos dá a chance de questionar o inimigo, a própria bruxa, sobre como a porta selada foi aberta.`
-`Se assumirmos que o culpado usou alguma técnica para abduzir o vovô de seu quarto...`
-`...eles teriam que nos mostrar o mesmo truque novamente se quisessem nos atacar naquele quarto.`
+`Se supormos que o culpado usou alguma técnica para abduzir o vovô de seu estúdio...`
+`Ele teria que nos mostrar o mesmo truque novamente se quisesse nos atacar lá.`
 `......É uma oportunidade para forçar o culpado a demonstrar aquele truque bem diante de nossos olhos.`
 `Se eles são uma verdadeira bruxa, estaríamos forçando‐os a dizer Abre‐te Sésamo e abrir a porta por magia bem na nossa frente.`
 ` ......Mas tal coisa é provavelmente impossível.`
@@ -224,7 +224,7 @@
 `".........Sim.`
 ` Há uma cama, um sofá e cobertores, então embora não seja luxuoso, será mais do que suficiente para passar a noite.`
 ` Há também uma pia, um banheiro, um refrigerador e um armário de bebidas."`
-`"Whoa.`
+`"Uau.`
 ` Isso é incrível.`
 ` ...Mas isso não é estranho?`
 ` Está dizendo que ele construiu outra casa dentro da sua própria casa?`
@@ -245,12 +245,12 @@
 ` Não há necessidade de se expor ao culpado."`
 `"Bem dito......`
 ` Não devemos correr muitos riscos antes que a polícia chegue aqui."`
-`"Obrigado, Doutor Nanjo.`
+`"Obrigado, doutor Nanjo.`
 ` .........Acho que devemos ir para o quarto do pai.`
 ` ...Certamente, considerando a possibilidade de que o pai tenha sido tirado de lá, não há garantias de segurança absoluta."`
 `"......No entanto, assim como Battler‐kun raciocinou,`
-` Eu também não posso negar a possibilidade de que o pai abandonou o quarto por vontade própria e foi atacado fora."`
-`...Aquela teoria louca foi apenas o que eu consegui para parar o argumento.`
+` eu também não posso negar a possibilidade de que o pai abandonou o quarto por vontade própria e foi atacado fora dele."`
+`...Aquela teoria louca foi apenas o que eu consegui para interromper os argumentos.`
 `No entanto, tal como a tia Eva tinha dito, mesmo que aquele truque funcionasse,`
 ` não posso começar a explicar que motivo poderia ter feito o vovô fazer algo tão estranho para escapar de seu próprio quarto.`
 `Além disso, aquele truque de se esconder debaixo da cama e esperar que o selo seja removido antes de escapar,`
@@ -258,7 +258,7 @@
 `A tia Eva não tinha apontado aquela última parte,`
 ` ......mas é claro o quão absurdo era aquela teoria.`
 `Então isso significa que, como a tia Eva afirmou, a porta estava selada e era um quarto fechado?`
-`É um fato sem dúvida que a tia Natsuhi era a culpada, e que o quarto estava trancado...?`
+`É um fato, sem dúvida, que a tia Natsuhi era a culpada, e que o quarto estava trancado...?`
 `............Se a tia Eva estivesse aqui agora, ela provavelmente faria essa afirmação abertamente e me faria o favor de tirar essa estranha teoria da minha cabeça.`
 `...Mas de qualquer maneira.`
 `Eu tinha que admitir que um quarto com uma cama e um banheiro, que todas as oito pessoas poderiam ficar,`
@@ -271,8 +271,8 @@
 `...Enquanto eu continuo a sacudir o tabuleiro de xadrez, o real e o inverso continuam se invertendo repetidamente, e cada vez mais e eu perco minha capacidade de acreditar em qualquer coisa...`
 `Quando parece que o culpado é um dos 18, eu quero acreditar na {f:5:Beatrice},`
 ` e uma vez que eu começo a acreditar na {f:5:Beatrice}, eu começo a querer encontrar o culpado em meio aos 18.`
-`...Isso continua girando para sempre, e no final, meus pensamentos não deram um passo adiante de onde eles começaram...`
-`......Até que ponto no passado foi em que a Kyrie‐san me ensinou esse modo de pensar sobre xadrez...?`
+`...Isso continua girando para sempre e, no final, meus pensamentos não deram um passo adiante de onde eles começaram...`
+`......Até que ponto, no passado, foi que a Kyrie‐san me ensinou esse modo de pensar sobre xadrez...?`
 `Esse conceito de examinar a situação ao invertê‐la e pensar do lado do inimigo...`
 ` Eu tenho a sensação de que estava tão interessado nessa maneira de pensar na época, que eu deixei isso me guiar com tudo o que eu pensava.`
 `......A propósito, a Kyrie‐san era colega de trabalho do meu pai naquela época.`
@@ -291,7 +291,7 @@
 ` O modo de pensar com tabuleiro é apenas minha interpretação que desnata a superfície da teoria dos jogos.`
 ` ......A fim de ler completamente os movimentos de seu oponente como você está imaginando, você precisa estudar muito."`
 `"Além disso, enquanto a teoria do tabuleiro de xadrez é conveniente e prática, não é perfeita.`
-` Tem muitos pontos fracos apesar de sua conveniência."`
+` Tem muitos pontos fracos, apesar de sua conveniência."`
 `"......Pontos fracos?"`
 `"Sim.`
 ` ...O modo de pensar com tabuleiro é baseado na teoria dos jogos.`
@@ -303,13 +303,13 @@
 `Isso é porque não há absolutamente nenhuma mudança misturada nisso.`
 `Mas, por exemplo,`
 ` ......ao contrário da matemática, a língua japonesa tem várias mudanças.`
-`Os kanji são um bom exemplo.`
-` Kanji antigos e kanji novos são ligeiramente diferentes,`
+`Os kanjis são um bom exemplo.`
+` Kanjis antigos e kanjis novos são ligeiramente diferentes,`
 ` que representam uma introdução criada por mudanças ao longo dos séculos.`
 `Em história não é o mesmo?`
 ` ...Há dezenas de políticas que parecem tolas hoje em dia, mas que foram significativas em algum momento do passado.`
 `Porque as regras do xadrez são fixas, quando um par de especialistas estão discutindo uma posição particular,`
-` é possível que eles possam chegar à mesma conclusão seja de cem anos no passado ou de cem anos no futuro.`
+` é possível que eles possam chegar à mesma conclusão seja, de cem anos no passado ou de cem anos no futuro.`
 `...No entanto, se as regras do xadrez tivessem passado por mudanças maciças ao longo do tempo,`
 ` é possível que a discussão sobre essa mesma posição mudasse também.`
 `"Precisamente.`
@@ -327,8 +327,8 @@
 `......Mas e se...`
 `o oponente for inconstante ou estiver cansado, e fizer um movimento que dificilmente poderia ser chamado de "o melhor"?`
 `Ou talvez, ...e se o jogo na verdade tiver regras especiais,`
-` que somente o inimigo conhece, e ele podem fazer uso de algo que você desconhece?`
-`De fato, e se o oponente na verdade tiver algum objetivo além da vitória?`
+` que somente o inimigo conhece, e ele pode fazer uso de algo que você desconhece?`
+`De fato, e se o oponente, na verdade, tiver algum objetivo além da vitória?`
 `Pense da perspectiva de seu inimigo.`
 `{n}Essa é a base do modo de pensar com tabuleiro.`
 `...O que significa que...`
@@ -363,7 +363,7 @@
 `Enquanto o Genji‐san estava destrancando a porta, Maria estava olhando para ela e a maçaneta com grande interesse.`
 `".........Uu.`
 ` ...Que porta incrível."`
-`"Parece velha e enrijecida, como se impedisse qualquer piada — com certeza é uma porta apropriada para o quarto do vovô."`
+`"Parece velha e enrijecida, como se impedisse qualquer trocadilho — com certeza é uma porta apropriada para o quarto do vovô."`
 `"......Contém um poder muito forte para afastar qualquer ameaça espiritual.`
 ` .........A {f:5:Beatrice} provavelmente não poderia abrir essa porta."`
 `"Oh...?`
@@ -372,7 +372,7 @@
 `.........Uma crista de escorpião —`
 ` não, um desenho como um círculo mágico em torno de um escorpião, foi gravado nela.`
 `...Esse desenho... ...Isso mesmo.`
-`{n}Isso não é exatamente como aqueles encantos que a Maria deu para mim e para a Jessica ontem...?`
+`{n}Isso não é exatamente como aqueles amuletos que a Maria deu para mim e para a Jessica ontem...?`
 `".........O quinto círculo mágico de Marte é um repelente mágico poderoso.`
 ` Além disso, esse círculo mágico foi muito diligentemente construído, e está cheio de poder.`
 ` ............Para seres mágicos como a {f:5:Beatrice}, esse círculo mágico é bem problemático."`
@@ -387,7 +387,7 @@
 `"Aah, eu li isso em um mangá.`
 ` Havia uma cena em que os vampiros estavam assustados com cruzes, então eles não podiam chegar perto,`
 ` mas seus familiares estavam bem, então eles fizeram seus familiares atacarem."`
-`"Aquele amuleto de escorpião que eu te dei ontem também tinha o quinto círculo mágico de Marte.`
+`"Aquele amuleto de escorpião que te dei ontem também tinha o quinto círculo mágico de Marte.`
 ` O poder que estava dentro dele era insignificante, mas teria sido suficiente para protegê‐lo até que você deixasse essa ilha."`
 `".........Embora pareça que você perdeu, certo?`
 ` Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi..."`
@@ -400,15 +400,15 @@
 `"............A tia Natsuhi colocou aquilo...`
 `na maçaneta da porta dela?"`
 `"Sim.`
-` ...Ontem à noite, depois de ouvir sobre isso de Jessica, pendurei na maçaneta do lado de dentro da minha porta."`
+` ...Ontem à noite, depois de ouvir sobre isso pela Jessica, pendurei na maçaneta do lado de dentro da minha porta."`
 `"Então, tia Natsuhi, você é realmente afortunada.`
 ` .........Se você fez isso, a {f:5:Beatrice} provavelmente não pôde sequer colocar um dedo em você ontem."`
 `"...Eu acho que a {f:5:Beatrice} deve ter ficado realmente irritada.`
 ` ......Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi..."`
 `...{f:5:Beatrice}, irritada...?`
 `{n}Não pôde colocar um dedo...?`
-`Natsuhi pensou naquela estranha pichação que ela viu naquela manhã, como se alguém estivesse rasgando o lado de fora da porta com as mãos encharcadas de sangue, ......e engasgou de surpresa.`
-`Poderia ser,`
+`Natsuhi pensou naquela estranha pichação que ela viu naquela manhã, como se alguém estivesse arranhando o lado de fora da porta com as mãos encharcadas de sangue, ......e engasgou de surpresa.`
+`Poderia ser`
 ` .........que essa bruxa que se chama {f:5:Beatrice},`
 ` ......tenha tentado entrar pela porta do seu quarto...?`
 `Mas o amuleto que repele magia estava pendurado do lado de dentro.`
@@ -417,7 +417,7 @@
 `{n}...Por isso ela arranhou a porta...?`
 `"Pare, não fale sobre isso...`
 ` Bruxas não existem.`
-` O assassino sim.`
+` O assassino, sim.`
 ` E é um humano igual a nós."`
 `"......E se você precisar de provas, por que não a matamos e vemos se seu sangue é vermelho?`
 ` ......Droga, .........droga......`
@@ -426,30 +426,30 @@
 ` Genji destrancou a porta.`
 `Os oito entraram no quarto de Kinzo...`
 `O quarto do vovô, .........eu tinha ouvido rumores sobre ele de antemão, por isso não me surpreendeu tanto.`
-`Ele não tinha feito nada mais do que fortalecer completamente com seus hobbies de ocultismo.`
-`...Se o hobby do vovô fosse correr atrás de idols pop, essas paredes poderiam estar lotadas de pôsteres de idols.`
+`Ele não tinha feito nada mais do que fortalecê‐lo por completo com seus hobbies de ocultismo.`
+`...Se o hobby do vovô fosse correr atrás de idols pop, essas paredes poderiam estar lotadas de pôsteres delas.`
 `Mesmo sem entender, eu percebi que esse quarto era uma fusão de todas as coisas que ele gostava.`
 `Mesmo assim, eu não pude deixar de ficar perplexo com o cheiro assustador de medicamentos e o doce cheiro que parecia derreter minha cabeça...`
 `Quando a porta se fechou, automaticamente fez um barulho.`
 `{n}...Entendi, esse é o bloqueio automático que é ativado sempre que a porta é fechada...`
 `E só haviam duas chaves que podiam abrir essa porta do lado de fora, as duas estavam nesse quarto.`
 ` ......Em outras palavras, esse quarto tinha se tornado um "quarto fechado".`
-`.........O {i:shutter}, o selo, e a corrente.`
+`.........O {i:shutter}, o selo e a corrente.`
 `{n}......E agora, o bloqueio automático.`
 `...Essa quarta porta tinha sido bloqueada da forma mais magnífica possível, construindo um quarto fechado de forma perfeita de maneira que ninguém poderia discutir.`
 `Só para ter certeza absoluta de que o quarto estava seguro, verificamos todas as maneiras de entrar ou sair.`
 `As janelas estavam bem trancadas.`
 ` Isso deveria ter sido o bastante, mas só por acaso, tentamos bater em todas as paredes.`
-`......Afinal, haviam sussurros de que poderia haver uma porta escondida nessa sala.`
-`{n}...Mas não conseguimos encontrar suspeito.`
+`......Afinal, havia sussurros de que poderia haver uma porta escondida nessa sala.`
+`{n}...Mas não conseguimos encontrar nada suspeito.`
 `O quarto do vovô era muito grande.`
 `{n}Embora o chamássemos de quarto, não era realmente um simples quarto.`
 `Poderia ser dividido em quatro seções básicas: uma seção de estudos, uma seção para dormir, uma seção com banheiro e uma seção para cozinhar que também tinha uma pia.`
 `Entendo, esse quarto tem de tudo para viver.`
-`{n}...Agora eu entendo como o vovô podia viver toda a sua vida nesse quarto sem nunca sair.`
-`Parecia que o vovô não tinha o hábito de assistir TV; não havia televisão nesse quarto, nem mesmo um rádio.`
+`{n}...Agora eu entendo como o vovô podia viver toda a sua vida neste quarto sem nunca sair.`
+`Parecia que o vovô não tinha o hábito de assistir TV; não havia televisão neste quarto, nem mesmo um rádio.`
 `......Até amanhã de manhã, não haveria nada a fazer além de passar o tempo ouvindo o som da chuva.`
-`O Doutor Nanjo olhou para o tabuleiro de xadrez que estava na mesa em frente ao sofá, e murmurou...`
+`O doutor Nanjo olhou para o tabuleiro de xadrez que estava na mesa em frente ao sofá, e murmurou...`
 `Aparentemente era o mesmo jogo de xadrez parcialmente terminado que ele vinha jogando com o vovô até ontem.`
 `......O preto tinha o branco muito bem encurralado, e parecia que o xeque‐mate seria alcançado em poucos movimentos — a reta final do jogo.`
 `Mesmo que o xeque‐mate estivesse quase sendo alcançado,`
@@ -460,12 +460,12 @@
 `......que não fomos capazes de ver a conclusão desta partida..."`
 `".........Doutor Nanjo..."`
 `"...Eu fui amigo do Kinzo‐san por um longo tempo, ......mas eu nunca soube muita coisa sobre ele.`
-` ...Eu acredito que existiram dois Kinzos, um sábio...e também o prisioneiro de uma loucura..."`
+` ...Eu acredito que existiram dois Kinzos, um sábio...e também um prisioneiro de uma loucura..."`
 `"............Eu nunca entendi nada sobre ele..."`
 `"...Especialmente quando se tratava da {f:5:Beatrice}‐sama, parecia que sua personalidade mudava..."`
 `Na direção do olhar fixo de Kumasawa‐san, um retrato de {f:5:Beatrice} podia ser visto.`
 `Não era enorme como o que está pendurado no hall de entrada, mas pequeno, feito para esse quarto.`
-`O vovô provavelmente passou todos os dias nesse quarto, e a maioria do seu tempo...`
+`O vovô provavelmente passou todos os dias neste quarto, e a maioria do seu tempo...`
 `falando com a bruxa naquele retrato.`
 `......Quem foi {f:5:Beatrice} para o vovô em primeiro lugar?`
 `...Até agora, você não poderia simplesmente explicar sua história dizendo que era feita pelos pais para assustar as crianças e deixarem elas longe da floresta...`
@@ -482,35 +482,35 @@
 `Genji‐san puxou um abridor de cartas de uma gaveta na mesa de estudos e entregou a ela.`
 `Ao vê‐la abrir, o George‐aniki fez uma careta.`
 `......Afinal, era uma carta deixada no local onde seus pais haviam sido assassinados.`
-`{n}...Havia uma boa chance de que seu conteúdo dissesse algo insuportável para o aniki...`
+`{n}...Havia uma boa chance de que seu conteúdo dissesse algo insuportável para ele...`
 `Parece que a tia Natsuhi também percebeu isso.`
 `{n}...Então ela olhou o conteúdo primeiro sem lê‐lo em voz alta.`
-`Estávamos um pouco assustados que ela poderia fazer alguma expressão arrepiante depois de ler algo chocante, mas ela apenas franziu a testa infeliz.`
+`Estávamos um pouco assustados de que ela fosse fazer alguma expressão arrepiante depois de ler algo chocante, mas ela apenas franziu a testa, infeliz.`
 `"......O que...diz...?"`
 `"...Há uma frase desagradável.`
 ` ......Deve estar tentando nos provocar."`
 `A tia Natsuhi, depois de decidir que o conteúdo poderia ser mostrado para as crianças, colocou a carta abertamente sobre a mesa.`
 ` Todo olharam para ela ao mesmo tempo.`
 `"‘Louvem meu nome’.`
-` .........O que é diabos?`
+` .........O que diabos?`
 ` ......Que merda."`
 `".........É provavelmente a {f:5:Beatrice} declarando‐se a vencedora.`
 ` ............Droga..."`
 `".............................."`
 `"Imaginei que você estava esperando que outro círculo mágico estranho aparecesse."`
 `"......Não foi um círculo mágico.`
-` ......Mas foi exatamente como eu esperava.`
+` ......Mas também não traiu minhas expectativas.`
 ` ...Kihihi."`
 `"O que isso poderia significar......?`
 ` Eu me pergunto se ela quer provar sua própria existência..."`
 `"Parece sensato pensar assim.`
 ` ......Com essa carta, agora sabemos que o autor da carta de ontem à noite é o culpado.`
 ` ......Acho que o envelope idêntico é mais significativo do que o que está escrito aqui."`
-`"...............Sem dúvida, esse é o tipo de envelope e lacre que o Mestre usava."`
+`"...............Sem dúvida, esse é o tipo de envelope e selo que o Mestre usava."`
 `"...Ooooohh...`
 ` Eu não sei mais o que está acontecendo......`
 ` Essa é a primeira vez que vejo algo assim desde que comecei a trabalhar para a família Ushiromiya..."`
-`"Se acreditarmos na carta da noite passada, ......então {f:5:Beatrice} afirma ser a confidente mais antiga do vovô.`
+`"Se acreditarmos na carta da noite passada, ......então a {f:5:Beatrice} afirma ser a confidente mais antiga do vovô.`
 ` ......O vovô costumava dizer a mesma coisa no passado, certo?"`
 `Eu dirigi a pergunta para o Genji‐san e a Kumasawa‐san, que assentiram juntos.`
 `"...Então, vocês dois sabiam mais sobre isso do que qualquer um além do vovô.`
@@ -528,7 +528,7 @@
 `Como o serviçal de maior confiança do vovô, que lhe havia jurado lealdade,`
 ` ele poderia ser o mais influenciado pela ilusão da bruxa que o vovô tinha criado...`
 `Então, havia apenas uma razão para o Genji‐san permanecer em silêncio.`
-`......Ele poderia dizer, mas definitivamente causaria uma reação estranha, então seria melhor se ele se mantivesse calado. E de qualquer maneira, não é como se fosses acreditar.`
+`......Ele poderia dizer, mas definitivamente causaria uma reação estranha, então seria melhor se ele se mantivesse calado. E de qualquer maneira, não é como se fossemos acreditar.`
 ` Algo nesse sentido.`
 `...Pouco tempo atrás, a Maria tinha estado mais do que disposta a falar abertamente e sem restrições, e isso havia causado causado uma briga com a Jessica.`
 `Era natural que o Genji‐san guardasse seu silêncio...`
@@ -580,11 +580,11 @@
 ` os círculos mágicos,`
 ` os medicamentos,`
 ` ...tudo.`
-`......Tudo só porque ele queria reviver mais uma vez o rosto de uma única mulher, que havia deixado esse mundo há trinta anos atrás...`
+`......Tudo só porque ele queria reviver mais uma vez o rosto de uma única mulher, que havia deixado este mundo há trinta anos atrás...`
 `"............O Mestre só me contou sobre a história de {f:5:Beatrice}‐sama uma vez, quando ele estava muito bêbado.`
 ` .........Embora eu tenha esquecido os detalhes.`
 ` ......Foi...`
-`um amor realmente profundo, o suficiente para fazer com que uma mulher como eu fique com ciúmes."`
+`um amor realmente profundo, o suficiente para fazer com que uma mulher como eu fique com inveja."`
 `"......Quando o Kinzo‐san sucedeu a liderança da família Ushiromiya,`
 ` ...seu casamento com sua falecida esposa foi decidido pelos poucos anciãos sobreviventes da família."`
 `"...Então ele se casou com uma mulher que beneficiaria a família Ushiromiya,`
@@ -594,20 +594,20 @@
 ` .........Eu...não pretendo saber os detalhes de quando ou onde Kinzo‐san se encontrou pela primeira vez com a {f:5:Beatrice}."`
 `"............Seria rude dizer mais do que isso."`
 `Foi quando o vovô realmente se apaixonou pela primeira vez...`
-`Quão profundo esse afeto deve ter sido.`
+`Quão profundo esse afeto deve ter sido?`
 `{n}...Foi fácil dizer apenas olhando ao nosso redor.`
 `......Esse quarto estava coberto de pilhas e mais pilhas de várias coisas que tinham relação com magia negra.`
 `{n}E o vovô passou dia após dia trancado aqui, imerso em sua pesquisa e isolado do mundo exterior, nunca tendo um único dia de folga.`
 `......Você não podia deixar de perceber o quão profundo foi o amor do vovô pela {f:5:Beatrice}...`
 `".....................`
 ` ......Eu......entendi tudo errado, Genji‐san."`
-`"...............O que isso poderia ser?"`
+`"...............O que isso poderia significar?"`
 `"Eu, ......eu sempre pensei que...talvez vocês serviçais acreditassem cegamente na bruxa porque foram influenciados pelo hobby desagradável que o vovô tinha.`
 ` ......Mas não é assim..."`
 `Talvez eles estivessem agindo como se pelo menos a alma de {f:5:Beatrice} tivesse sido restaurada,`
 ` ......e existisse dentro dessa mansão,`
 ` ......a fim de acalmar o coração do vovô...`
-`Com os olhos fechados, e uma expressão como se estivesse se lembrando de algo de um passado distante,`
+`Com os olhos fechados e uma expressão como se estivesse se lembrando de algo de um passado distante,`
 ` ......Genji manteve seu silêncio.`
 `............Ele provavelmente sentiu que confessar algo seria trair seu único mestre da maneira mais séria, mesmo que essa pessoa já estivesse morta.`
 `......{f:5:Beatrice} reviveu como uma bruxa, e ela está na mansão agora.`
@@ -623,9 +623,9 @@
 `"..................`
 `......Lembro‐me de negar a existência da bruxa na frente do pai em várias ocasiões.`
 ` .........Agora eu finalmente entendo o quanto isso deve ter ferido ele..."`
-`"......Agora eu posso entender muito bem.`
+`"......Agora eu consigo entender muito bem.`
 ` .........Se eu achasse que pudesse reviver a Shannon usando magia negra,`
-` ......eu me tornaria imediatamente o próximo dono desse quarto e começaria a pesquisar..."`
+` ......eu me tornaria imediatamente o próximo dono deste quarto e começaria a pesquisar..."`
 `"..............................Aniki."`
 `Mais lágrimas escorreram dos olhos de George.`
 `{n}......Talvez fosse infeccioso; lágrimas apareceram nos olhos de Jessica também, e ela fungou...`
@@ -633,13 +633,13 @@
 ` .........Muito em breve, ela será capaz de reviver.`
 ` Seremos capazes de nos encontrar."`
 `― Em breve, a porta para a Terra Dourada será aberta.`
-`Naquela terra prometida que brilha como ouro, ela ressuscitará todas as almas dos mortos e ressuscitará o amor que eles possuíram também.`
+`Naquela terra prometida que brilha como ouro, ela ressuscitará todas as almas dos mortos e ressuscitará também o amor que eles possuíam.`
 `......E eu vou dormir, em um mundo de paz, para sempre.`
 `"......Ela disse isso?`
 ` A {f:5:Beatrice} que entregou a carta a você?"`
 `"...............Você não acredita mesmo, não é?`
 ` ......Kihihihi."`
-`"......Se apenas o vovô estivesse aqui.`
+`"......Se ao menos o vovô estivesse aqui.`
 ` Tenho certeza que ele ficaria feliz.`
 ` Tenho certeza que ele estaria pulando de alegria agora que a {f:5:Beatrice} está prestes a ser revivida..."`
 `"...Nesse caso, eu vou acreditar.`
@@ -657,14 +657,14 @@
 `Algum tempo se passou.`
 ` Enquanto escutávamos o som da chuva,`
 ` ......nós consideramos que tipo de amor e loucura deve ter possuído o proprietário desse quarto enquanto ele passava metade de sua vida aqui...`
-`".........Se você me perguntar como uma mulher, eu gostaria de compreender os sentimentos de amor verdadeiro do pai,`
+`".........Se você me perguntar, como mulher, eu gostaria de compreender os sentimentos de amor verdadeiro do pai,`
 ` ......mas isso deixaria a mãe em uma posição embaraçosa."`
 `"Haha, eu concordo.`
 ` Traição é traição.`
 ` Não tem como tornar isso bonito..."`
 `"......Isso também é verdade.`
 ` Pobre vovó."`
-`"Então, ......há alguma história sobre uma criança entre a {f:5:Beatrice} e vovô...?"`
+`"Então, ......há alguma história sobre uma criança entre a {f:5:Beatrice} e o vovô...?"`
 `A palavra‐chave "{f:5:Beatrice}" foi escondida em todos os cantos desse caso.`
 `Então é natural suspeitar de qualquer parente da {f:5:Beatrice}.`
 `"Não.`
@@ -679,18 +679,18 @@
 `"Nos diga, tia Natsuhi.`
 ` ...Você não concorda que não devemos esconder as coisas uns dos outros?"`
 `"...............É uma história sem valor.`
-` O pai apoiou fortemente esse orfanato, e abriu posições de empregados para eles dentro dessa casa como parte de seus estudos sociais.`
+` O pai apoiou fortemente esse orfanato e abriu posições de empregados para eles dentro dessa casa como parte de seus estudos sociais.`
 ` ...Algumas pessoas tolas começaram a espalhar rumores de que o pai tinha motivações sujas — isso é tudo."`
 `"Em um certo ponto, havia um boato de que ele estava coletando sacrifícios para sua magia negra...`
 ` E já que ele estava realmente fazendo experiências e rituais estranhos nesse quarto o tempo todo, eu meio que acreditei nisso..."`
 `"......E quem são esses serviçais que vieram da Casa Fukuin?"`
-`"............São vários, mas durante a conferência familiar, apenas Shannon e Kanon foram programados para estar aqui."`
+`"............São vários, mas durante a conferência familiar, apenas Shannon e Kanon foram programados para estarem aqui."`
 `Para ressuscitar a {f:5:Beatrice}, ele convocou serviçais de um orfanato......como sacrifícios...?`
-`"Afinal de contas, todos os que vovô selecionou como serviçais eram jovens, sempre com a mesma idade da Shannon e do Kanon‐kun.`
+`"Afinal de contas, todos aqueles que o vovô selecionou como serviçais eram jovens, sempre com a mesma idade da Shannon e do Kanon‐kun.`
 ` ...Eu tinha certeza de que o vovô tinha algumas tendências estranhas."`
 `"Jessica!`
 ` Controle suas palavras."`
-`Quando a tia Natsuhi a repreendeu, a atmosfera instantaneamente ficou estranha e todos ficaram quietos.`
+`Quando a tia Natsuhi a repreendeu, a atmosfera instantaneamente ficou estranha e todos se calaram.`
 `...No entanto, algo estava batendo no fundo da minha mente.`
 `Sacrifícios...`
 ` Sacrifícios...`
@@ -738,7 +738,7 @@
 `"...T‐Tem razão.`
 ` Mesmo lendo rapidamente, haveria 6+2+5,`
 ` ...13 pessoas que têm de morrer...!"`
-`"...Normalmente são quantas pessoas nessa ilha?!"`
+`"...Normalmente são quantas pessoas nesta ilha?!"`
 `"Isso, ...isso varia de acordo com os turnos dos serviçais, mas há o pai, meu marido, eu e a Jessica.`
 ` E dois ou três serviçais.`
 ` ...Hoje e ontem, haviam cinco, mas normalmente não há muitos."`
@@ -753,7 +753,7 @@
 `"...............Kihihihihihihihihihihihihihihi.`
 ` ...Não há algumas pessoas que fazem apostas para testar seu destino?"`
 `Como jogar uma sandália e dizer que se ela cair virada para cima, amanhã estará ensolarado.`
-`{n}...Ou dizendo que amanhã será um bom dia se uma moeda cair em cara.`
+`{n}...Ou dizer que amanhã será um bom dia se uma moeda cair em cara.`
 `......Há muitas superstições como essa.`
 `Se você está farto de como nada está indo certo para você, e acontecer de você jogar alguns dados e obter três seis, provavelmente faria você querer acreditar que é um sinal de algum milagre.`
 `...Ao lançar uma sandália, você tem, na pior das hipóteses, uma chance de cinquenta por cento.`
@@ -770,7 +770,7 @@
 `Natsuhi gritou.`
 `......Ela não conseguia parar de pensar com medo sobre como ela pôde ter sido protegida apenas por causa daquele amuleto de escorpião.`
 `.........Se eu não tivesse recebido aquele amuleto da Jessica e o pendurado na minha maçaneta,`
-` ......eu teria sido morta, teria sido uma daqueles seis?!`
+` ......eu teria sido morta, teria sido um daqueles seis?!`
 `E a parte mais estranha é...apesar de eu ter pendurado o amuleto no interior da minha porta, ele não conseguiu atravessar a porta.`
 `......O assassino tinha notado o amuleto por de fora da porta, e tinha desistido de tentar abrir a porta.`
 `......Um humano não poderia ter percebido isso.`
@@ -847,8 +847,8 @@
 `"Eu, eu não sei nada...!`
 ` Não, você pode ter certeza disso...`
 ` Você acha que eu estaria nessa ilha hoje se eu soubesse?`
-` Eu teria fingido uma doença ou feito o que for preciso para ter um dia de folga, sim!!"`
-`"E quanto à sua opinião, Doutor Nanjo — você é amigo do vovô há muitos anos..."`
+` Eu teria fingido uma doença ou feito o que for preciso para ter um dia de folga, isso sim!!"`
+`"E quanto à sua opinião, doutor Nanjo — você é amigo do vovô há muitos anos..."`
 `".........Eu, eu sinto o mesmo que Genji‐san.`
 ` ...O Kinzo‐san era um homem que superava e muito as pessoas comuns.`
 ` Eu até sentia uma espécie de poder desumano vindo dele às vezes."`
@@ -871,7 +871,7 @@
 ` provavelmente devemos entender que isso significa que a {f:5:Beatrice} está executando aquele contrato estranho, e o vovô está garantindo a ela esse direito.`
 `......Em termos simples, era o mesmo que dizer que o vovô sabia e aprovou o conteúdo daquela carta.`
 `Em outras palavras, é como se fosse uma mensagem conjunta de {f:5:Beatrice} e do vovô...`
-`nos dizendo que a {f:5:Beatrice} começará a coletar esse interesse se não resolvermos o enigma.`
+`nos dizendo que a {f:5:Beatrice} começará a coletar esses juros se não resolvermos o enigma.`
 `......Em suma, o vovô e a {f:5:Beatrice} estavam nos dizendo para resolver o enigma do epitáfio.`
 ` E se não pudéssemos, eles estavam dizendo que matariam todos, seguindo o procedimento do epitáfio.`
 `Qual o significado disso?`
@@ -888,9 +888,9 @@
 `......Porque o envelope que ela acabara de abrir ainda estava na sua mão.`
 `......E apesar disso, há outro envelope sobre a mesa...?!`
 `"O‐......O que é isso?!?!`
-` O que está acontecendo, Maria!!`
+` O que está acontecendo, Maria?!`
 ` De onde veio esse envelope?!"`
-`"......Eu olhei agora e estava ali.`
+`"......Olhei agora e estava ali.`
 ` Uu."`
 `"Eu, ......eu não sei de nada, nada!!"`
 `"Isso não é engraçado, só tem nós oito aqui!!`
@@ -902,7 +902,7 @@
 `O Genji‐san estava dominado, seu rosto parecia o de alguém que não tinha ideia do que estava acontecendo...`
 `Claro, eu senti o mesmo, ......mas alguns momentos depois, eu cheguei à mesma conclusão que a tia Natsuhi.`
 `Até poucos segundos atrás, não havia nenhuma carta como essa na mesa...!`
-` E ninguém entrou nesse quarto!`
+` E ninguém entrou neste quarto!`
 ` Isso significa que alguém entre nós a colocou ali durante os poucos segundos em que todos estavam olhando para longe, preocupados com o retrato...!!`
 `"Battler‐kun, abra esse envelope e leia o seu conteúdo!"`
 `"C‐Certo!!"`
@@ -915,7 +915,7 @@
 `Como todos vocês provavelmente sabem, vocês têm muito pouco tempo restando.`
 `Por favor, abandonem qualquer esperança ingênua de escapar após a tempestade passar.`
 `Este jogo só pode terminar com a minha vitória ou a de vocês.`
-`Quando o tempo acabar, eu vou ganhar por padrão.`
+`Quando o tempo acabar, eu vou ganhar por desistência.`
 ` Não haverá obstruções.`
 `Certifiquem‐se de não entenderem mal a sua situação atual.}`
 `"Isso é o que diz......"`
@@ -928,14 +928,14 @@
 ` Naquela hora, definitivamente não havia nada tão estranho como essa carta!!"`
 `"E naquele momento, a Jessica, o George‐kun e o Battler‐kun já estavam na frente do retrato!!`
 ` E eles não deixaram o local na frente do retrato até que a carta aparecesse!`
-` Então a pessoa que colocou essa carta é uma de vocês quatro!!!`
-` A {f:5:Beatrice} é um de vocês!!!"`
+` Então a pessoa que colocou essa carta é um de vocês quatro!!!`
+`{n}A {f:5:Beatrice} é um de vocês!!!"`
 `".........Uu.`
 ` Nós não somos a {f:5:Beatrice}.`
 ` ...A {f:5:Beatrice} "existe"!"`
 `"Calada!!!`
 ` Não sei se devo suspeitar de um de vocês ou de todos vocês.`
-` ...Mas sem dúvida, pelo menos um entre vocês é o culpado!!!"`
+` ...Mas, sem dúvida, pelo menos um entre vocês é o culpado!!!"`
 `"......I‐Isso mesmo.`
 ` Não pode haver uma 19ª pessoa...!`
 ` Não tem como bruxas existirem!!`
@@ -948,11 +948,11 @@
 `"...Eu não tenho a menor ideia de como meus pais foram mortos naquele quarto fechado.`
 ` Mas quando eles foram mortos, todos, exceto os serviçais, tinham um álibi."`
 `"......Os únicos que não tinham eram os serviçais...`
-` Mas, ...é realmente correto suspeitar deles...?!"`
+` Mas ...é realmente correto suspeitar deles...?!"`
 `"......B‐Bem, agora que você mencionou isso, eles não têm álibi para nenhum dos casos, mas...`
 ` .........nghh!!"`
 `Devemos realmente ser tão rápidos em fazer esse julgamento?!`
-`{n}Mas dessa vez...nesse quarto, nesse lugar, nesse momento...nesse pequeno espaço de tempo, é óbvio.`
+`{n}Mas dessa vez...neste quarto, neste lugar, neste momento...neste pequeno espaço de tempo, é óbvio.`
 `Só um dos quatro poderia ter colocado a carta no nosso ponto cego...!!`
 `{n}Não podemos dizer quem colocou, mas é óbvio que um dos quatro fez isso...!!`
 `"...Na‐......Natsuhi‐san.`
@@ -960,12 +960,12 @@
 ` Muita coisa aconteceu hoje!`
 ` Eu entendo a condição em que seu coração está agora...!"`
 `"Doutor Nanjo, realmente me machuca suspeitar de você...!`
-` No entanto, como médico pessoal do Pai — e seu amigo mais próximo!— Você esteve ao seu lado por muitos anos."`
+` No entanto, como médico pessoal do pai — e seu amigo mais próximo — você esteve ao lado dele por muitos anos!"`
 `"Você também pode saber sobre a {f:5:Beatrice}.`
 ` Você poderia estar escondendo algum tipo de conexão pessoal antiga dele?!"`
 `"É claro que não...!!`
 ` Acalme‐se...!"`
-`Foi lamentável ver o Doutor Nanjo implorar freneticamente sua inocência.`
+`Foi lamentável ver o doutor Nanjo implorar freneticamente por sua inocência.`
 `{n}Foi provavelmente uma reação normal que qualquer pessoa teria se suspeitassem dela.`
 `Com a Kumasawa foi o mesmo.`
 ` Desde que a Jessica começou a suspeitar dela no assassinato do Kanon, ela estava agora completamente nervosa.`
@@ -979,7 +979,7 @@
 ` .........No entanto, não fui eu quem colocou a carta ali."`
 `"Você espera que eu aceite isso?!`
 ` Você deve ser o líder!`
-` Talvez a Kumasawa e o Doutor Nanjo sejam seus cúmplices!!`
+` Talvez a Kumasawa e o doutor Nanjo sejam seus cúmplices!!`
 ` .........E você também, Maria‐chan."`
 `Não contente em duvidar apenas dos adultos, a tia Natsuhi apontou a arma também para a Maria.`
 `Mas a Maria agiu como se nada tivesse acontecido.`
@@ -993,14 +993,14 @@
 ` Deixe isso claro!`
 ` Quem diabos te deu aquela carta?!"`
 `"...Kihihihihihi.`
-` ...Quantas vezes eu tenho que repetir?`
+` ...Quantas vezes tenho que repetir?`
 ` Foi a {f:5:Beatrice}.`
 ` A Bruxa Dourada que viveu por mil anos."`
 `"............Se você quer saber como ela se parece, apenas olhe em volta.`
 ` ...Veja, ela está bem ali.`
 ` A {f:5:Beatrice} está ali.`
 ` ......Kihhihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi!"`
-`"Você, você acha que isso é um jogo, sua pirralha?!?!!!!!!!!!!!!"`
+`"V‐Você acha que isso é um jogo, sua pirralha?!?!!!!!!!!!!!!"`
 `"Pare com isso, Jessica!`
 ` Você também, Maria.`
 ` Você não entende a situação atual?!`
@@ -1014,7 +1014,7 @@
 ` ......A {f:5:Beatrice} "existe".`
 ` Vocês não podem {y:1:‘ver’}{n:1:ver} ela!"`
 `"Calada!!!`
-` Não quero classificá‐la como culpada, mas não há mais dúvidas de que você gosta de deixar essa situação desagradável, servindo os interesses do inimigo!!"`
+` Não quero classificá‐la como culpada, mas não há mais dúvidas de que você gosta de deixar essa situação desagradável, servindo aos interesses do inimigo!!"`
 `"......Kihihihihihihihi.`
 ` ...Então, o que você vai fazer?`
 ` Atirar na Maria?`
@@ -1053,7 +1053,7 @@
 `"Eu declaro isso como Ushiromiya Natsuhi, representante da família Ushiromiya!!`
 ` Não há nenhuma bruxa aqui!`
 ` Eu não aceito a {f:5:Beatrice}!!`
-` Não importa o que estejam planejando, eu não vou deixar colocarem um dedo sobre a minha filha e em mais ninguém!!!`
+`{n}Não importa o que estejam planejando, eu não vou deixar colocarem um dedo sobre a minha filha e em mais ninguém!!!`
 ` Este é meu dever como mãe e como representante da família!!"`
 `Tais palavras, ......foram as últimas palavras de adeus que resolveram tudo.`
 `...Para proteger sua filha, tia Natsuhi consideraria qualquer pessoa suspeita como um inimigo.`
@@ -1061,22 +1061,22 @@
 `Se eu não tivesse me aproximado do retrato,`
 ` ......eu também poderia estar na outra extremidade do cano daquela arma, sendo tratado como um criminoso...`
 `......Mas, mesmo que uma parte minha pensasse isso,`
-` ...outra parte estava pensando que perseguir todas as pessoas suspeitas a partir deste quarto, finalmente, garantiria a nossa segurança...`
-`Genji‐san, Kumasawa‐san, e o Doutor Nanjo — todos estavam do lado do vovô.`
+` ...outra parte estava pensando que expulsar todas as pessoas suspeitas deste quarto finalmente garantiria a nossa segurança...`
+`Genji‐san, Kumasawa‐san e o doutor Nanjo — todos estavam do lado do vovô.`
 `{n}Você poderia até mesmo dizer que a Maria estava do lado do vovô, já que ela tinha uma crença cega na {f:5:Beatrice}.`
 ` ......Isso mesmo, todos eles são suspeitos.`
 `Mas isso está realmente certo...?!`
 `{n}É realmente bom lutar contra a ilegalidade da bruxa, julgando todos os suspeitos sem o devido processo...?!`
 `A tia Natsuhi não tinha dito propriamente para eles saírem.`
 `......Mas, com uma pressão muda, ela estava induzindo‐os a perceberem isso por si mesmos.`
-`......Então, se o Doutor Nanjo não tivesse dito aquelas palavras, o gélido silêncio certamente perduraria para sempre.`
+`......Então, se o doutor Nanjo não tivesse dito aquelas palavras, o gélido silêncio certamente perduraria para sempre.`
 `"............Acalme‐se, Natsuhi‐san.`
 ` .........Mas eu entendo bem seus sentimentos.`
-` Eu mesmo sinto que há algo de errado com a minha cabeça, depois de todos esses incidentes estranhos e repetidos...`
+`{n}Eu mesmo sinto que há algo de errado com a minha cabeça, depois de todos esses incidentes estranhos e repetidos...`
 ` Então eu entendo bem por que você quer suspeitar de nós..."`
 `"..................Se você realmente não tem relação com isso, ...acho que o que estou fazendo está além de ser rude.`
 ` .........No entanto, ...por favor, entenda, apenas desta vez."`
-`".........Eu entendo`
+`".........Eu entendo.`
 ` ...Vamos sair do quarto.`
 ` .........O que você acha, Genji‐san?`
 ` ...Devemos voltar à sala de visitas e continuar o nosso jogo de xadrez?"`
@@ -1086,7 +1086,7 @@
 ` Eu não quero, madame, por favor me perdoe, hiiiiiiiiiiiiiiii......!"`
 `O que Kumasawa‐san estava tentando dizer fazia todo o sentido.`
 `{n}Se ela era inocente, então ela estava sendo jogada em território perigoso junto com o culpado.`
-`......Na situação atual, pressionando‐a para sair da sala, juntamente com os suspeitos, era quase exatamente o mesmo que deixá‐la ser morta...`
+`......Na situação atual, pressionando‐a para sair do quarto, juntamente com os suspeitos, era quase exatamente o mesmo que deixá‐la ser morta...`
 `No entanto, a Kumasawa‐san era realmente suspeita apenas por ter sido a primeira a descobrir que o Kanon‐kun tinha sido assassinado.`
 `...Naquele momento, todos, exceto a Kumasawa‐san, tinham um álibi.`
 `......Enquanto o uso de algum truque ou a existência de uma 19ª pessoa não pudesse ser confirmada, a Kumasawa‐san era, ​​de longe, um dos mais prováveis suspeitos.`
@@ -1094,7 +1094,7 @@
 ` No entanto, a tia Natsuhi e o resto de nós estávamos em uma situação tão difícil que não poderíamos deixar de duvidar de qualquer um deles, incluindo a Kumasawa‐san...`
 `Então não dissemos nada para impedir a tia Natsuhi de tentar expulsá‐los opressivamente do quarto.`
 ` ......Nós tínhamos impedido ela de atirar, mas quando se tratou de exilá‐los do quarto, nós estávamos concordando passivamente...!`
-`Maria falou com a ainda inquieta Kumasawa‐san.`
+`A Maria falou com a ainda inquieta Kumasawa‐san.`
 `"............Você ficará bem.`
 ` ......A {f:5:Beatrice} é gentil com aqueles que a respeitam.`
 ` ...Você acredita que a {f:5:Beatrice} "existe"."`
@@ -1108,7 +1108,7 @@
 `{n}Kumasawa não podia lutar contra o fluxo, e teve que concordar, chorando enquanto saía do quarto...`
 `"...Muito bem, Natsuhi‐san.`
 ` Vou me despedindo por hoje.`
-` ......Vamos nos encontrar amanhã de novo."`
+` ......Vamos nos encontrar novamente amanhã."`
 `"......Sim.`
 ` Por favor, entenda, pelo menos por esta noite.`
 ` Quando a polícia vier, prometo me desculpar por toda a minha grosseria."`
@@ -1116,7 +1116,7 @@
 ` ...Genji, eu deixo nas suas mãos."`
 `".........Certamente."`
 `"...Ho......hohoho...`
-` Não tem jeito, tem...`
+` Não tem jeito, tem...?`
 ` Eles sempre dizem que os ursos mais assustadores são aqueles com seus filhotes."`
 `"......Genji, Kumasawa, minhas sinceras desculpas.`
 ` ......Vamos nos encontrar de novo amanhã.`
@@ -1154,7 +1154,7 @@
 `"............Isso repele a magia, certo?`
 ` ...Mantenha‐o com você."`
 `"Uu...?`
-` Você não disse que o deixou cair......"`
+` Você não disse que o deixou cair......?"`
 `"...Naquele momento, eu estava um pouco chateado, e eu estava apenas blefando sobre ter perdido.`
 ` ......Não há nenhuma maneira de eu perder seu precioso amuleto."`
 `"........................"`

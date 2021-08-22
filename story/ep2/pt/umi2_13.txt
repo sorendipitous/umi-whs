@@ -10,7 +10,7 @@
 `{n}Mesmo se um bando de amadores como nós investigarmos, não tem como acharmos nada.`
 `Seria mais sábio focar em nos protegermos do que fazer qualquer coisa desnecessária, e deixar isso com a polícia depois de amanhã.`
 `Nós estamos nessa tensão desde o começo. Mas, à exceção da tia Rosa,`
-` a maioria de nós passou o dia assistindo TV e ficando entendiado, então nosso senso de perigo não se desenvolveu tanto.`
+` a maioria de nós passou o dia assistindo TV e ficando entediado, então nosso senso de perigo não se desenvolveu tanto.`
 `Quando pensamos sobre isso, mesmo sendo certo que seis adultos haviam sido mortos no primeiro assassinato,`
 ` aquilo nos fez imaginar que algum método como veneno tinha sido utilizado.`
 `E no segundo assassinato, foi pensado que eles se tornaram sacrifícios porque, infelizmente, estavam isolados do resto de nós.`
@@ -19,7 +19,7 @@
 `Agora mesmo, nesta sala, tem eu e o George‐aniki,`
 ` a Maria,`
 ` a tia Rosa,`
-` o Genji‐san, o Gohda‐san, a Shannon‐chan, a Kumasawa‐san, ......e finalmente, o Doutor Nanjo. Um total de nove pessoas aqui.`
+` o Genji‐san, o Gohda‐san, a Shannon‐chan, a Kumasawa‐san e, ......finalmente, o doutor Nanjo. Um total de nove pessoas aqui.`
 `Além disso, a tia Rosa está com uma arma.`
 `Certamente, com todas essas pessoas aqui, o culpado não vai ser capaz de nos atacar facilmente.`
 `O sentimento de segurança, junto com o passar do tempo, permitiu que nos recuperássemos, pouco a pouco, do choque de hoje de manhã...`
@@ -61,7 +61,7 @@
 `Há duas regras.`
 `A primeira é a respeito do bote.`
 `{n}Ele pode ser remado por um lobo ou um carneiro, e apenas um animal pode fazê‐lo.`
-`{n}Mas ele só pode transportar dois animais.`
+` Mas ele só pode transportar dois animais.`
 `A segunda é a respeito dos lobos.`
 `{n}Quando eles estão em maior número que os carneiros naquele local, eles atacam o carneiro e é fim de jogo.`
 `Por exemplo, para começar um jogo:`
@@ -71,7 +71,7 @@
 `{n}E um único carneiro retorna.`
 `Quando isso acontece, tem mais lobos, então o carneiro é atacado e é fim de jogo.`
 `Seja na margem ou no bote, não deve haver mais lobos que carneiros.`
-`É um enigma sobre como transportá‐los no bote sobre determinadas condições.`
+`É um enigma sobre como transportá‐los no bote sob determinadas condições.`
 `A propósito, a resposta correta é: na primeira rodada, mova ambos os lobos para a margem oposta.`
 `{n}Então um lobo vai voltar.`
 `Na segunda rodada, mova os dois carneiros para margem oposta.`
@@ -79,7 +79,7 @@
 `Na terceira rodada, coloque o último lobo que estava na margem esquerda no bote e atravesse para a margem oposta, e parabéns, transporte realizado com sucesso.`
 `Em parte, deve haver o mesmo número de lobos e carneiros, seja no bote ou em alguns do lado, mas isso não é um problema.`
 `Você só perde quando o número de lobos for maior.`
-`Esse livro simboliza isso usando lobos e carneiros, mas provavelmente tem um monte de pessoas que conhece esse jogo com diferentes referências...`
+`Esse livro simboliza isso usando lobos e carneiros, mas provavelmente tem um monte de pessoas que conhecem esse jogo com diferentes referências...`
 `Parecia que a Maria queria testar se eu conseguia resolver os enigmas que ela já sabia como resolver,`
 ` e continuou mostrando diferentes páginas dizendo "resolva esse" e "esse é difícil".`
 `O que aconteceu quando a tia Rosa disse o nome de um desses enigmas...`
@@ -88,7 +88,7 @@
 ` e a tia Rosa mencionou "Os Lobos e o Enigma do Carneiro", e disse que deveríamos ir todos juntos......`
 `".................................Espere um segundo..."`
 `Isso só pode significar uma coisa.`
-` ...Ela estava dizendo que haviam "lobos" entre nós.`
+` ...Ela estava dizendo que havia "lobos" entre nós.`
 `E quando o número de lobos e carneiros está equilibrado, estamos seguros, mas quando acontece uma situação em que esse não é o caso, os lobos vão mostrar as suas presas — era o que ela estava pensando......?`
 `No momento em que encontramos os cadáveres dos nossos parentes, ela já estava suspeitando que os serviçais poderiam ser os "lobos".`
 `Enquanto ela não sabia se eram todos eles ou só alguns, ela presumiu a possibilidade de que os "lobos" estavam escondidos entre eles.`
@@ -123,11 +123,11 @@
 `"Sim, ......e o que seria?`
 ` ........................"`
 `Os serviçais colocaram os pratos e as latas vazias no carrinho de serviço e saíram em direção ao corredor.`
-`Por trás deles, a tia Rosa estava falando algo com o Doutor Nanjo em um tom de voz baixo.`
+`Por trás deles, a tia Rosa estava falando algo com o doutor Nanjo em um tom de voz baixo.`
 `"...Certo.`
 ` Eu irei."`
 `"Sim, se você não se importar."`
-`O Doutor Nanjo fechou o livro que estava lendo, levantou do sofá, e foi atrás dos serviçais...`
+`O doutor Nanjo fechou o livro que estava lendo, levantou do sofá, e foi atrás dos serviçais...`
 `A tia Rosa colocou a cabeça para fora da sala, e após vê‐los sair, fechou a porta e falou.`
 `"Pessoal, ouçam.`
 ` Agora todos aqui são da família Ushiromiya."`
@@ -147,17 +147,17 @@
 ` Tem um difícil na página 64.`
 ` Uu!"`
 `"Maria, sente‐se e assista TV por enquanto.`
-` A mamãe quer falar com o Battler‐kun e o George‐kun."`
+` A mamãe quer falar com os seus primos."`
 `"..................Uu."`
 `"Tia Rosa.`
 ` ...O Battler‐kun me contou sobre o enigma.`
 ` ...Eu não acho que seja ruim ser cuidadoso, mas penso que suspeitar muito também não é algo bom."`
 `"Independente do verdadeiro culpado ser a {f:5:Beatrice} ou não,`
 ` eu penso que há motivos para suspeitarmos que os serviçais são aliados dela."`
-`"......No primeiro assassinato, onde o Nii‐san e os outros foram mortos,`
+`"......No primeiro assassinato, onde o nii‐san e os outros foram mortos,`
 ` eles receberam um tratamento bem brutal, não foi?`
 ` Aquilo parecia algo que poderia ter sido realizado sozinho?"`
-`"............Talvez a nossa convidada misteriosa, {f:5:Beatrice}‐sama tenha trabalhado a noite toda e feito aquilo."`
+`"............Talvez a nossa convidada misteriosa, {f:5:Beatrice}‐sama, tenha trabalhado a noite toda e feito aquilo."`
 `"E o outro incidente com as chaves mestra envolvendo a porta do quarto da Jessica?`
 ` Não é uma prova que um dos serviçais está envolvido?"`
 `"......nn.................."`
@@ -197,9 +197,9 @@
 ` Mas o Kanon‐kun não estava segurando a chave mestra, certo?!`
 ` Colocando os outros serviçais de lado, ao menos o Kanon‐kun não deveria ser capaz de trancar a porta!"`
 `"......Entendo.`
-` ...Então por isso você disse para nós procuramos no armário e em todos os outros lugares depois que entramos no quarto da Jessica.`
+` ...Então por isso você disse para nós procurarmos no armário e em todos os outros lugares depois que entramos no quarto da Jessica.`
 ` ......Tia Rosa, ...a sua mente funciona mais rápida do que eu poderia imaginar julgando pela sua aparência normal."`
-`"A velocidade do cérebro de uma irmã menor em relação à irmã mais velha é sempre de menos 1.`
+`"A velocidade do cérebro de uma irmã mais nova em relação à irmã mais velha é sempre de menos 1.`
 ` ...Eu me sinto bem por não ter ninguém que eu precise me preocupar agora."`
 `O George‐aniki percebeu que ela estava se referindo à tia Eva,`
 ` e pareceu ter ficado desconfortável em saber como tomar essa observação...`
@@ -221,7 +221,7 @@
 `...Isso poderia ser...`
 ` ......Não, mas...`
 `...O Kanon‐kun não estava em lugar nenhum......"`
-`"...Parece que você entendeu aniki.`
+`"...Parece que você entendeu, aniki.`
 ` .........Era isso que a tia Rosa estava procurando dentro do quarto."`
 `"......Ela estava procurando pelo Kanon‐kun, que trancou a porta por dentro, colocando a chave no bolso da Jessica,`
 ` e se escondendo em algum lugar, esperando que fôssemos embora."`
@@ -229,7 +229,7 @@
 ` ...Em outras palavras, se esconder dentro do quarto fechado após cometer o assassinato.`
 `...E se ele puder sair depois que aqueles que descobriram os corpos forem embora, isso criaria um perfeito assassinato de quarto fechado......`
 `"Nós procuramos pelo quarto, mas não conseguimos encontrar nada.`
-` ...Mas, isso não significa que podemos descartar a existência de uma passagem secreta no quarto, conhecida apenas pelos serviçais."`
+` ...Mas isso não significa que podemos descartar a existência de uma passagem secreta no quarto, conhecida apenas pelos serviçais."`
 `"Eu não sei onde ele poderia ter se escondido,`
 ` mas se assumirmos que havia uma passagem secreta, nós podemos dizer, com certeza, que seria impossível para qualquer um, à exceção dele mesmo."`
 `"..................Essa linha de pensamento,`
@@ -241,7 +241,7 @@
 ` Eu entendo, eu entendo.`
 ` *gargalhada*......"`
 `"...Então foi isso que eu pensei a seguir.`
-` Uma teoria de que na verdade tem três pessoas naquele quarto.`
+` Uma teoria de que tem três pessoas naquele quarto.`
 ` A Jessica e o Kanon‐kun são as vítimas.`
 ` E o culpado, a convidada {f:5:Beatrice}, também estava com eles."`
 `"Você quer me transformar na "eu humana" que cometeu o crime sem usar magia.`
@@ -251,24 +251,24 @@
 ` E você carregou o corpo do Kanon‐kun usando algum método secreto que uma pessoa normal não perceberia.`
 ` ......Em outras palavras, você usou uma porta secreta para escapar."`
 `"Mas você me disse isso em vermelho.`
-` ...Você disse que não haviam nenhum tipo de porta secreta naquele quarto."`
+` ...Você disse que não havia nenhum tipo de porta secreta naquele quarto."`
 `"De fato.`
-` Nenhuma passagem desconhecida para você existe.`
-` Isso era o Knox, ou era o Van Dine?`
+` Nenhuma passagem desconhecida a você existe.`
+` Isso era o Knox ou era o Van Dine?`
 ` Parece que em livros de mistério nunca deve haver passagens secretas, não importa o motivo.`
 ` Eu também sigo essa etiqueta."`
 `"Em outras palavras, mesmo sem vasculhar pelo quarto, grandes detetives conseguem definir com confiança que não existe nenhuma passagem secreta.`
 ` .........*gargalhada*gargalhada*, ver humanos brincando de detetive é tão engraçado."`
 `"Droga, você fica se gabando...`
 ` Obrigado.`
-` Graças aos preparativos da bruxa, eu posso dizer com certeza que aquele quarto não tem nenhuma passagem secreta mesmo se procurar por ela."`
+` Graças aos preparativos da bruxa, eu posso dizer com certeza que aquele quarto não tem nenhuma passagem secreta, mesmo se procurar por ela."`
 `"De fato.`
 ` {p:1:Não existem portas secretas naquele quarto}.`
 ` {p:1:Não tem como entrar ou sair sem ser pela porta ou pelas janelas}."`
 `"......O que significa...`
 `...que a teoria na qual a tia Rosa tem tanta confiança...`
 `...está errada."`
-`"...E mais, frustrantemente, é impossível desaprovar aquela teoria.`
+`"...E o mais frustrante, é impossível desaprovar aquela teoria.`
 ` ......Se você, bruxa, disse em vermelho`
 ` "`
 `{p:1:não existem portas secretas}", então está decidido."`
@@ -280,15 +280,15 @@
 `"......Sem chance!`
 ` Você está dizendo que o Kanon‐kun é o culpado por causa de uma porta secreta que nós nem sabemos se existe...`
 ` Eu... não posso aceitar isso."`
-`"Se você não pode aceitar, me mostre um raciocínio que seja fácil de se aceitar`
+`"Se não pode aceitar, me mostre um raciocínio que seja fácil de se aceitar.`
 ` .........Não tem nenhum.`
 ` Eu estive pensando o tempo inteiro.`
 ` Não tem nada disso!"`
 `".............................."`
-`"George‐kun, você tem uma boa relação com a a Shannon‐chan, certo?`
-` Por isso eu acho que é difícil para você aceitar que todos os serviçais são culpados."`
+`"George‐kun, você tem uma boa relação com a Shannon‐chan, certo?`
+` Por isso, eu acho que é difícil para você aceitar que todos os serviçais são culpados."`
 `"Eu também não quero acreditar que a Shannon‐chan é um dos culpados.`
-` .........Mas sendo todos os eles ou não, o culpado, ou talvez o cúmplice, definitivamente está entre eles.`
+` .........Mas sendo todos eles ou não, o culpado, ou talvez o cúmplice, definitivamente está entre eles.`
 ` Você não pode deixar de entender isso!"`
 `"......Se você pensar que existem mais lobos além do Kanon‐kun,`
 ` ...então, causar um alvoroço ao dizer que o Kanon‐kun era o culpado no quarto da Jessica foi para ver a reação dos serviçais...?"`
@@ -303,7 +303,7 @@
 ` Assim como quando a Jessica‐chan foi morta!"`
 `".........T‐Tem algo nisso que não me agrada!`
 ` Nesse caso, a Shannon, quem você mandou para a cozinha, está em uma situação perigosa, não está?!`
-` Nós também deveríamos ir para cozinha agora mesmo!`
+` Nós também deveríamos ir para a cozinha agora mesmo!`
 ` Não importa quem possa ser ou não o lobo!`
 ` Se pudermos formar um equilíbrio reunindo todos, nós devemos manter esse equilíbrio!!"`
 `"......A Shannon‐chan foi ver o pai junto com o Genji‐san.`
@@ -312,19 +312,19 @@
 `"......Não!`
 ` Porque ambos são lobos!!"`
 `"A Shannon não é o tipo de pessoa que faria parte de um crime!!`
-` Mesmo se fosse você, tia Rosa, eu não poderia ignorar.`
+` Mesmo que seja você, tia Rosa, eu não posso ignorar isso.`
 ` Eu demando que você retire o que acabou de dizer...!"`
-`"...Eu odeio dizer isso na frente ao aniki, mas aquele argumento...`
+`"...Eu odeio dizer isso na frente do aniki, mas aquele argumento...`
 `...parecia com algo que a tia Eva diria.`
-` Se não podemos argumentar de volta, então automaticamente você assume que está certo.`
+` Se não podemos argumentar de volta, então, automaticamente, você assume que está certo.`
 ` ......Parece que você não conseguiu lutar contra o seu sangue, tia."`
 `".........Mesmo eu não me considero muito louvável no momento."`
-`"Mas, quer saber? Eu sou mãe!`
+`"Mas quer saber? Eu sou mãe!`
 ` Eu me tornaria um demônio se fosse para proteger a Maria.`
 ` Honestamente falando, eu queria poder me trancar em algum lugar sozinha com a Maria."`
 `"......Mas eu também pretendo agir como uma mãe para vocês dois.`
 ` Agora mesmo, vocês são como meus filhos.`
-` ......Você pode não querer ser meu filho, ...mas eu não vou abandonar você.`
+` ......Você pode não querer ser meu filho, ...mas eu não vou abandoná‐lo.`
 ` .........Nunca."`
 `"......Claro, obrigado."`
 `"Como mãe, eu só quero adverti‐los para não serem descuidados.`
@@ -355,7 +355,7 @@
 ` .........Eu me pergunto se isso prova?"`
 `".........Me desculpem, vocês dois.`
 ` Eu perdi muito da minha compostura depois de todos esses crimes.`
-` Você sabem como eu sou normalmente, por isso agora eu devo estar parecendo um pouco nervosa e irritada."`
+` Vocês sabem como eu sou normalmente, por isso agora eu devo estar parecendo um pouco nervosa e irritada."`
 `"...Mas entendam.`
 ` Eu quero proteger vocês do culpado malicioso.`
 ` Eu me tornarei um demônio para fazer isso.`
@@ -373,9 +373,9 @@
 `Em primeiro lugar, quem é o culpado?`
 `{n}Existem cúmplices?`
 `{n}Se sim, quantos?!`
-`......Eu sinto que estou constantemente apenas suspeitando de pessoas conectadas a tudo isso.`
+`......Eu sinto que estou constantemente suspeitando apenas de pessoas conectadas a tudo isso.`
 `...Eu rapidamente me encontrei esquecendo da 19ª pessoa,`
-` a convidada, {f:5:Beatrice}, que veio ontem, chamando a si mesma, audaciosamente, de Bruxa Dourada.`
+` a convidada que chegara ontem, audaciosamente intitulando-se como {f:5:Beatrice}, a Bruxa Dourada.`
 `Eu ainda não vi o seu rosto.`
 `Eu ouvi que ela é como uma cópia da bruxa daquele retrato,`
 ` mas por eu não ter visto ela direito, não importa o quanto eu tente, eu não consigo sentir que existe uma 19ª pessoa na ilha.`
@@ -386,19 +386,19 @@
 `Assim como o cara mau desses seriados que, sempre que é exposto como o culpado,`
 ` agressivamente diz "tem alguma prova?"`
 `"*gargalhada*gargalhada*gargalhada*gargalhada*gargalhada*gargalhada*.`
-` Tem alguma prova?"`
+`{n}Tem alguma prova?"`
 `"Cale sua boca, mantenha essa matraca fechada por um minuto..."`
-`Há cinco humanos na cozinha rodeados pelo som da chuva, porém está demasiadamente quieto.`
+`Há cinco humanos na cozinha, rodeados pelo som da chuva, porém está demasiadamente quieto.`
 `O que é apenas acentuado pelo som de Shannon e de Kumasawa lavando os pratos.`
 `Gohda estava usando as sobras do café da manhã e do almoço como ingredientes para a sopa dos serviçais.`
 `......Rosa havia suspeitado que algum veneno poderia ter sido adicionado a comida, então foi decidido só comermos comida enlatada, mas isso não está sendo realmente cumprido.`
 `Gohda pensou que ela estava sendo cuidadosa demais.`
 `{n}Então ele espontaneamente criou uma sopa só para os serviçais com tudo o que eles queriam comer.`
-`Shannon e Kumasawa estava lavando os pratos onde a comida seria servida.`
+`Shannon e Kumasawa estavam lavando os pratos onde a comida seria servida.`
 `Por dentro, elas pensaram que talvez quem devesse estar lavando os pratos era Gohda, já que era ele quem queria servir a comida neles,`
-` mas elas deixaram as reclamações de lado por hora.`
+` mas elas deixaram as reclamações de lado por ora.`
 `Genji e Nanjo estavam se encarando através de um conjunto de xadrez humilde que já aparentava ter muitos anos.`
-`...Parecia ter começado a pouco.`
+`...Parecia ter começado há pouco.`
 `E como o jogo de abertura entre jogadores experientes é infinitamente refinado,`
 ` parecia como um ritual onde eles apenas moviam peças específicas em uma ordem específica.`
 `"Esse é um ótimo aroma...`
@@ -410,7 +410,7 @@
 `"Tem mesmo um cheiro ótimo.`
 ` Gohda‐san, suas refeições servidas de forma improvisada são mesmo deliciosas."`
 `"É natural que você possa preparar deliciosas refeições se você comprar deliciosos ingredientes.`
-` ......Meu professor me ensinou que aperfeiçoar suas habilidades para fazer refeições com qualquer coisa que esteja a disposição é o que faz de você um verdadeiro cozinheiro."`
+` ......Meu professor me ensinou que aperfeiçoar suas habilidades para fazer refeições com qualquer coisa que esteja à disposição é o que faz de você um verdadeiro cozinheiro."`
 `"Esse foi um bom professor.`
 ` Graças a ele, parece que eu vou poder aproveitar uma sopa verdadeiramente deliciosa."`
 `"......Embora seja uma pena ter sido preparada com ingredientes que deveriam servir todos os membros da família."`
@@ -431,13 +431,13 @@
 `Shannon não gostava da ocasional desonestidade de Gohda,`
 ` mas ela sabia que não havia falsidade naquele sorriso infantil quando ele cozinhava,`
 ` nem em seu desejo pelas pessoas aproveitarem sua comida.`
-`Então mesmo que isso tenha sido um pouco agravado por tê‐la feito lavar os pratos,`
+`Então, mesmo que isso tenha sido um pouco agravado por tê‐la feito lavar os pratos,`
 ` ela não podia realmente odiá‐lo.`
 `Entretanto, eles nunca sonhariam que Rosa os chamaria de lobos no exato momento em que eles passavam seu tempo pacificamente assim......`
 `Ao mesmo tempo, alguns deles ouviram o som de algo sendo arrastado, e então uma batida.`
 `Quando os serviçais estão carregando uma montanha de lixo em um dia de chuva,`
-` ou fazendo algum trabalho com a capa de chuva, eles produzem exatamente esse tipo de ruído e a presença de quem retornavam e pairavam pela porta dos fundos.`
-`Então após ouvir aquele som, primeiramente, nenhum deles notou nada fora do comum...`
+` ou fazendo algum trabalho com a capa de chuva, eles produzem exatamente esse tipo de ruído e a presença de quem retornava e pairava pela porta dos fundos.`
+`Então, após ouvir aquele som, primeiramente, nenhum deles notou nada fora do comum...`
 `Mas rapidamente eles perceberam.`
 ` ............Em uma situação onde todos estavam na cozinha ou na sala de visitas, quem diabos poderia estar na porta dos fundos...?!`
 `Todos os serviçais se entreolharam, conferindo se cada um deles sabia o que aquele barulho significava.`
@@ -447,7 +447,7 @@
 ` fazer toda a volta, e então entrar pela porta dos fundos.`
 `Seria Kinzo?`
 ` ...Era ainda mais difícil imaginar que Kinzo, que nunca deixava seu estúdio, mesmo em condições normais,`
-` correr em meio ao tufão sem um motivo aparente, e então retornar à casa, por onde apenas as pessoas de baixa classe entravam e saiam.`
+` correria em meio ao tufão, sem um motivo aparente, e então retornaria à casa, por onde apenas as pessoas de baixa classe entravam e saiam.`
 `"......Is‐`
 `......isso não foi...`
 `nossa imaginação, foi......?"`
@@ -456,9 +456,9 @@
 `"...Quem, ...quem está aí......?"`
 `Ao se aproximar medrosamente da porta dos fundos, Gohda chamou.`
 `{n}......E conferiu com seus olhos a localização de uma faca de açougueiro disposta próxima à pia.`
-`......Ele ainda não havia pego‐a.`
+`......Ele ainda não havia a pego.`
 `{n}Porque ainda havia a possibilidade de ser um membro da família.`
-`{n}No entanto, tal possibilidade não era possível...`
+`{n}No entanto, tal possibilidade não era concebível...`
 `Ainda não havia vindo uma resposta pelo outro lado da porta para a pergunta inicial de Gohda.`
 `{n}...Talvez sua voz tenha saído muito baixa e não chegou ao outro lado por casa de todo vento de chuva.`
 `".........Genji‐san."`
@@ -474,7 +474,7 @@
 `Gohda cuidadosamente se aproximou da porta, .........e lentamente começou a abri‐la......`
 `"Wa...wahyaaaaaaaaaaaaaaaaaaaaaaaaa...!!!"`
 `A figura de uma pessoa surgiu abruptamente de joelhos, e então caiu ao chão.`
-`{n}Gohda caiu de costas para trás em choque.`
+`{n}Gohda caiu de costas para trás, em choque.`
 `Aquela figura encharcada pela chuva, embarrada pela lama, e coberta de sangue...`
 `"Ka‐............Kanon‐kun?!`
 ` Kanon‐kun!!"`
@@ -511,7 +511,7 @@
 `"Si‐......Sim......`
 ` ......hiiiiii..."`
 `Depois de aparecer naquele estado horrível, ele disse para não contar para Rosa.`
-`......Isso só poderia significar algum bem inquietante.`
+`......Isso só poderia significar algo bem inquietante.`
 `{n}......Um estranho senso de pânico subiu em seus rostos...`
 `"V‐Vamos, pessoal!`
 ` Vamos nos apressar e carregá‐lo...!`
@@ -529,7 +529,7 @@
 ` Aguenta firme... Aguenta firme...!!"`
 `"Doutor Nanjo!`
 ` Uma nova toalha...!`
-` ...Que...terível...!!"`
+` ...Que...terrível...!!"`
 `"Qual a condição dele...?"`
 `".........Com toda honestidade, ...foi tão severo que eu não consigo acreditar que ele está vivo...`
 ` Talvez a localização da facada tenha sido afortunada...`
@@ -558,8 +558,8 @@
 `".........Genji‐san.`
 ` ......É possível que a Rosa‐sama......tenha feito isso?"`
 `"............Eu não sei."`
-`Desconsiderando Nanjo e Kumasawa, que estavam completamente manchados de sangue lutando para estancar o sangramento, Genji e Gohda olharam um para o outro...`
-`......Porque se o que Kanon havia dito fosse verdade,`
+`Desconsiderando Nanjo e Kumasawa, que estavam completamente manchados de sangue, lutando para estancar o sangramento, Genji e Gohda olharam um para o outro...`
+`......Porque, se o que Kanon havia dito fosse verdade,`
 ` ......Rosa era o culpado que matou Jessica.`
 `"Maldita, Rosa......`
 ` Como você pôde fazer aquilo...com a ojou‐sama......`
@@ -584,14 +584,14 @@
 `Shannon correu escada abaixo em busca {i:daquilo} na sala da caldeira...`
 `Teria algum medicamento feito efeito à beira da morte,`
 ` ou Kanon finalmente havia parado de sentir dor?`
-`...A partir dai, Kanon ao menos havia superado aqueles suspiros dolorosos.`
+`...A partir daí, Kanon ao menos havia superado aqueles suspiros dolorosos.`
 `Nanjo aparentemente não pensou nisso como algo bom, e não tirou seus olhos de Kanon por um segundo.`
 `Kumasawa segurou firme na mão de Kanon, e continuou a encorajá‐lo, para mantê‐lo vivo sem acabar caindo no sono.`
 `Genji e Gohda pareciam perplexos sobre como lidar com a verdade que Kanon havia arriscado a vida para contar...`
 `".........Eu acredito que a arma da Rosa‐sama tenha quatro ou cinco cartuchos carregados."`
 `"Esse não é um número pequeno.`
-` ...Mas carregar os cartuchos em uma arma deve requirir muita prática.`
-` Nós infelizmente não podemos impedir ela de atirar, mas se todos atacarem ao mesmo tempo, podemos ser capaz de tomar a arma dela antes que ela atire novamente..."`
+` ...Mas carregar os cartuchos nesse Winchester deve requirir muita prática.`
+` Nós, infelizmente, não podemos impedir ela de atirar, mas se todos atacarem ao mesmo tempo, podemos ser capaz de tomar a arma dela antes que ela atire novamente..."`
 `".........Nessa ilha, nós podemos ter um médico, mas não há remédios, nem hospital.`
 ` ......Se você levar um tiro no lugar errado, ...você está morto."`
 `"Eu entendo isso, mas...`
@@ -604,7 +604,7 @@
 `"Mas ainda tem muito tempo antes do amanhã chegar...!`
 ` Não temos como imaginar que tipo de estratégia ela vai usar!`
 ` Genji‐san, nós devemos fazer o primeiro movimento.`
-` Se ao menos conseguirmos pegar a arma que está com ela usando alguém pretexto, as coisas podem resultar algo...!"`
+` Se ao menos conseguirmos pegar a arma que está com ela usando algum pretexto, as coisas podem resultar algo...!"`
 `"Tem quatro ou cinco cartuchos, certo?`
 ` Isso significa que não tem o bastante para matar a todos nós...`
 ` Se não a provocarmos de forma descuidada, tenho certeza que a Rosa‐sama não vai agir imprudentemente—"`
@@ -622,7 +622,7 @@
 `Quando eles pararam o sangramento, fizeram questão de confirmar que não havia nenhum objeto na área afetada,`
 ` Nanjo tateou com uma pinça dentro do buraco repleto de sangue e a grande profundidade da ferida o surpreendeu.`
 `...A ferida certamente chegou até os pulmões.`
-`......E ainda sim, ...ainda sim...`
+`......Ainda assim, ...ainda assim...`
 `{n}......Não, por outro lado, o fato dele estar vivo era uma grande sorte...`
 `......Mas Kanon estava falando claramente.`
 `{n}...Ele disse com ódio o nome de Rosa, que criou aquela ferida, e repetidamente a amaldiçoou com palavras enfurecidas.`
@@ -644,27 +644,27 @@
 `"Ela definitivamente vai matar a todos nós.`
 ` Ela certamente já matou todas as pessoas na sala de visitas agora.`
 ` Se não a matarmos primeiro, certamente seremos nós que vamos morrer primeiro.`
-` Assim como eu fui morto primeiro, todos também vão ser mortos também.`
+` Assim como eu fui morto primeiro, todos vão ser mortos também.`
 ` Matar ou ser morto.`
 ` Matar ou ser morto matar ou ser morto."`
 `"...Ka‐.........Kanon‐san, ......você...`
 ` ......Isso realmente não dói...?"`
 `"......Ah, isso?`
 ` Não é um machucado sério."`
-`"O‐...O que você quer dizer sobre não é um machucado sério, ...você......"`
-`"Não é nada de mais mesmo.`
+`"O‐O que você quer dizer sobre não é um machucado sério, ...você......"`
+`"Não é nada demais mesmo.`
 ` Isso já não dói mais — não é um machucado sério."`
 `Quando Kanon disse aquilo, ele começou a remover as ataduras na qual ele havia sido minuciosamente envolvido...`
 `O horrendo buraco em seu peito imediatamente ficou exposto...`
 `"K‐Kanon‐san...!`
-` Você não deveria fazer isto!`
+` Você não deveria fazer isso!`
 ` Rápido, deite‐se...!"`
 `"Eu disse que estou bem.`
 ` ......Veja.`
 ` Viu...?`
-` Não...é...um machucado sério, certo...?"`
-`Kanon mostrou sua feria aberta, que ainda estava lentamente espumando sangue.`
-`...Todos reflexivamente evitaram de olhar.`
+` Não...é...um machucado sério, é...?"`
+`Kanon mostrou sua ferida aberta, que ainda estava lentamente espumando sangue.`
+`...Todos reflexivamente evitaram olhar.`
 `"Viu, eu disse que não era um machucado sério..."`
 `"P‐Pare com isso... Você não deveria brincar com seus ferimentos......"`
 `"...Olha, viu?`
@@ -689,7 +689,7 @@
 ` *gargalhada*gargalhada*gargalhada*gargalhada*gargalhada*gargalhada*!"`
 `Então, a porta abriu vigorosamente, e Shannon apareceu.`
 `...Mesmo após ver Kannon coberto de sangue, sua inexpugnável expressão não vacilou.`
-`"......Ei, Nee‐san.`
+`"......Ei, nee‐san.`
 ` Aonde você foi?`
 ` Eu estava aqui à beira da morte, onde você estava?"`
 `"Bem.`
@@ -697,7 +697,7 @@
 ` Procurar por uma coisa.`
 ` .........Mais importante, eu quero confirmar.`
 ` Você é mesmo...o Kanon‐kun?"`
-`"......Hã, ......huhh...?"`
+`"......Hã, ......hmm...?"`
 `Era algo natural.`
 ` Todos acreditavam que ele era Kanon.`
 `{n}Então eles não conseguiam entender o significado da pergunta de Shannon.`
@@ -732,15 +732,15 @@
 `Ainda em meio ao salto, Kanon chutou um quadro que estava pendurado na parede atrás dele, correndo para frente como um gato, e almejando pela garganta de Shannon mais uma vez.`
 `Mas seu alvo mais uma vez desapareceu em sua frente.`
 ` Por que Genji havia puxado Shannon novamente, e ambos caíram no chão, mantendo‐se planos ao chão.`
-`"Belos reflexos, sua peça velha de mobília senil!!"`
+`"Belos reflexos, sua velha peça de mobília senil!!"`
 `"......Gohda!"`
 `"Uu...uooooooooooooooooooooooooooohhh!!"`
 `Gohda também não era um idiota.`
 ` Mesmo que ele não pudesse entender perfeitamente o que estava ocorrendo, ao menos ele percebeu que se esse "Kanon" não fosse preso, a sua própria vida também estaria em perigo.`
 `Ele correu até Kanon com seu grande corpo, empurrando‐o contra a parede com todo o seu peso e força física.`
 `"Uuuoooooooooooooooooohhh...! Ooaaaaaaaaaaaaaaaaaahhh!!"`
-`"Me...deixe...ir, seu gordo!!"`
-`A ponta dos dedos da mão direita de Kanon mais uma vez começara a traçar outra daquelas trilhas púrpuras.`
+`"Me...solte... seu gordo!!"`
+`A ponta dos dedos da mão direita de Kanon mais uma vez começaram a traçar outra daquelas trilhas púrpuras.`
 `Quando ele ergueu aquela lâmina de mão, almejando acertar as costas de Gohda, houve um forte golpe.`
 `Por que a lâmina de mão que Kanon havia erguido estava presa à parede.`
 `Ele não conseguia remover sua palma da parede.`
@@ -756,19 +756,19 @@
 ` Pare, pa‐pare!!"`
 `"Gyaooooooooooooaaaaaaaaaaaaaaaahhh!!"`
 `Quando Genji pressionou o lenço de bolso contra o rosto de Kanon,`
-` ...ouviu‐se um som como daqueles que você coloca a carne em um prato de ferro já aquecido.`
+` ...ouviu‐se um som como daqueles quando você coloca a carne em uma chapa de ferro aquecida.`
 `É claro, o cheiro também era o mesmo.`
 ` Quando ele foi queimado e inflamado, enferrujado em um imundo vermelho e preto, ele gritou em agonia, e o corpo de Kanon abriu‐se e se espalhou.`
 `Quase como um balão cheio de folhas douradas que foi estourado.`
 `{n}A sala dos serviçais estava coberta por uma tempestade de folhas douradas, uma turba de borboletas douradas...`
 `Aquelas borboletas começaram gentilmente a desaparecer em meio ao nada, como se estivessem se dissolvendo na água, não, no próprio ar,`
-` ......e após isso, tudo o que restou foram os três sentadas no chão, cobertos por sangue.`
+` ......e após isso, tudo o que restou foram os três sentados no chão, cobertos por sangue.`
 `No entanto, nem todos estavam apenas cobertos de sangue.`
 `{n}Alguns deles estavam caídos no chão, vomitando seu sangue.`
 `"...Kumasawa...!`
 ` ......Doutor Nanjo...!`
 ` ....................."`
-`Uma fenda tão afiada que poderia cortar seus dedo se você a tocasse enquanto estivesse aberta, fazendo que uma grande quantidade de sangue continuasse a sair...`
+`Uma fenda tão afiada, que poderia cortar seus dedo se você a tocasse enquanto estivesse aberta, fazendo que uma grande quantidade de sangue continuasse a sair...`
 `"O que foi aquilo, .........a‐...acabou de............"`
 `"..........................."`
 `".........Gohda.`
@@ -776,11 +776,11 @@
 `"E‐Eu estou bem...`
 ` Mas.........o que foi que nós vimos?!`
 ` O que aconteceu?!`
-` A‐Ape‐Ap‐......Apesar disso, eu definitivamente empurrei aquela coisa contra a parede com essas mãos!"`
+`{n}A‐Ape‐Ap‐......Apesar disso, eu definitivamente empurrei aquela coisa contra a parede com essas mãos!"`
 `"{i:Eu não consigo entender o que aconteceu}...!!"`
 `Gohda olhou para suas mãos.`
-`O sangue vermelho reluzente deixado de seu embate com Kanon...definitivamente havia permanecido.`
-`...E ainda sim, Kanon não podia mais ser visto.`
+`O sangue vermelho e reluzente deixado de seu embate com Kanon...definitivamente havia permanecido.`
+`...Ainda assim, Kanon não podia mais ser visto.`
 `Por que ele havia desaparecido.`
 `{n}Ele se transformou em borboletas douradas e se dispersou.`
 `Gohda continuou gritando sozinho que não fazia ideia do que havia acontecido.`

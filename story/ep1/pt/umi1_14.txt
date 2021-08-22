@@ -1,10 +1,10 @@
 `"......De qualquer forma, vamos manter esse quarto fechado até que a polícia chegue.`
 ` ......Todos concordam?"`
-`Natsuhi perguntou isso mesmo sem mesmo se importar se os outros concordariam ou não.`
+`Natsuhi perguntou isso, mesmo sem mesmo se importar se os outros concordariam ou não.`
 `...Se alguém tivesse o direito de se opor a ela, esse alguém teria sido George, ...mas ele parecia já ter derramado lágrimas o bastante por aquele dia.`
-`Ainda sem olhar diretamente para todos, George assentiu levemente e ficou de pé, e todos na sala, em resposta, também concordaram.`
+`Ainda sem olhar diretamente para todos, George assentiu levemente e ficou de pé, e todos ali, em resposta, também concordaram.`
 `Natsuhi ainda não havia aberto o envelope em estilo ocidental do chefe da família que ela havia pego.`
-`{n}...Mas já que todos estariam deixando a sala agora, ela decidiu que ela própria desselaria o envelope quando chegassem na sala de visitas, onde todos pudessem ver.`
+`{n}...Mas já que todos estariam deixando o local agora, ela decidiu que ela própria desselaria o envelope quando chegassem na sala de visitas, onde todos pudessem ver.`
 `Assim que todos caminharam para o corredor para se dirigirem à sala de visitas,`
 ` .........alguns imediatamente começaram a sentir como se algo estivesse diferente, ...ou talvez sentiram algo, de fato, estranho.`
 `"...............Uu.`
@@ -20,7 +20,7 @@
 `"......Kanon, vá com a Kumasawa.`
 ` Não a deixe sozinha."`
 `"S‐Sim...!"`
-`Após acatar a ordem de Genji, Kanon apressou‐se em correr atrás dela.`
+`Após acatar à ordem de Genji, Kanon apressou‐se em correr atrás dela.`
 `{n}...Os outros, apesar de não terem corrido, também os seguiram com o intuito de descobrir a origem do cheiro.`
 `"...Uu.`
 ` Fedido.`
@@ -41,7 +41,7 @@
 `".........Sim, é verdade.`
 ` No caso do depósito do jardim de rosas, ele pode ter roubado a chave do {i:shutter} na sala dos serviçais,`
 ` ou talvez ele tinha uma chave dupla... Eu consigo pensar em vários jeitos diferentes para explicar como ele fez isso."`
-`".........Mas, a corrente da porta é diferente.`
+`".........Mas a corrente da porta é diferente.`
 ` Entre as diferentes formas de se trancar algo, uma corrente é o mais simples a ser usado para se criar um quarto fechado."`
 `"Somente uma corrente pode bloquear qualquer coisa que venha de fora, a não ser que ela esteja fisicamente quebrada.`
 ` Então isso quer dizer que o culpado não poderia ter entrado ou saído pela porta...?"`
@@ -50,14 +50,14 @@
 `Antes disso, todos estavam discutindo sobre como o vovô poderia ter desaparecido do seu quarto.`
 `Por causa do recibo que a tia Eva deixou preso na porta por um capricho, foi provado que a porta havia permanecido fechada,`
 ` e já que a tia Natsuhi foi a única pessoa a entrar ou sair durante aquele tempo, ela tem estado sob suspeita.`
-`A tia Eva propôs uma teoria sobre como a tia Natsuhi poderia ter empurrado o vovô pela janela,`
+`A tia Eva propôs uma teoria sobre como a tia Natsuhi poderia ter empurrado o vovô pela janela`
 ` e saído do quarto pela porta, sozinha.`
 `Mas esta porta é muito mais simples.`
 `Ela foi selada por dentro com uma corrente.`
 `{n}A janela também estava fechada por dentro, e os corpos estavam dentro do quarto.`
 `......Dessa vez realmente criou‐se, sem exageros, um verdadeiro quarto fechado.`
 `...Isso está correto.`
-` Se você incluir o desaparecimento do vovô, três incidentes aconteceram, e nas três vezes, a porta foi o ponto de interesse.`
+` Se você incluir o desaparecimento do vovô, três incidentes aconteceram e, nas três vezes, a porta foi o ponto de interesse.`
 `Primeiro foi o {i:shutter} do depósito do jardim.`
 `Havia uma chave na sala dos serviçais, e se assumirmos que alguém sabia sobre isso, esse lugar não pode ser chamado de quarto fechado.`
 `A próxima era a porta selada pelo recibo.`
@@ -72,13 +72,13 @@
 ` É um quarto fechado perfeito.`
 `O primeiro quarto não poderia ser um quarto fechado pois todos são suspeitos.`
 `{n}...O segundo não poderia ser um quarto fechado porque a tia Natsuhi é suspeita.`
-`...Mas dessa vez, não podemos suspeitar de ninguém!`
+`...Mas, dessa vez, não podemos suspeitar de ninguém!`
 `{n}Esse foi um quarto fechado perfeito, trancado por uma corrente que negava o acesso igualmente para todos...!`
 `"......Nesse caso, quer dizer que o culpado cometeu o crime sem entrar no quarto...?`
 ` Algum método capaz de ser efetuado por fora do quarto...?"`
-`"De fato...`
+`"Realmente...`
 ` É só uma corrente, então mesmo que não seja possível abrir espaço na porta suficiente para uma pessoa passar, ainda se pode abrir ao menos uma fresta.`
-` O culpado pode ter batido na porta para fazer com que eles fossem até a porta antes de atacar eles, ou...`
+` O culpado pode ter batido na porta para fazer com que eles fossem até a porta antes de atacar eles ou...`
 ` Esperem, ...isso não é meio ingênuo...?"`
 `"Sim, é ingênuo.`
 ` .........Se o corpo da tia Eva estivesse deitado logo do lado da porta, então essa teoria seria possível."`
@@ -108,17 +108,17 @@
 ` Ele tem uma aparência especialmente memorável e característica, então eu esperava que você conhecesse ao menos esse.`
 ` Ai."`
 `"Eu não sei, e é por isso que estou te dando a chance de dizer o que você sabe.`
-` Pare de reclamar e explique."`
+` Pare de resmungar e explique."`
 `".........Você é muito violento, Battler.`
-` Eu não vou te dizer nada se você não parar de ser malvado comigo, entendeu......?`
+` Não vou te dizer nada se você não parar de ser malvado comigo, entendeu......?`
 ` Ai!`
-` Uu...... Eu vou contar, eu vou contar tudo, seu homem selvagem.`
+` Uu...... Vou contar, vou contar tudo, seu homem selvagem.`
 ` .........Aquele é o primeiro círculo mágico da Lua."`
 `"O que isso quer dizer?`
 ` Qual benefício vem desse círculo mágico?!`
 ` O que querem dizer aquelas escrituras em hebraico?!"`
 `"As palavras são do Velho Testamento, Salmo 107, versículo 16.`
-` ......‘Pois quebrou as portas de bronze, e despedaçou os ferrolhos de ferro’.`
+` ......‘Pois quebrou as portas de bronze e despedaçou os ferrolhos de ferro’.`
 ` ......Esse círculo mágico tem dois efeitos.`
 ` Primeiro, ele pode abrir qualquer porta independente do método usado para trancá‐la."`
 `"Essa magia é bastante conveniente.`
@@ -139,7 +139,7 @@
 ` Eu só não sei se esse alguém é alguém que eu conheço.`
 ` Mas sem sombra de dúvida, foi definitivamente um ser humano...!!"`
 `".........Mas......como?`
-` É impossível que alguém chegasse até eles através de uma pequena abertura na porta que não poderia ter mais de 10 centímetros...!"`
+` É impossível que alguém chegasse até eles através de uma pequena abertura na porta que não poderia ter mais que dez centímetros...!"`
 `"De qualquer forma, eu não consigo mais suportar esse cheiro.`
 ` ......O que poderia ser isso...?!"`
 `Kanon e Kumasawa, que foram na frente, perceberam logo antes de chegar na cozinha que o cheiro não estava vindo de lá.`
@@ -163,7 +163,7 @@
 `Já que eles haviam ouvido o som de uma porta se fechando há pouquíssimo tempo, e não havia sinais de ninguém subindo as escadas, isso significa que a pessoa que bateu a porta estava, agora, dentro da sala da caldeira.`
 `Se a sala da caldeira fosse um beco sem saída, Kanon não teria entrado nela com tanta pressa.`
 `...Mas ele era um serviçal, então ele sabia.`
-`{n}Lá havia duas entradas, uma aberta para a mansão e outra que levava ao jardim.`
+`{n}Lá havia duas entradas, uma aberta para a mansão e outra que levava ao pátio.`
 `Se ele não começasse sua perseguição logo, o autor do barulho poderia escapar...!`
 `Kumasawa chegou à mesma conclusão logo depois de Kanon.`
 `{n}...Mas ela não poderia deixá‐lo ir sozinho...!`
@@ -176,7 +176,7 @@
 `O calor característico da caldeira o atormentava.`
 `{n}...Esse sempre foi um lugar muito quente e com um fedor desagradável.`
 `E, além disso, a sala estava cheia daquele fedor horroroso...que fazia Kanon sentir como se fosse vomitar.`
-`......Não restam dúvidas que esse quarto é a origem do cheiro.`
+`......Não restam dúvidas que esse cômodo é a origem do cheiro.`
 `Logo, Kanon deveria estar procurando o lugar de onde o fedor estava vindo.`
 `Porém, ele continuou avançando enquanto olhava para a frente, ao mesmo tempo que almejava uma faca do tipo {i:nata}, que estava em uma estante perto da porta.`
 `...Mas quando ele alcançou a estante, ele não estendeu a mão para pegar a nata.`
@@ -188,7 +188,7 @@
 `"..................Em uma roleta, você aposta em um número ou entre as cores vermelho e preto, almejando uma recompensa.`
 ` ......Porém, apostas de baixo risco como apostar no vermelho ou no preto só oferecem recompensas igualmente baixas."`
 `As palavras que partiam da boca de Kanon... eram engolidas pela escuridão.`
-`Aquela escuridão, subitamente, começou a se enfraquecer e um turbilhão brilhante de formou...`
+`Aquela escuridão, subitamente, começou a se enfraquecer e um turbilhão brilhante se formou...`
 `Era uma......cena fantástica...`
 `Borboletas douradas que estavam escondidas nas sombras de toda a sala da caldeira...`
 `agitaram suas asas, brilhando encantadoramente, ...e entraram juntas na escuridão, se agrupando...`
@@ -200,26 +200,26 @@
 ` e chamava a recompensa astronômica recebida em troca como resultado de "magia"."`
 `"............Eu não tenho interesse no tipo de "magia" que você e meu Mestre estavam procurando quando giraram a roleta......`
 ` Mas você esqueceu de algo.`
-` ......Você esqueceu que a roleta possuí uma casa que não é nem vermelha nem preta."`
+` ......Você esqueceu que a roleta possui uma casa que não é nem vermelha nem preta."`
 `Uma roleta tem uma casa especial chamada "0", que significa que essa casa leva a bolada em algumas variantes do jogo —`
 ` significando que todas as moedas apostadas em uma mesa serão captadas, como se todos na mesa tivessem desistido...`
-`".........Eu coloco meu coração nessa única aposta.`
+`".........Eu coloquei meu coração nessa única aposta.`
 ` ...E ela quer dizer...`
-`......Que se Shannon morresse, e eu permanecesse vivo,`
+`......que se Shannon morresse, e eu permanecesse vivo,`
 ` .........eu faria com que a sua maldita roleta acabasse mesmo se isso custasse minha vida...!"`
 `"............Essa não é nenhuma das regras do Mestre, ...e certamente não é nenhuma das suas.`
 ` .........Eu mesmo fiz essa regra.`
 ` .........Eu não sou mais uma mobília.`
 ` .........Eu sou o zero na sua maldita roleta...!"`
 `...O rosto de Kanon se retorcia de humilhação.`
-`{n}.........Ficou claro que ele foi ridicularizado em resposta ao seu auto‐julgamento.`
+`{n}.........Ficou claro que ele foi ridicularizado em resposta ao seu autojulgamento.`
 `A sobrancelha de Kanon arqueou ainda mais, ...e uma expressão de fúria que ele nunca havia mostrado a ninguém esboçou em sua face.`
 `......Sua mão, que segurava a nata, estava tremendo.`
 ` ...Seu suor pingava e deslizava pelo seu corpo.`
 `Era claro que os sentimentos que faziam a mão de Kanon tremer não eram apenas raiva.`
 `...Porém, Kanon suprimiu quaisquer outras emoções...`
 `".....................Eu não deixarei suas palavras me enganarem de novo.`
-` .........A Roleta dos Demônios acaba aqui."`
+`{n}.........A Roleta dos Demônios acaba aqui."`
 `"...E‐`
 `......Espere mais mil anos no inferno até que alguém a invoque novamente,`
 ` {f:5:Beatriceeeeeeee}!!!"`
@@ -227,7 +227,7 @@
 `Elas zombaram sobre como aquela coragem era vulgar, preguiçosa, fútil e sem significado.`
 `......Kanon, ainda segurando sua nata,`
 ` .........não foi capaz de dar outro passo depois daquilo...`
-`fazendo um "clang",`
+`Fazendo um "clang",`
 ` a nata que Kanon estava segurando caiu e se perdeu no chão escuro...`
 `E logo depois disso, como se estivesse sendo ameaçado,`
 ` os joelhos de Kanon se chocaram, tremendo, ...o esquerdo, o direito...`
@@ -239,21 +239,21 @@
 `"...............u`
 `.....................ghh,`
 ` ............"`
-`Sangue fresco escorria do canto da boca de Kanon que se retorcia em angústia...`
+`Sangue fresco escorria do canto da boca de Kanon, que se retorcia em angústia...`
 `{n}...Era uma...maquiagem muito contrastante para a pele pálida de Kanon...`
 `Em torno da cena, as borboletas douradas e reluzentes dançavam como se estivessem hipnotizadas através da escuridão...`
 `Foi uma bela, belíssima dança — uma marcha fúnebre de tributo, ridicularização e desprezo para o sacrifício inútil de um único garoto.`
 `...Kanon já havia se preparado para sua morte,`
 ` ......mas ele tentou uma última medida de resistência, para ao menos rejeitar a morte na forma que lhe fora entregue.`
 `...Com ambas as mãos, ele segurou o cabo da arma que havia perfurado seu peito,`
-` ............e apertando seus dentes com aquela dor aguda e sobrenatural...............`
+` ............e rangendo seus dentes com aquela dor aguda e sobrenatural...............`
 ` ..............................ele a tirou para fora.`
-`Por um breve momento, um tom de vermelho‐encarnado esguichou para fora.`
+`Por um breve momento, um spray de tonalidade encarnada esguichou para fora.`
 `......E isso gerou um som muito desagradável.`
 `Ele provavelmente lembraria o som da alma de Kanon à medida que ela seria sugada para o pântano dos mortos...`
 `"...............Kanon‐san?!`
 ` Hiiiiiiiii!!!`
-` A‐alguééééém!!`
+` A‐Alguééééém!!`
 ` Hiiiiiiiii!!"`
 `Kumasawa gritou ao se deparar com aquela visão incompreensível que estava à frente.`
 `Kanon estava deitado em uma piscina de sangue...`
@@ -272,7 +272,7 @@
 `......Mas depois que todos viram Kanon, que estava deitado no chão como se tivesse se afogado em um mar de sangue, o cheiro parecia não ser o mais importante.`
 `"Kanon!`
 ` Me responda!!`
-` ......Genji, traga o Doutor Nanjo aqui!!"`
+` ......Genji, traga o doutor Nanjo aqui!!"`
 `Natsuhi percebeu que mesmo que Kanon estivesse quase morto, ele ainda estava consciente, portanto ela pediu que Genji chamasse o doutor.`
 `...Natsuhi, segurando seu rifle no alto, encarou a escuridão que cobria a sala da caldeira e gritou!`
 `"......Quem está se escondendo aí dentro?!!!`
@@ -326,11 +326,11 @@
 ` A tia Eva e o tio Hideyoshi sempre foram tão gentis e divertidos com a gente...!!`
 ` Eu só conheci o Kanon‐kun ontem, mas eu tenho certeza que teríamos nos dado bem!`
 ` Por que você os matou?!!"`
-`"Por que, por quê...?!!!`
+`"Por quê? Por quê...?!!!`
 ` Quando as pessoas morrem, elas não voltam à vida, sabia?!`
 ` Eles não crescem de novo como se fossem brotos de bambu!`
 ` .........Por que você os mataria?!`
-` Por quê...`
+` Por quê...?`
 ` Por quê...?!!!`
 ` Aaaaaaaaaaaaaaaaahhhh...!!"`
 `...Battler era um homem que podia entender os sentimentos de dor e culpa no coração de uma pessoa.`
@@ -344,25 +344,25 @@
 `"......uuuUUuuUuuUUUuughhhu!!`
 ` AaaaaaAAAAAAAAhhh!!"`
 `Battler, depois de chorar no peito de Natsuhi por um tempo,`
-` limpou suas lágrimas com um sorriso sem graça, e tentou se convencer que já havia chorado mais que o suficiente, como ele já havia feito várias vezes antes...`
+` limpou suas lágrimas com um sorriso sem graça e tentou se convencer que já havia chorado mais que o suficiente, como ele já havia feito várias vezes antes...`
 `"De qualquer forma, vamos voltar para baixo por enquanto.`
 ` ......Nossa proteção é uma prioridade maior que encontrar o culpado.`
 ` Amanhã, um barco virá.`
-` Depois disso, a polícia virá, e tudo será passado a limpo.`
-` .........Não há nenhum modo do assassino escapar dessa ilha, não importa o quanto ele tente...!!"`
+` Depois disso, a polícia virá e tudo será passado a limpo.`
+` .........Não há nenhum modo do assassino escapar desta ilha, não importa o quanto ele tente...!!"`
 `"......Certo.`
 ` ...Quando a polícia chegar..."`
 `Quando as gaivotas chorarem, ...o crime será resolvido.`
-`Mas, ...por alguma razão, Battler teve uma leve incerteza...como se as gaivotas nunca fossem chorar novamente.`
+`Mas, ...por alguma razão, Battler teve uma leve incerteza...como se as gaivotas nunca fossem pipilar novamente.`
 `......Isso não poderia ser verdade.`
 `{n}Quando o tufão passar, as gaivotas devem retornar ao porto mais uma vez......`
 `Eu voltei para a sala da caldeira junto com a tia Natsuhi e contei a todos que não conseguimos encontrar nada.`
-`Eles me disseram que o Doutor Nanjo e o George tinham carregado o Kanon‐kun para a sala dos serviçais.`
+`Eles me disseram que o doutor Nanjo e o George tinham carregado o Kanon‐kun para a sala dos serviçais.`
 `A sala dos serviçais tinha um kit de primeiros‐socorros e uma pia, e aparentemente podia funcionar como uma enfermaria.`
 `A Kumasawa‐san e a Jessica os acompanharam.`
 `...Poças do sangue do Kanon‐kun ainda restavam no chão.`
 `Julgando pela larga quantidade de sangue perdido e pelo formato impiedoso da arma que estava caída no chão,`
-` ......eu percebi que o atendimento do Doutor Nanjo acabaria sendo em vão...`
+` ......eu percebi que o atendimento do doutor Nanjo acabaria sendo em vão...`
 `Aquela arma era, sem dúvidas, do mesmo tipo da que estava cravada nas testas da tia Eva e do tio Hideyoshi.`
 `......Mas, espere, o design demoníaco no cabo não é um pouco diferente...?`
 `Pareciam ter algumas diferenças naquela parte.`
@@ -406,7 +406,7 @@
 `..................?`
 `"......Os dedos, nos dois pés. Olhe de perto."`
 `"Hã?`
-` ..................ah,`
+` ..................Ah,`
 ` ......é verdade........."`
 `Assim como o Genji‐san disse, haviam seis dedos em cada pé.`
 `Os dedos estavam organizados tão normalmente que eu não havia percebido...`
@@ -417,15 +417,15 @@
 `Polidactilia literalmente significa "muitos dedos".`
 `Por causa de um pequeno erro cometido por Deus no nascimento de uma pessoa, um dos seus dedos se divide em dois, e o número total aumenta.`
 `Mas não fazem muita alarde acerca da polidactilia em nenhum lugar do mundo.`
-`{n}Isso é porque não é uma doença, mas sim algo que nasce com uma pessoa.`
-`Então, os hospitais geralmente já têm noção do fato enquanto eles são ainda bebês, e quando fazem um ano, recebem uma cirurgia para tornar seus pés normais.`
-`Então, mesmo se uma criança tenha polidactilia, ela é tratada antes que tenha consciência; por isso eles geralmente acabam mesmo sem saber.`
+`{n}Isso é porque não é uma doença, mas sim algo que nasce com a pessoa.`
+`Então, os hospitais geralmente já têm noção do fato enquanto eles são ainda bebês e, quando fazem um ano, recebem uma cirurgia para tornar seus pés normais.`
+`Então, mesmo se uma criança tenha polidactilia, ela é tratada antes que tenha consciência; por isso elas geralmente acabam mesmo sem saber.`
 `Incidentalmente, parece que isso pode ocorrer com uma probabilidade de um em cada dois mil bebês,`
 ` então mesmo que não seja comumente visto, não é tão raro assim.`
 `Pensando nisso, eu acho que o tio Hideyoshi já mencionou algo parecido há um tempo atrás.`
 ` ...Algo sobre como Toyotomi Hideyoshi, o homem que unificou o Japão no fim do período Sengoku, possuía seis dedos em uma mão...`
 `De acordo com a tia Natsuhi, dentro dos vários chefes da família Ushiromiya, os mais apreciados por sua sabedoria eram os que tinham polidactilia.`
-`......Por causa disso, quando o vovô nasceu, seus parentes estavam muito excitados com o fato que ele poderia vir a se tornar um excelente líder.`
+`......Por causa disso, quando o vovô nasceu, seus parentes estavam muito empolgados com o fato que ele poderia vir a se tornar um excelente líder.`
 ` E quando todos os parentes na liderança morreram, no Grande Terremoto de Kanto, aparentemente foi argumentado que se alguém pudesse restaurar a família,`
 ` esse alguém seria o vovô, por causa do auspicioso sinal que lhe foi dado no nascimento.`
 `Se o vovô gostava da ideia de ser o chefe da família, esse sexto dedo deve ter vindo a calhar.`
@@ -444,9 +444,9 @@
 `......Foi decidido que iríamos deixar o corpo do vovô ali e trancaríamos a sala, selando‐a.`
 `Não estava claro quando o corpo do vovô começou a queimar no incinerador.`
 `Porém, de acordo com o Genji‐san, as chamas não estavam tão altas, então o corpo deve ter começado a queimar há um longo tempo atrás,`
-` e aquele fedor deve ter escapado devagar para fora da fornalha, e preenchido a sala pouco a pouco, eventualmente a inundando e avançando para as escadas.`
-`......Deixando de lado se ele era raro ou bem‐sucedido,`
-` o vovô, que estava a princípio dentro de um quarto fechado, criado por sua tranca automática...foi trazido para fora, morto, e queimado.`
+` e aquele fedor deve ter escapado devagar para fora da fornalha e preenchido a sala pouco a pouco, eventualmente a inundando e avançando para as escadas.`
+`......Deixando de lado se foi malpassado ou bem passado,`
+` o vovô, que estava a princípio dentro de um quarto fechado, criado por sua tranca automática...foi trazido para fora, morto e queimado.`
 ` ...Provavelmente não há dúvidas quanto a isso...`
 `Entretanto, de acordo com o Genji‐san, a sala da caldeira geralmente fica trancada.`
 `......A probabilidade de que alguém de fora do nosso grupo estava explorando por aí e cometendo crimes era agora incrivelmente alta,`
@@ -467,8 +467,8 @@
 ` ......então a lista de suspeitos é muito curta.`
 `Nós, os mais novos, a tia Natsuhi.`
 `{n}O Genji‐san,`
-` a Kumasawa‐baachan,`
-` e o Doutor Nanjo.`
+` a Kumasawa baa‐chan`
+` e o doutor Nanjo.`
 `{n}...Uma dessas pessoas tem que ser o culpado!`
 `Espera, não podemos ter certeza disso.`
 ` ......Apenas um segundo atrás, nós estávamos duvidando se aquele corpo era mesmo do vovô, não?`
@@ -483,7 +483,7 @@
 ` ......não, .........essa bruxa......!`
 `"Maria‐chan, você não precisa continuar encarando tão fixamente.`
 ` Vamos lá, Battler‐kun, você também.`
-` Eu estou preocupada com a condição do Kanon, e eu não quero permanecer em um lugar como esse mais do que já foi preciso.`
+` Eu estou preocupada com a condição do Kanon e não quero permanecer em um lugar como esse mais do que já foi preciso.`
 ` Vamos voltar."`
 `"......Uu."`
 `Maria não foi junto conosco direto, mas permaneceu um pouco na sala da caldeira.`
@@ -500,12 +500,12 @@
 ` ...Kihi{0}hi{0}hi{0}hi{0}hi{0}hihi."`
 `"Como você pode rir disso?`
 ` Você acha que é a única que está segura?`
-` Por que você não sente como se estivesse em perigo, também?`
+` Por que você não sente como se estivesse em perigo também?`
 ` Por que você não está assustada?!"`
 `"......A {f:5:Beatrice} me prometeu.`
 ` ...Ela disse que ela vai me levar para a Terra Dourada."`
-`".........É um lugar maravilhoso onde você não tem nenhuma obrigação, todos estão sempre juntos e são sempre gentis uns com os outros."`
-`".........Estou muito ansiosa por isso, sabia?`
+`".........É um lugar maravilhoso, onde você não tem nenhuma obrigação, todos estão sempre juntos e são sempre gentis uns com os outros."`
+`".........Eu estou muito ansiosa por isso, sabia?`
 ` E essa hora vai chegar, muito em breve.`
 ` ...Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi..."`
 `...Mas que tipo de pessoa é a Maria...?`
@@ -524,14 +524,14 @@
 ` Você provavelmente vai me responder a mesma coisa, mas eu vou te perguntar só mais uma vez."`
 `"Uu...?"`
 `"...Ontem, te deram uma carta no jardim de rosas.`
-` ......Quem te deu essa carta...?!"`
+` ......Quem te deu aquela carta...?!"`
 `"Uu.`
-` ...Eu já disse que foi a {f:5:Beatrice}.`
+` ...Já disse que foi a {f:5:Beatrice}.`
 ` ...Você ainda não acredita.`
 ` Uu."`
 `Maria apenas repetiu o que ela já tinha dito.`
 `......Maria se encontrou com uma 19ª pessoa, a bruxa.`
-`Seria essa realmente a 19ª pessoa, ou um dos outros 18, que a orientou para que mentisse?`
+`Seria essa realmente a 19ª pessoa, ou um dos outros 18, que a orientou para que ela mentisse?`
 `A única coisa de que podemos ter certeza é que Maria estava junto com o resto de nós constantemente, sempre teve um álibi, e nunca fez nada que pudesse botá‐la sob suspeita..`
 `......Ela só está muito animada em ter sido transformada na mensageira da {f:5:Beatrice}, mas ela certamente não é a nossa 19ª pessoa.`
 ` ..................Eu acho.`

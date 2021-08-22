@@ -1,5 +1,5 @@
 `.........O ominoso som do vento e da chuva.`
-`Deitado sobre a cama, mais uma vez eu vagamente fui recobrando consciência...`
+`Deitado sobre a cama, mais uma vez, vagamente fui recobrando consciência...`
 `O dedo que a bruxa havia mordido...`
 `...ainda estava em seu lugar.`
 `Eu não diria que "foi tudo uma ilusão"...`
@@ -8,28 +8,28 @@
 `......ainda estavam ali.`
 `E ainda, a janela que eu supostamente havia quebrado, estava inteira, como se nunca tivesse sido quebrada...`
 `.........Como eu posso escapar deste quarto estranho?`
-`Porque eu estou preso neste quarto sinistro......sozinho...?`
+`Por que eu estou preso neste quarto sinistro......sozinho...?`
 `Eu quero sair.`
 ` ......Eu preciso sair.`
 ` ......Me deixe sair daqui.........`
 `......A porta estava selada com uma firme corrente.`
 `Eu consegui abrir uma fresta nela, mas não serviu para nada mais além de espiar o corredor.`
-`......Provavelmente seria difícil até mesmo de fazer passar um punho por ela.`
+`......Provavelmente seria difícil até mesmo fazer um punho passar por ela.`
 `As janelas não se mexiam um centímetro.`
 `{n}Não eram diferentes das janelas de uma cela...`
-`O banheiro sequer tinham alguma abertura.`
+`O banheiro sequer tinha alguma abertura.`
 `......A única coisa que podia escapar daqui era a água que descia pelo encanamento quando você abria a torneira.`
 `......Não importa o quanto me esforce, ......eu não consigo pensar em nenhuma forma de sair daqui.`
 `Preso em um lugar como esse, eu não sou diferente de um simples prisioneiro.`
 `A não ser que alguém de fora venha para me salvar, ......eu ficarei preso aqui por toda a eternidade.`
-`.........Então, eu não poderia pedir por ajuda?`
+`.........Sendo assim, eu não poderia pedir por ajuda?`
 `Sim, a pequena fresta que consigo abrir na porta pode servir para eu chamar por ajuda.`
 `Mas......como vou fazer para as palavras saírem...?`
 `Eu já tentei chamar por ajuda antes,`
 ` mas, por algum motivo, as palavras não vertiam pela minha boca.`
 `......Talvez eu tivesse me confundido.`
 `Eu posso ter perdido a voz por causa da minha apreensão e confusão naquela hora.`
-`Eu abrir uma fresta na porta de novo.`
+`Eu abri uma fresta na porta de novo.`
 `A calorosa luz do corredor inundou o quarto, fazendo com que a escuridão do mesmo se afastasse de uma vez só...`
 `Embora não conseguisse ouvir vozes, eu pude sentir uma certa tranquilidade.`
 `......Certamente todos estavam em um quarto ao final do corredor, conversando alegremente sobre algum assunto.`
@@ -64,8 +64,8 @@
 `Isso muda tudo.`
 `{n}Agora eu posso rompê‐la por dentro...!`
 `Eu tentei destrancá‐la, mas não consegui puxá‐la pois não era larga o suficiente para isso enquanto a porta ainda estivesse entreaberta.`
-` É óbvio`
-`"......S‐Se acalma......`
+` É óbvio.`
+`"......P‐Preciso me acalmar......`
 ` .....................*gulp*..."`
 `Eu engoli em seco, ......e calmamente fechei a porta.`
 `Então, ......assim que vi que a corrente havia afrouxado o suficiente, ...eu a toquei com meu dedo para ter certeza.`
@@ -74,7 +74,7 @@
 `{n}Agora eu consigo destrancá‐las normalmente.`
 `{n}......Qualquer um consegue... É fácil...`
 `Click......`
-`Nesse momento um pensamento horrível me veio à mente,`
+`Nesse momento, um pensamento horrível me veio à mente,`
 ` que o demônio que me trancou aqui poderia estar usando isso como uma armadilha para me deixar esperançoso e depois esmagar essa esperança,`
 ` ......finalmente havia parado de me assombrar.`
 `A corrente se abriu facilmente,`
@@ -114,7 +114,7 @@
 `Não...não foi "como se".`
 `......Sem que eu percebesse,`
 ` ......em algum momento...`
-`...uma espessa coleira de metal havia sido colocado ao redor do meus pescoço.`
+`...uma espessa coleira de metal havia sido colocado ao redor do meu pescoço.`
 `Quando isso aconteceu?!`
 ` Assim que me virei, eu fiquei ainda mais desesperado.`
 `Do lado interior da porta que eu tinha acabado de abrir,`
@@ -127,17 +127,17 @@
 `......é essa.........?`
 `A corrente conectada à minha coleira......estava presa ao lado interior da porta.`
 `Sim.`
-` A mesma corrente impiedosa que estava trancado a porta até pouco tempo...de repente se tornou a corrente que estava {i:me} segurando...`
+` A mesma corrente impiedosa que estava trancando a porta até pouco tempo...de repente se tornou a corrente que estava {i:me} segurando...`
 `Isso é loucura... É loucura...!!`
 `{n}Droga, que merda está acontecendo aqui?!`
 `Eu a puxei com todas as forças, tentando arrancar ela da porta,`
 ` mas as repetitivas tentativas de antes já me diziam que não se mexeria.`
 `......Eu estava certo que a corrente desapareceria no momento em que eu retornasse para o quarto.`
 `{n}Mas nunca iria me deixar sair.`
-`Embora tenha aparentado ter retornado a forma de uma corrente de porta normal, ......nada chegou a mudar.`
-`O fato de que a "correta da porta" estava me atando a este quarto era ainda mais verdadeiro do que antes...`
+`Embora tenha aparentado ter retornado à forma de uma corrente de porta normal, ......nada chegou a mudar.`
+`O fato de que a "corrente da porta" estava me atando a este quarto era ainda mais verdadeiro do que antes...`
 `"......Uuu......nnngh......aaaaaaaaahhhh......!!!"`
-`Lágrimas começaram a escorrer pelo meu rosto enquanto eu puxava com todas as formas.`
+`Lágrimas começaram a escorrer pelo meu rosto enquanto eu puxava com todas as forças.`
 `{n}......Mas foi completamente inútil.`
 ` Não importa o que eu tente, nunca serei capaz de rompê‐la.`
 `E eu sequer podia pedir por ajuda.`
@@ -152,7 +152,7 @@
 ` ............?!?!"`
 `Aquelas letras, ......que pareciam ter sido escritas à sangue,`
 ` responderam a minha maior dúvida...`
-`A corrente precisava estar colocada.`
+`A corrente precisa estar colocada.`
 `Você pode removê‐la, mas ela deve ser recolocada.`
 `A não ser que esteja colocada, você não será capaz de sair.`
 `Eu instantaneamente entendi o significado daquela mensagem aterradora.`
@@ -162,15 +162,15 @@
 `Ou seja, eu não poderia escapar deste quarto enquanto a corrente estivesse removida.`
 `Mas isso significa que tudo o que preciso fazer é recolocar a corrente quando eu estiver do lado de fora...!`
 `Eu removi a corrente mais uma vez.`
-`O peso do colar e da corrente que apareceram mais uma vez ao redor do meus pescoço.`
-`Eu dei um passo para na direção do corredor e fechei a porta atrás de mim, deixando apenas uma pequena fresta aberta.`
+`O peso do colar e da corrente apareceram mais uma vez ao redor do meu pescoço.`
+`Eu dei um passo na direção do corredor e fechei a porta atrás de mim, deixando apenas uma pequena fresta aberta.`
 `Enfiando minha mão por essa abertura, eu agarrei a corrente que estava pendurada e tentei dar um jeito de colocá‐la novamente.`
 `......M‐......Merda......`
 `......Por dentro é tão fácil...`
 `......então por que...`
 `...é tão difícil pelo lado de fora...?`
 `A abertura precisa ser larga se eu quiser manipular a corrente corretamente.`
-`{n}Mas isso faz com que a corrente fique pequena demais para ser alcançar a outra ponta.`
+`{n}Mas isso faz com que a corrente fique pequena demais para se alcançar a outra ponta.`
 `Para aproximar a corrente o suficiente, eu precisava fechar a porta o máximo que fosse possível.`
 `Mas fazer isso significaria não ter espaço o suficiente para enfiar a minha mão para dentro.`
 `......Sim, isso é algo normal.`
@@ -180,12 +180,12 @@
 `para prevenir que qualquer um a coloque ou retire pelo lado exterior.`
 `Talvez eu pudesse conseguir se usasse algum tipo de ferramenta fina e resistente?`
 `O comprimento da corrente deve ser suficiente para fechar se a fresta entre a porta for do tamanho de um dedo.`
-`......Por exemplo, se eu pudesse dobrar um cabide de arame para que passasse perfeitamente pela fretas...`
+`......Por exemplo, se eu pudesse dobrar um cabide de arame para que passasse perfeitamente pela fresta...`
 `e manusear a corrente com ele......`
 `É mesmo, tem um armário bem do lado da porta.`
 ` Será que tem algum cabide dentro dele?`
 `".........Achei...!!`
-` O‐......ohh, obrigado Deus...!!"`
+` O‐......Ohh, obrigado Deus...!!"`
 `Um único cabide de aparência barata, daqueles que você encontra em qualquer lavanderia, estava pendurado dentro do armário.`
 `......Estava mesmo aqui?`
 `Eu tenho certeza que eu olhei seu interior pouco tempo atrás...`
@@ -208,7 +208,7 @@
 `Eu finalmente tenho em mãos uma forma de escapar.`
 `{n}......Vai ser difícil, mas teoricamente não é impossível.`
 `Se é possível, então eu devo ser capaz de sair.`
-`{n}Eu vou de sair daqui...!!`
+`{n}Eu vou sair daqui...!!`
 `""......Hihi......hihihihihihihihihi......""`
 `"......! ...?!?!"`
 `Nesse instante, ......eu senti uma forte carga do outro lado da porta.`
@@ -234,19 +234,19 @@
 `Eu percebi na hora.`
 `Em algum momento, surgiram palavras vermelhas escritas na porta,`
 ` e minha mão esquerda estava cobrindo elas.`
-`Ainda lutando contra bruxa do outro lado da porta, que tinha uma força parecida com um torno, ......eu movi minha mão esquerda para o lado.`
+`Ainda lutando contra a bruxa do outro lado da porta, que tinha uma força parecida com um torno, ......eu movi minha mão esquerda para o lado.`
 `Quando essa mão deslizou para o lado...`
 `...realmente havia letras escritas à sangue ali.`
-`Era como.........se alguém tivesse previsto que eu acabaria resistindo dessa forma desde...`
-`...uma mensagem direta da bruxa para mim.`
+`Podia ser lido como.........se alguém tivesse previsto que eu acabaria resistindo dessa forma desde o início...`
+`...era uma mensagem direta da bruxa para mim.`
 `Não importa o método,`
 ` é impossível colocar ou remover a corrente pelo lado de fora.`
 `Todos os truques que podiam ser usados do lado de fora......foram selados por aqueles caracteres vermelhos.`
 `"S‐.........Sem chance..............."`
 `""Hihihihihihihi.`
 ` ......Hihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihi...!!""`
-`Eu ouvi um som terrível, e a força que estava puxando o cabine sumiu de repente.`
-`E....quando olhei para o cabine que havia sido solto, eu perdi todas as esperanças.`
+`Eu ouvi um som terrível, e a força que estava puxando o cabide sumiu de repente.`
+`E....quando olhei para o cabide que havia sido solto, eu perdi todas as esperanças.`
 `Como se tivesse sido atingido pela ácida escuridão do quarto,`
 ` .........a ponta do cabide...`
 `...havia sido queimada e ainda estava borbulhando...`
@@ -276,14 +276,14 @@
 `Dessa vez, não foi a voz da bruxa.`
 ` ......Era as vozes risonhas de todos, as quais eu podia ouvir vindo do final do corredor...`
 `Alguém, venha até aqui...`
-`...e me salvee{‐}e{‐}e{‐}e{‐}e{‐}e{‐}e{‐}e{‐}e{‐}eem......`
+`...e me salvee{‐}e{‐}e{‐}e{‐}e{‐}e{‐}e{‐}e{‐}e{‐}ee......`
 `"Foi mal, mas essa é minha!"`
 `George bateu sua última carta, encerrando o jogo com sua vitória.`
 `Todos arquejaram ao mesmo tempo.`
 `O quarto dos primos estava repleto de risadas enquanto eles se divertiam jogando cartas...`
-`"Whoooooooa, você tinha mesma essa carta, George‐aniki!`
+`"Whoooooooa, você tinha mesmo essa carta, George‐aniki!`
 ` Maldito seis de espadas, maldi{‐}i{‐}i{‐}i{‐}i{‐}iito!"`
-`"Seu oito de diamantes também é bem maldoso.`
+`"Seu oito de diamantes também foi bem maldoso.`
 ` Aah, essa foi quase, aha{0}ha{0}ha{0}ha{0}ha!"`
 `"Uu‐uu‐uu!!`
 ` Incrível, George onii‐chan! Venceu de novo!!"`
@@ -304,14 +304,14 @@
 ` por isso, até mesmo uma derrota em um jogo amistoso, era algo que ele levava a sério.`
 `Tendo decidido vencer e encarado jogadores veteranos como George e Battler,`
 ` o resultado do jogo já era óbvio.`
-`Quando Kanon baixou os ombros, Jessica de um tapinha em suas costas.`
+`Quando Kanon baixou os ombros, Jessica deu um tapinha em suas costas.`
 `"Qual é, você quase conseguiu...!`
 ` Ahaha, mas eu gosto muito disso!`
 ` Sempre lutando pra vencer!"`
 `"......Não importa se eu for com tudo ou não, não faz sentido nenhum se eu perder no final..."`
 `"Tá brincando?`
-` Se você realmente deu tudo de si, então pode tá valendo se sentir bem consigo mesmo, apesar da derrota.`
-` Se você perder sem sequer tentar, vai querer resmungar dizendo que teria vencido se tivesse indo com tudo, não vai?"`
+` Se você realmente deu tudo de si, então tá valendo se sentir bem consigo mesmo, apesar da derrota.`
+` Se você perder sem sequer tentar, vai querer resmungar dizendo que teria vencido se tivesse ido com tudo, não vai?"`
 `"Isso mesmo.`
 ` Pessoas que realmente dão tudo de si nunca reclamam no final.`
 ` Esse tipo de pessoa sempre fica contente com qualquer resultado."`
@@ -320,13 +320,13 @@
 ` Sempre aprendendo algo com a experiência e amadurecendo."`
 `"......Realmente.`
 ` ...Eu sempre fui covarde, por isso nunca aprendi nada.`
-` ...Até hoje eu ainda sou imaturo."`
+` ...Até hoje, eu ainda sou imaturo."`
 `Sou uma mobília, então é inútil sonhar.`
 `{n}Por acreditar muito nisso, ele acabou se distanciando de tudo e se isolando de todos.`
 `Porém, durante esse tempo, Shannon vivenciou muitas aventuras.`
 `E agora, sua mão se encontrava na porta que separava as mobílias dos {y:0:Humanos}{n:0:humanos}......`
 `O velho Kanon só teria visto este jogo de cartas como sendo uma forma de passar o tempo.`
-`Entretanto, ......o novo Kanon era capaz de obter algo com esse nova experiência.`
+`Entretanto, ......o novo Kanon era capaz de obter algo com essa nova experiência.`
 `Provavelmente o que chamam de...amadurecimento.`
 `{n}Mobílias não fazem nada além de deteriorar com o passar do tempo.`
 `Ser capaz de crescer......é um privilégio concedido unicamente aos {y:0:Humanos}{n:0:humanos}.`
@@ -339,15 +339,15 @@
 ` Muito obrigado por me forçarem a jogar."`
 `"A gente precisa se desafiar cada vez mais.`
 ` E vamos procurar por mais coisas que você ainda não conhece."`
-`"......O‐`
-`oh,`
+`"......A‐`
+`Ah,`
 ` então,`
 ` já que estamos falando sobre isso...`
 ` Você não teria interesse em tocar ...g‐guitarra?`
 ` B‐Bem, não é como se precisasse, mas..."`
 `".........Deve ser bem complicado."`
 `"S‐Sim, eu acho.`
-` Mas vou me esforçar para ensinar você, e vamos até ensaiar juntos.`
+` Mas vou me esforçar para te ensinar, e vamos até ensaiar juntos.`
 ` Bem, apesar de que eu mesma não sou tão boa assim, hahaha..."`
 `No começo, Kanon tinha medo tocar qualquer instrumento musical pela primeira vez na vida, e acabar se envergonhando e parecendo idiota.`
 `......Ele sabia que acabar estragando tudo iria deixá‐lo deprimido.`
@@ -365,7 +365,7 @@
 `"S‐Sério...?!"`
 `"Sim.`
 ` ......Tenho certeza que serei péssimo no começo, e você pode até acabar perdendo as esperanças em mim.`
-` ......Mas se eu der o meu máximo, irei encarar todos os erros ao meu favor.`
+` ......Mas, se eu der o meu máximo, irei encarar todos os erros ao meu favor.`
 ` ......É o que eu acabei de aprender com vocês."`
 `"......Hahahahahahaha,`
 ` agora tá me deixando envergonhada..."`
@@ -375,7 +375,7 @@
 `"Eheheheh.`
 ` Então é bom dar ainda mais duro para me amar ainda mais...`
 ` Ehehihi, hahyahyahya..."`
-`As palavras séries e competitivas de Kanon foram mais do que suficiente para deixar Jessica envergonhada.`
+`As palavras sérias e competitivas de Kanon foram mais do que suficiente para deixar Jessica envergonhada.`
 `Porém, a expressão de Kanon nublou inesperadamente......`
 `".........Ojou‐sama, o motivo pelo qual eu a amo é muito claro.`
 ` ......É por isso que...eu não suporto não saber."`
@@ -383,13 +383,13 @@
 `"......Por que você começou a gostar de mim.`
 ` .........Diferente de você, eu não tenho brilho algum.`
 ` ......Até mesmo agora, eu só estou me agarrando às suas costas enquanto você brilha.`
-` ......Eu não consigo pensar em nenhum motivo para você gostar de alguém tão decadente como eu."`
+` ......Eu não consigo pensar em nenhum motivo para se apaixonar por alguém tão decadente como eu."`
 `"Is‐......Isso não é verdade, ouviu?!`
 ` Tem um monte de coisas boas em você, Kanon‐kun..."`
 `"......Preciso superar minha vergonha e perguntar.`
-` ......O que você gostar de mim, ojou‐sama?"`
+` ......O que você gosta em mim, ojou‐sama?"`
 `Kanon olhou para o chão.`
-`......Ele nunca aprende nada, por isso nunca foi capaz de ensinar algo para ela.`
+`......Ele nunca aprendeu nada, por isso nunca foi capaz de ensinar algo para ela.`
 `Sempre ter recebido uma afeição unilateral, incapaz de fazer qualquer coisa por ela...`
 `...o deixava triste... e fazia Kanon se sentir frustrado.`
 `Jessica não sabia o que dizer.`
@@ -403,7 +403,7 @@
 `Entretanto, ......ela sabia melhor do que ninguém o que estava sentindo neste exato momento.`
 `Ela realmente amava Kanon, ......e queria muito ter uma relação romântica com ele.`
 `Eles poderiam acabar ficando juntos ao final, ou talvez não.`
-`Mas, independente do resultado, ela poderia aceitá‐lo independente do que estivesse pro vir.`
+`Mas, independente do resultado, ela poderia aceitá‐lo independente do que estivesse por vir.`
 `É por isso que ela foi capaz de encarar seus sentimentos de forma séria e honesta.`
 `Porém, ......ela não conseguia encontrar palavras para dizer isso a Kanon.`
 `Quando Kanon viu Jessica incomodada, mordendo seu lábio inferior,`
@@ -431,13 +431,13 @@
 ` ......Mas um dia............a todo custo..."`
 `"......Sim.`
 ` Eu tenho total certeza que você vai se tornar uma pessoa maravilhosa, Kanon‐kun.`
-` Um cara tão legal que vou me apaixonar eu nunca mais vou querer desgrudar.`
+` Um cara tão legal que vou me apaixonar e nunca mais vou querer desgrudar.`
 ` Até lá, eu estarei sempre ao seu lado.`
 ` ......Quanto tempo for preciso...!"`
 `"..............................`
 ` ......Infelizmente, não há muito tempo sobrando."`
 `"......Como não?"`
-`"Sempre que falo sobre ser uma mobília......isso sempre deixa você triste.`
+`"Sempre que falo sobre ser uma mobília......isso sempre a deixa triste.`
 ` ......Mas isso é algo que eu preciso muito dizer.`
 ` E é algo que eu preciso lutar com a minha alma."`
 `"Do que tá falando...?`
@@ -453,10 +453,10 @@
 ` ......É algo que os {y:0:Humanos}{n:0:humanos} que nascem neste mundo podem ter como certo."`
 `"......Mas não é algo que aqueles que não são desse mundo, aqueles que nasceram como mobílias, tem como certo.`
 ` .........Para obtermos isso, nós precisamos de magia ou de um milagre."`
-`......Da mesma forma que a Nee‐san e o George‐sama...`
-`...nunca acabariam ficando junto sem pegar emprestado o poder daquele dourado de borboleta.`
+`......Da mesma forma que a nee‐san e o George‐sama...`
+`...nunca acabariam ficando junto sem pegar emprestado o poder daquele broche da borboleta dourada.`
 `"Eu não entendi nada da última parte."`
-`"......O que foi que você não entendeu?`
+`"......O que foi que não entendeu?`
 ` ......Deixe‐me ouvir."`
 `"Desde que este jogo começou, ......boa parte dele tem sido focada na determinação da Shannon e do Kanon em se apaixonarem.`
 ` ......Eu não tenho problemas com a interpretação de que essa é uma história sobre crescimento e a determinação adolescente de uma garota e um garoto que se dizem ser mobílias.`
@@ -469,16 +469,16 @@
 ` É o que eles disseram."`
 `"Certamente não seria exagero se eles pensassem que um amor proibido entre classes diferentes...`
 `...poderia nunca dar frutos sem o milagre da magia......?"`
-`"Ah, eu concordo.`
+`"De fato.`
 ` Shannon e Kanon são serviçais que se apaixonaram por membros da família Ushiromiya,`
 ` logo faz total sentido para mim que eles se rebaixem à mobílias enquanto sofrem com um amor proibido."`
-`"......Então, o que não faz sentido para você...?"`
+`"......Então, o que não faz sentido...?"`
 `"‘Sem outro poder da magia, o casamento será impossível’.`
 ` ......Shannon e Kanon parecem compartilhar da mesma visão.`
 ` ......Essa é a parte que eu não consigo entender."`
 `Após se encontrarem em segredo pouco tempo atrás, George e Shannon finalmente viraram noivos.`
-`Ambos estavam preparados emocionalmente para isso,`
-` e, embora possa haver algum problema com a família, chegou num ponto onde provavelmente será impossível que qualquer um impeça o casamento deles.`
+`Ambos estavam preparados emocionalmente para isso e,`
+` embora possa haver algum problema com a família, chegou num ponto onde provavelmente será impossível que qualquer um impeça o casamento deles.`
 `".........Tentar se impor contra duas pessoas que pretendem se casar é tão tolo quanto entrar no caminho de uma flecha e tentar segurar ela no ar."`
 `"Exatamente.`
 ` O George onii‐chan jurou que protegeria sua parceira pelo resto de suas vidas e não temeria a oposição ou o abandono de seus pais.`
@@ -493,7 +493,7 @@
 ` Eles não precisam de magia."`
 `Se George e Shannon...`
 `...buscassem pela aprovação de Eva para se casarem...`
-`.........talvez a magia fossem realmente necessária.`
+`.........talvez a magia fosse realmente necessária.`
 `Afinal, Eva proibiu a relação de seu filho com uma serviçal.`
 `Não importa o quanto George argumente em favor de Shannon, as chances de Eva ser convencida são virtualmente zero.`
 `Se fosse esse o caso, seria compreensível eles precisarem de um milagre mágico para fazer Eva reconhecer o casamento.`
@@ -516,56 +516,56 @@
 `{f:5:Featherine} ouviu a interpretação de Ange, com um sorriso de satisfação em seu rosto.`
 `......Ao que parece, ela já havia chegado a sua conclusão e estava se divertindo enquanto acompanhava Ange na busca de sua resposta.`
 `"E a mesma questão se aplica também ao Kanon.`
-` ......O amor entre e a Jessica onee‐chan acabou de começar, mas as emoções deles são puras.`
+` ......O amor entre ele e a Jessica onee‐chan acabou de começar, mas as emoções deles são puras.`
 ` Não tem nada no caminho deles."`
-`"Eles já estão em uma relação romântica mesmo sem precisa dor broche da borboleta dourada.`
+`"Eles já estão em uma relação romântica mesmo sem precisar do broche da borboleta dourada.`
 ` ......Não seria surpresa se a relação que eles deram início dure por anos e eventualmente culmine no casamento.`
 ` Também não tem nada no caminho deles."`
 `"......Enquanto não buscarem pela aprovação de Krauss e Natsuhi, não parece que eles vão precisar de um milagre mágico..."`
 `"Exatamente.`
-` ......O Kanon viu como Shannon estava vivendo e decidiu mudar a sua própria vida também.`
+` ......O Kanon viu como a Shannon estava vivendo e decidiu mudar a sua própria vida também.`
 ` Então, ele revelou seus verdadeiros sentimentos e começou uma relação com a Jessica onee‐chan.`
 ` ......Eles não precisam mais de magia."`
-`"......Se fosse um amor unilateral, então talvez eles precisasse de um encanto mágico ou algo similar.`
+`"......Se fosse um amor unilateral, então talvez eles precisassem de um encanto mágico ou algo similar.`
 ` Mas os sentimentos são mútuos.`
 ` Eles já comunicaram suas intenções um para o outro.`
 ` ......Então por que eles ainda precisariam de um milagre?"`
 `Ambos são peças de mobília que estão em relações de amor mútuo.`
 `{n}Eles não deviam precisar de mais nenhum milagre.`
-`Por quê...`
+`Por que...`
 `...eles ainda desejam pelo milagre da magia?`
 `E mais do que isso, um único broche é retratado como só podendo conceder um único milagre.`
 `Parece até que a Shannon está hesitando porque, caso ela use esse milagre para si,`
 ` a oportunidade de Kanon amar será automaticamente selada por toda eternidade...`
-`"Então a questão que fica é a seguinte:`
+`"Então, a questão que fica é a seguinte:`
 ` ‘Por que mobílias não podem amar?’"`
-`"......Você está perguntando sobre o motivo pelo qual o amor não é permitido sem o milagre conhecido como magia."`
+`"......Você está perguntando sobre o motivo pelo qual o amor não é permitido sem o milagre conhecido como magia?"`
 `"E mais,`
-` ......há também o broche da borboleta dourada, que permite que mobílias deploráveis conquistem o amor na qual tanto insistiram sem incapazes.`
+` ......há também o broche da borboleta dourado, que permite que mobílias deploráveis conquistem o amor na qual tanto insistiram serem incapazes.`
 ` Sobre o que eles estão falando?"`
 `"É claro, é uma cristalização da magia.`
-` Porém, assim como a maior parte das magias, ela pode ser queimada pelas toxinas anti‐magia."`
+` Porém, assim como a maior parte das magias, ela pode ser queimada pelas toxinas antimagia."`
 `"......Ou seja, só terá efeito com aqueles que acreditam em magia e bruxas."`
 `"Correto.`
 ` Logo, Shannon, que é capaz de interagir comigo, também é capaz de fazer uso de seu benefício.`
 ` Mas se Shannon tivesse deixado cair na praia e alguém que não sabe nada sobre ele tivesse encontrado..."`
-`"......Se essa pessoa estivesse envolta pela toxina anti‐magia, ela não seria capaz de fazer uso do poder mágico do broche..."`
+`"......Se essa pessoa estivesse envolta pela toxina antimagia, ela não seria capaz de fazer uso do poder mágico do broche..."`
 `"Isso mesmo.`
-` É comum que um item mágico de uma bruxa perca seu poder se não forem manuseados corretamente."`
-`"Contudo, da mesma forma que uma bruxa pode manifestar sua existência se for reconhecida por muitos {y:0:Humanos}{n:0:humanos} e a toxina anti‐magia desaparecer,`
+` É comum que um item mágico de uma bruxa perca seu poder se não for manuseado corretamente."`
+`"Contudo, da mesma forma que uma bruxa pode manifestar sua existência se for reconhecida por muitos {y:0:Humanos}{n:0:humanos} e a toxina antimagia desaparecer,`
 ` o poder desse item mágico também pode ser preservado se muitas pessoas acreditarem nele."`
 `"Isso é irônico.`
 ` ......Não importa que tipo de magia nós bruxas concedamos, tudo depende se os {y:0:Humanos}{n:0:humanos} que a receberam são capazes de aceitá‐la."`
 `"Eu já ouvi que o mesmo vale para os remédios.`
 ` Mesmo usando exatamente o mesmo remédio, ele tem um efeito maior em {y:0:Humanos}{n:0:humanos} que o conhecem melhor."`
 `"......Ah, acho que entendi.`
-` Como se um remédio para resfriado fosse ser mais efetivo se você lê‐se a descrição dele na bula antes."`
+` Como se um remédio para resfriado fosse ser mais efetivo se você lesse a descrição dele na bula antes."`
 `Enquanto ouvia, Beato pensou como magia se parecia um pouco com um encantamento.`
 `Quando a grande maioria dos {y:0:Humanos}{n:0:humanos} pensam na magia,`
 ` eles imaginam milagres inacreditáveis sendo conduzidos um após o outro diante de uma multidão.`
 `Mas essa magia verdadeira que sua irmã mais velha estava falando se parecia mais com um encantamento,`
 ` algo que não teria efeito se a pessoa que estivesse utilizando não acreditasse.`
-`......O coração de Shannon foi capturado por George, pouco a pouco conforme foi se transformando.`
+`......O coração de Shannon foi capturado por George, pouco a pouco, conforme foi se transformando.`
 `Porém, ela desistiu, pensando que alguém inferior como ela nunca seria capaz de encontrar o amor.`
 `Foi quando {f:5:Beatrice} deu a ela o broche da borboleta dourada e a encorajou.`
 `Desistir significa que suas chances de sucesso são zero.`
@@ -573,7 +573,7 @@
 ` isso provavelmente aumenta suas chances para algo ligeiramente acima do zero.`
 `Zero permanece sendo zero para sempre, mas se uma fraca probabilidade existir,`
 ` ......não seria exagero dizer que um milagre impossível ocorreu, comparado com a época em que a probabilidade era zero.`
-`Humanos podem suar a magia para aceitar a "resignação", a qual eles próprios fazem com a probabilidade de sucesso seja zero, e cancelá‐la.`
+`Humanos podem usar a magia para aceitar a "resignação", a qual eles próprios fazem com a probabilidade de sucesso seja zero, e cancelá‐la.`
 `Quando um {y:0:Humano}{n:0:humano} não desiste, mesmo com suas chances de sucesso sendo mínimas, essa chance ainda existe.`
 `E quanto mais forte eles acreditarem nela, maiores se tornam as probabilidades.`
 `É fácil acreditar que Shannon fez um honesto desejo ao broche, acreditando em seu efeito,`
@@ -604,14 +604,14 @@
 ` Não há nada dentro dela."`
 `"Mhm, está mesmo vazia.`
 ` *risos*, continue."`
-`"Eu pagarei esta xícara,`
+`"Eu pegarei esta xícara,`
 ` ......irei virá‐la assim,`
 ` ......e colocá‐la de cabeça para baixo sobre esta mesa."`
 `"Heheheheheheh.`
 ` E então? E agora?"`
-`"Hmm,`
+`"Bem,`
 ` ......v‐vamos fechar nossos olhos e recitar o encantamento."`
-`Era a......mesma magia que ela havia feito para dar uma bala a Mari.`
+`Era a......mesma magia que ela havia feito para dar uma bala à Maria.`
 `A Beato mais velha sorriu e fechou seus olhos.`
 `Ao vê‐la fazendo isso, ......Beato lentamente recitou o encanto.`
 `"V‐Vamos, busque recordar.`
@@ -629,7 +629,7 @@
 `"Vamos ver.`
 ` ......Vejamos qual foi o resultado de sua primeira magia."`
 `Criando um instante de tensão e infligindo suspense em sua irmãzinha, a irmã mais velha......ergueu a xícara.`
-`".........Aha."`
+`".........Ora?"`
 `"C‐Como foi......?"`
 `Quando a xícara foi erguida,`
 ` .........debaixo dela descansava......uma singela pétala de uma rosa dourada.`
@@ -645,10 +645,10 @@
 ` ......Tudo depende da toxina de cada indivíduo..."`
 `"Mais uma vez, ......embora possa explicar algumas magias utilizadas no passado, isso não é capaz de explicar tudo."`
 `"Retomando nossa conversa, mais uma vez nada sobre essa crença na magia e amuletos é capaz de responder a pergunta que não quer calar:`
-` "O que é o broche da borboleta dourada, que permite que mobílias deploráveis conquistem o amor na qual tanto insistiram sem incapazes.?"`
+` "O que é o broche da borboleta dourada, que permite que mobílias deploráveis conquistem o amor na qual tanto insistiram serem incapazes?"`
 ` Não é o suficiente para responder isso."`
 `"......Se simplesmente engolirmos o que as duas Beatos estavam conversando,`
-` ......nós precisamos aceitar que a magia tem o poder anular a "resignação" das mobílias?"`
+` ......nós precisamos considerar que a magia tem o poder anular a "resignação" das mobílias?"`
 `"‘Por que mobílias não podem se apaixonar?’`
 ` "Por que o poder do broche mágico é necessário?"`
 ` ......Realmente, o que você e as Beatos estão dizendo parece provir uma resposta, embora seja muito vaga.`
@@ -657,14 +657,14 @@
 `"Não pode aceitar, é...?"`
 `"......O destino que este par de mobílias está lutando para contornar é algo muito maior do que isso permitiria.`
 ` Eu duvido que eles consigam reformular seus pensamentos só por causa de um amuleto capaz de conceder a eles uma relação."`
-`"É verdade que o broche deu a Shannon a chance que ela precisava para ficar com o George onii‐chan,`
+`"É verdade que o broche deu à Shannon a chance que ela precisava para ficar com o George onii‐chan,`
 ` mas depois disso, ela disse que queria aprofundar a relação deles usando o poder da magia, e ela até tentou devolver o broche para Beato.`
-` Naquela ocasião ela supostamente abriu mão da magia pela primeira vez.`
+` Naquela ocasião, ela supostamente abriu mão da magia pela primeira vez.`
 ` ......Então, por que ela precisa do poder do broche mais uma vez?"`
 `"Bem...`
 ` ......Talvez não tenha outra maneira senão dizer que amor e casamento são coisas bem diferentes."`
 `{f:5:Featherine} riu agraciada.`
-`......Ela provavelmente havia elaborado sua própria teoria e agora ria Ange, que ainda não havia concluído a sua.`
+`......Ela provavelmente havia elaborado sua própria teoria e agora ria de Ange, que ainda não havia concluído a sua.`
 `"Deixe‐me ouvir.`
 ` Qual a sua opinião?"`
 `"Eu gostaria de mantê‐la somente para mim por mais algum tempo.`
@@ -685,7 +685,7 @@
 `No amor, onde mesmo uma mínima chance e um pouco de coragem podem ocasionar em uma grande mudança,`
 ` este poder pode resultar em uma repentina mudança...`
 `Porém, .........iria o intransponível destino destas mobílias...`
-`realmente se transfigurar para causa de algo assim......?`
+`realmente se transfigurar por causa de algo assim......?`
 `Eu acredito que no passado, o poder mágico do broche que juntou Shannon e George não era mais do que um simples amuleto de boa sorte.`
 `Contudo, neste momento,`
 ` o poder mágico que as peças de mobília estão buscando no broche, orando pelo desenlace deles no amor...`
@@ -699,9 +699,9 @@
 `...pela verdadeira magia, e não um simples truque.`
 `"......Então, que tipo de magia...`
 `......as mobílias estão esperando daquele broche......?"`
-`".........Um broche dourado...de borboleta...?"`
+`".........Broche da...borboleta dourada...?"`
 `"A Bruxa Dourada {f:5:Beatrice}...`
-`......deu a Shannon um amuleto mágico em troca de esmagar o espelho — uma amuleto para ter sucesso no amor.`
+`......deu à Shannon um amuleto mágico em troca de esmagar o espelho — um amuleto para ter sucesso no amor.`
 ` ......É o que ele é."`
 `De seu bolso, ......`
 `Kanon puxou a asa de uma borboleta dourada.`
@@ -713,12 +713,12 @@
 `"Isso não é verdade...`
 ` Eu comecei a gostar de você por causa dos meus verdadeiros sentimentos..."`
 `"......Eu agradeço.`
-` ..,Você é {y:0:Humana}{n:0:humana}, por isso não acredita em bruxas ou magia.`
+` ...Você é {y:0:Humana}{n:0:humana}, por isso não acredita em bruxas ou magia.`
 ` Não é estranho que seja assim.`
 ` ......Mas, sendo uma mobília criada por magia, minha simples existência aqui...`
 `...é uma prova de que o milagre da magia existe."`
 `"D‐Desculpa,`
-` do que você tá falando...?"`
+` do que tá falando...?"`
 `Jessica tentou ao máximo entender o que Kanon estava tentando dizer.`
 `Porém, ela não foi capaz de compreender, e com um amargo sorriso no rosto teve que pedir a ele para repetir...`
 `"...........................`
@@ -731,7 +731,7 @@
 `Isso reviveria o milagroso poder capaz de unir uma mobília e um {y:0:Humano}{n:0:humano}...`
 `"Mas um único broche só pode conceder o desejo de uma pessoa.`
 ` ......Apenas uma de nós, mobílias, poderíamos alcançar esta união com este único broche."`
-`Era o último e singelo estopim do amor, que fora semeado em dias passados pela a antiga {f:5:Beatrice} e sua estridente risada.`
+`Era o último e singelo estopim do amor, que fora semeado em dias passados pela antiga {f:5:Beatrice} e sua estridente risada.`
 `Esta mesma {f:5:Beatrice} dizia que humanos atormentados por este estopim eram como frutas maduras, e sentia um perverso prazer ao apreciar o sofrimento deles.`
 `Entretanto, a magia infundida nesta semente...era real.`
 `Era a única cristalização da magia que a Bruxa Dourada {f:5:Beatrice} deixara neste mundo......`
