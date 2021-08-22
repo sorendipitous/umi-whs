@@ -3,7 +3,7 @@ Umineko Project GOAT Edition
 
 This is a modified script of the [Umineko Project](https://umineko-project.org) PS3 to PC port, bringing various optional changes to the base release such as the original openings for EP1-4, larger text and new logos.
 
-So far this is **only for playing the game in English** with Umineko Project's translation, so do not install the patch using this script if you intend to play in any other language.
+So far this is **only for playing the game in English** with Umineko Project or Witch Hunt's translation, so do not install the patch using this script if you intend to play in any other language.
 
 ## Notable changes to vanilla Umineko Project
 - Original Akiko Shikata opening movies for EP1-4
@@ -17,7 +17,8 @@ So far this is **only for playing the game in English** with Umineko Project's t
 See instructions for the latest patch version at [releases](https://github.com/Pteryon/umipro-goat/releases).
 
 ## Credits
-- Umineko Project - Most of the things
+- 07th Expansion & Alchemist - Original game
+- Umineko Project - PS3 to PC port
 - Pteryon - Additional scripting and logos
 - Forteissimo - Original OP PS3fication
 <br>
@@ -35,12 +36,15 @@ See instructions for the latest patch version at [releases](https://github.com/P
 - Set BGM/Chapter popup off by default
 - _no Naku Koro ni_ changed to _When They Cry_ (to match the official English title convention with the logos)
 - _Nocturne of Truth and Illusions_ is now _Nocturne of **the** Truth and Illusions_ (to match _Rondo of **the** Witch and Reasoning_ and _Symphony of **the** Cat Box and Dreams_)
-- Fixed a typo in an EP8 character TIP
+
+# New in G0.2
+- Updated to Umineko Project 8.2b
+- Support for the Witch Hunt translation
 
 ## Known Issues
 - Credits scenes use the old logos/titles, simply because the images haven't been edited yet
 - Changed files have not been added to file verification at the start of the game
 - Patch relies on ons.cfg settings to increase Japanese text size and skip file verification
-- No openings displayed at launch
+- No openings shown when launching the game
 - Legacy op1.ogg is the same file as op.ogg, just required separately for the current script of the music box to work
 - Smaller text than preferable in some scenes to avoid awkward line breaks
