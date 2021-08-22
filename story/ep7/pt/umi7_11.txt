@@ -74,7 +74,7 @@
 ` ......Quer dizer, construir um telhado com cama e tudo mais?`
 `"Você não vai realmente construir uma casa, vai dar uma casa a eles.`
 ` ......Por exemplo, a Faquinha aqui, quem eu usei para cortar a linha.`
-` "{i:Eu quero ir pra ca~sa!}" ela disse.`
+` "{i:Eu quero ir pra ca~sa!}" ele disse.`
 ` Eheheheh, ele fica bem solitário quando está sozinho, por isso sempre quer voltar para casa.`
 ` Então, se o deixá‐lo em outro lugar, ele se perde e começa a chorar."`
 `"......Viu, eu deixei a Faquinha em qualquer lugar e agora ele está ficando solitário e vai começar a chorar."`
@@ -376,7 +376,7 @@
 `"Sobre o que é a história?"`
 `"É um livro da Agatha Christie, chamado "E não sobrou nenhum", onde todos recebem um convite para irem para uma pequena ilha.`
 ` Nenhum barco vai para buscá‐los e, um por um, eles começam a ser encontrados mortos de formas que se conectam a uma cantiga e, toda vez, um dos soldadinhos desaparece......`
-`{n}......É realmente interessante.`
+` ......É realmente interessante.`
 ` Quase como um crime acontecendo em Rokkenjima."`
 `"Sim, esse é um romance policial muito famoso.`
 ` Esse não era um crime perfeito, ao menos até o culpado confessar a verdade em uma mensagem na garrafa ao final do livro?`

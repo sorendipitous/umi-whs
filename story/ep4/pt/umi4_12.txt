@@ -244,10 +244,10 @@
 ` Por quê?!"`
 `"Não é culpa da Maria!!`
 ` Não é culpa da Maria, é culpa da mamãe!!`
-` {b:Sua} culpa!!"`
+` SUA culpa!!"`
 `"Você não brinca com a Maria, mas o Sakutaro brincava!"`
-`"Ele lia livros comigo, assistia televisão comigo, comia junto comigo!!`
-` Ele era um amigo muito, {b:muito} mais importante que {b:você}!!!"`
+`"Ele lia livros comigo, assistia TV comigo, comia junto comigo!!`
+` Ele era um amigo muito, MUITO mais importante que VOCÊ!!!"`
 `"...Eu, ......eu não me orgulho disso...!`
 ` M‐Mas eu não podia fazer nada, podia?!`
 `{n}A mamãe estava ocupado trabalhando muito!!`
@@ -694,7 +694,7 @@
 ` Você pode revivê‐la se necessário.`
 `{n}Se ela se tornar um incômodo, você pode simplesmente matá‐la mais uma vez...!"`
 `"Uma vez que você tenha aprendido que pode fazer isso a qualquer hora, simplesmente estalando seus dedos, os absurdos do reino humano, tudo se torna uma perda de tempo para você, muitos mais irrelevante que o chiado dos insetos...!"`
-`"Você começou a sentir como se pudesse perdoar a sua mãe, não porque seus olhos se abriram para o amor maternal dela.`
+`"Você começou a sentir como se pudesse perdoar a sua mãe, não porque seus olhos se abriram para o amor maternal dele.`
 ` É porque agora, neste momento único!`
 ` Você está diante da entrada do mundo das verdadeiras bruxas...!!`
 `{n}Bem‐vinda, Maria, ao doce e profundo mundo das bruxas!!"`
