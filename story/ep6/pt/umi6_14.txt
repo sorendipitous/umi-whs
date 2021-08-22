@@ -1,10 +1,10 @@
 `".........Re‐...Realmente, não é inimaginável...`
 ` Os serviçais são os mais suspeitos..."`
 `"Não é como se tivéssemos alguma evidência física, por isso não podemos amarrá‐los e jogá‐los dentro de um armário.`
-` Então, nós que ter certeza que eles estejam constantemente à vista daqueles com armas, e precisamos ficar de olho neles o tempo todo."`
+` Então, nós queremos ter certeza que eles estejam constantemente à vista daqueles com armas, e precisamos ficar de olho neles o tempo todo."`
 `"Aniki, nós também deveríamos reunir as chaves mestras.`
 ` ......Os serviçais são os únicos que poderiam criar aqueles quartos fechados.`
-` Eles deve ter lidado com as correntes usando algum tipo de ferramenta ou aparato que só os serviçais têm conhecimento."`
+` Eles devem ter lidado com as correntes usando algum tipo de ferramenta ou aparato que só os serviçais têm conhecimento."`
 `"......Todos vêm trabalhando para nós há muito tempo.`
 ` É muito difícil de imaginar que eles cometeram um assassinato..."`
 `"Eu ouvi que a vida do Kinzo‐san já está no final, e a questão da herança está dando o que falar.`
@@ -33,7 +33,7 @@
 ` Tem o Genji‐san, o serviçal chefe. Temos também o Gohda‐san, que é maior que qualquer um de nós.`
 ` E, embora possa ser jovem, o Kanon‐san também é homem."`
 `"Acredito que precisamos manter uma atenção especial nesses três, aniki.`
-` Assim, podemos isolar esse grupo e podemos ficar de olho neles.`
+` Assim, podemos isolar esse grupo e ficar de olho neles.`
 ` Com duas armas, dois de nós podem cooperar no instante que percebermos algo.`
 ` Se eles fizerem um único movimento suspeito......bang!"`
 `"......Certo. Vamos fazer isso.`
@@ -42,14 +42,14 @@
 ` Não seja muito opressivo."`
 `"..................{i:Você} dizendo para {i:eu} não ser opressivo?`
 ` ...Devemos estar ficando velhos."`
-`"Certo, o Hideyoshi‐san está lá em cima, dividindo todos em dois quartos.`
+`"Agora, o Hideyoshi‐san está lá em cima, dividindo todos em dois quartos.`
 ` Os que precisam ficar isolados nós mandamos para o quarto dos primos, e o resto fica no quarto ao lado."`
 `"Ah, sim, aniki, e quanto a Jessica‐chan...?`
 ` Ela insiste em ficar no mesmo quarto que você."`
 `".........Jessica..."`
 `"Nós planejamos ficar com cinco no quarto dos primos e sete no quarto adjacente.`
 ` Se a Jessica‐san quiser ficar no quarto dos primos, será uma divisão simples ao meio.`
-` Se esse fosse o enigma dos lobos e carneiro, teria um total de três serviçais lobos e dois carneiros dentro do quarto.`
+` Se esse fosse o Enigma dos Lobos e Carneiro, teria um total de três serviçais lobos e dois carneiros dentro do quarto.`
 ` Acredito que adicionar a Jessica‐san seria uma boa ideia para balancear as coisas."`
 `Krauss cruzou seus braços e ficou pensando sobre isso.`
 `O quarto dos primos certamente seria mais perigoso, por isso ele queria que sua filha ficasse no outro quarto.`
@@ -60,7 +60,7 @@
 ` Eu continuarei com a fachada de estar pensando racionalmente agora.`
 ` ......Mas não posso garantir que a tristeza de ter perdido minha esposa não vai expor minha raiva..."`
 `Mesmo sem nenhuma evidência física, os serviçais certamente são os mais suspeitos.`
-`Durante a longa jornada que os dois homens enfrentariam, o cansaço, a raiva e a tristeza que estavam sentido...`
+`Durante a longa jornada que os dois homens enfrentariam, o cansaço, a raiva e a tristeza que estavam sentindo...`
 `...poderiam fazer com que eles perdessem a razão a agissem de maneira agressiva...`
 `Após pensar profundamente, Krauss decidiu aceitar o pedido de Jessica,`
 ` em parte, a fim de prevenir que isso acontecesse...`
@@ -87,15 +87,15 @@
 `A tragédia repentina deixou todos no limite, mas já havia passado das {nobr:2 a.m}.`
 `Se eles realmente suspeitavam dos serviçais, então os observadores não poderiam se dar ao luxo de pregarem o olho todos no sono ao mesmo tempo.`
 `Tanto Krauss quanto Rudolf provavelmente deveriam tirar um cochilo agora...`
-`"......Nada mau.`
+`"......Nada mal.`
 ` Mesmo sem a autoridade do detetive, você conseguiu controlar as coisas de maneira bem habilidosa."`
 `"Um homem que perde sua compostura não é diferente de um cachorro agitado.`
 ` Se os tratar corretamente, fica fácil controlá‐los."`
 `Um dos benefícios da autoridade do detetive era ser capaz de assumir o controle da situação.`
 `Essa habilidade era a razão pelo qual Erika foi capaz de comandar um grande número de adultos à sua vontade,`
-` apesar de ser tanto uma convidada indesejada bem como uma jovem garota.`
+` apesar de ser tanto uma convidada indesejada, bem como uma jovem garota.`
 `Mas, dessa vez, ela não tinha esse poder.`
-`......Por isso, Erika precisou assumiu o controle, fazendo bom uso de suas habilidades naturais de conversação e técnicas para controlar os homens...`
+`......Por isso, Erika precisou assumir o controle, fazendo bom uso de suas habilidades naturais de conversação e técnicas para controlar os homens...`
 `"A autoridade do detetive é igual a magia.`
 ` ......Ela não pode fazer aquilo que você não é capaz de fazer.`
 ` Por isso, a autoridade de Erika só foi reconhecida porque ela já detinha de todo esse talento."`
@@ -107,12 +107,12 @@
 `......Eu provavelmente tenho que aceitar isso.`
 `Mesmo quando ela não recebe nenhum poder especial das bruxas a quem serve,`
 ` ......ela se mostra ser bem competente sozinha.`
-`"Mas, Erika, por que você os dividiu em dois quartos?`
+`"Mas, Erika, por que os dividiu em dois quartos?`
 ` Eu imaginei que você fosse reunir todos em um único quarto."`
 `"......Eu o faria se tivesse a autoridade do detetive.`
 ` Este é um movimento para preservar meu direito de investigar à vontade."`
 `"Ah, ......então é isso.`
-` ...Entendi. Nada mau."`
+` ...Entendi. Bem pensado."`
 `Como Erika estava sendo "protegida" por ser uma convidada, era difícil para ela se mover livremente.`
 `Na verdade, ela queria algum tempo para investigar novamente as cenas dos crimes em seu próprio ritmo,`
 ` sem ser interrompida por ninguém.`
@@ -133,9 +133,9 @@
 `Não era uma surpresa.`
 ` Em uma situação bizarra dessas, certamente levaria muito tempo antes que ela conseguisse aceitar a morte de sua mãe...`
 `......Kanon pensou que esse era o momento em que ele deveria permanecer ao lado de Jessica,`
-` mas parece difícil demais fazer isso diante do olhar intimidador de Rudolf.`
+` mas pareceu difícil demais fazer isso diante do olhar intimidador de Rudolf.`
 `Rudolf permaneceu em completo silêncio,`
-` mas suas emoções interiores estava claramente visíveis em seus olhos.`
+` mas suas emoções interiores estavam claramente visíveis em seus olhos.`
 `Por isso, mesmo sem comentar nada,`
 ` Genji, Kanon e Gohda sabiam que estavam todos sob suspeitas.`
 `Às vezes, Gohda perguntava se poderia ajudar a tentar corrigir esse mal‐entendido,`
@@ -151,10 +151,10 @@
 ` ......Mas temos armas bem aqui.`
 ` E é claro, eu já atirei antes!`
 ` Não estou falando daquele Centro de Tiro Havaiano!`
-` Já faz tanto tempo que posso confessar, mas uma vez eu desafiadoramente atirei contra com uma daqueles pistola das forças de ocupação...!`
+` Já faz tanto tempo que posso confessar, mas uma vez eu desafiadoramente atirei com uma daquelas pistola das forças de ocupação...!`
 ` Sabem, naquela época, o mercado negro era controlado por mafiosos estrangeiros—"`
-`Ele provavelmente queriam fazer todos se sentirem seguros contando como ele podia ser um cara confiável.`
-`Hideyoshi começou uma de suas velhas histórias que todos já tinha ouvido incontáveis vezes, e que ficavam mais extravagantes cada vez que ele as contava.`
+`Ele provavelmente queria fazer com que todos se sentissem seguros, contando como ele podia ser um cara confiável.`
+`Hideyoshi começou uma de suas velhas histórias que todos já tinham ouvido incontáveis vezes, e que ficavam mais extravagantes cada vez que ele as contava.`
 `Isso não os deixava mais confiantes nas habilidades de Hideyoshi,`
 ` ......mas pareceu acalmar um pouco mais as coisas, trazendo uma sensação de normalidade.`
 `"......Por que um crime desses aconteceu...?`
@@ -166,9 +166,9 @@
 ` Eu não tenho nervos para dormir profundamente em uma situação dessas..."`
 `"......George‐sama......"`
 `A dor e a raiva de perder sua mãe atormentava George em silêncio.`
-` ......A sonolência provavelmente não o atingiria por um tempo...`
+`{n}......A sonolência provavelmente não o atingiria por um tempo...`
 `Erika bateu palmas repentinamente, como se tivesse acabado de se lembrar de alguma coisa,`
-` e então sussurrou no ouvido de Hideyoshi, interrompendo a biografia heroica de Hideyoshi, na qual ele contava com muito entusiamo.`
+` e então sussurrou no ouvido de Hideyoshi, interrompendo a biografia heroica de Hideyoshi, na qual ele contava com muito entusiasmo.`
 `".........Desculpa, eu só vou dar uma passadinha no quarto dos primos.`
 ` ......Tem uma coisinha que eu preciso confirmar com os serviçais que estão lá."`
 `"Não pode usar o telefone?`
@@ -178,7 +178,7 @@
 `"O quê? Do que tá falando...`
 `...encontrou algum tipo de contradição no testemunho deles?"`
 `Erika já havia criado uma forte impressão usando seu comportamento metido a detetive.`
-` Por isso, Hideyoshi imediatamente pressupor que era algo vital ao crime.`
+` Por isso, Hideyoshi imediatamente pressupôs que era algo vital ao crime.`
 `"Será fácil verificar, ......mas pode acabar sendo muito mais que uma costura aberta.`
 ` ......Eu serei rápida.`
 ` Por favor, não deixe que ninguém saia deste quarto."`
@@ -194,7 +194,7 @@
 `"Se eu não retornar dentro de uma hora — não......`
 ` Provavelmente é melhor não passear demais.`
 ` Eu permanecerei lá até de manhã.`
-` Será melhor se eu esperar até claro antes de voltar."`
+` Será melhor se eu esperar até clarear antes de voltar."`
 `"Bem pensado.`
 ` Se cuide."`
 `"*risos*`
@@ -209,15 +209,15 @@
 ` ......Não estamos aqui só para nos protegermos.`
 ` ......Também estamos de olho atrás do culpado, caso ele esteja entre nós.`
 ` Eu entendo..."`
-`"......<Good>.`
+`"......{i:Good}.`
 ` Sendo assim, passar bem."`
 `"Aonde está indo, Erika‐chan...?`
 ` Nós prometemos que não sairíamos daqui."`
 `"Ah, a Erika‐chan lembrou que precisa fazer uma coisa importante.`
-` Vai passar no vizinhos.`
+` Vai passar nos vizinhos.`
 ` Não se preocupem, ela vai ficar bem."`
 `Hideyoshi suspeitava que Shannon pudesse estar entre os culpados.`
-`Mas como ela sabia que Shannon e George tinham uma relação especial,`
+`Mas como sabia que Shannon e George tinham uma relação especial,`
 ` ele aparentemente pensou que seria prudente enganar George sobre as ações e motivações de Erika.`
 `Hideyoshi lentamente abriu a porta e olhou para ambos os lados, levantando sua arma.`
 `"Tudo limpo.`
@@ -261,13 +261,13 @@
 `".......Não se preocupe.`
 ` {p:1:Eu reconheço}."`
 `Primeiramente, está sendo reconhecido que a localização das vítimas são os mesmos cômodos que foram mostrados pela ilusão do lado da bruxa.`
-`"<Good>.`
+`"{i:Good}.`
 ` Irei continuar.`
 ` "Hideyoshi, George, Shannon, Kumasawa e Nanjo estão no quarto ao lado!""`
 `"{p:1:Reconheço}."`
 `As pessoas no quarto que Erika havia acabado de deixar foram especificadas.`
 `Era dever do lado {y:0:Humano}{n:0:humano} verificar cada um desses mínimos detalhes aparentemente óbvios.`
-`"<Good>.`
+`"{i:Good}.`
 ` Continuando.`
 ` "Todos os outros estão no quarto dos primos!""`
 `O rosto de Battler indicou uma leve reação diante da palavra "todos".`
@@ -286,13 +286,13 @@
 `Se ela tivesse pedido para Battler repetir "Krauss, Rudolf, Jessica, Genji, Gohda e Kanon estão no quarto dos primos",`
 ` ele provavelmente teria respondido com o vermelho sem pensar muito nisso.`
 `Sim — normalmente, Erika teria mencionado o nome de cada pessoa dentro do quarto e feito ele repetir tudo precisamente.`
-`Battler hesitou em repetir, sentindo que algum tipo de desconforto por causa do uso da palavra "todos"...`
+`Battler hesitou em repetir, sentindo algum tipo de desconforto por causa do uso da palavra "todos"...`
 `"Excluindo Kinzo e eu, há 17 pessoas nesta ilha.`
 ` Seis foram mortos e estavam caídos pela mansão, e cinco estavam no quarto ao lado.`
 ` O que significa que os seis restantes estão no quarto dos primos.`
 ` Esta deveria ser a forma normal de se pensar sobre as coisas."`
 `".........Mas!`
-` É extremamente perigoso supor que porque há 17 pessoas na ilha, se nós subtrairmos seis, então cinco, e seis novamente, logo significa que ficamos com zero humanos na qual a localização não foi confirmada.`
+` É extremamente perigoso supor que, porque há 17 pessoas na ilha, se nós subtrairmos seis, então cinco, e seis novamente, logo significa que ficamos com zero humanos na qual a localização não foi confirmada.`
 ` Eu tenho certeza que esse tipo de truque envolvendo nomes e número de pessoas o causou muitos problemas com o assassinato de Nanjo durante o terceiro jogo."`
 `"............Bom ponto.`
 ` ......Aquele truque funcionou porque os 18 nomes informados não batiam com as 18 pessoas que realmente existiam,`
@@ -322,8 +322,8 @@
 ` existe a chance da Erika ser capaz de usar isso como base para fazer com que esse Homem‐Purupurupiko seja o culpado de tudo.`
 ` ......Nas minhas lutas anteriores contra você, eu também enfrentei diversos enigmas com nenhuma outra base além de uma pessoa desconhecida X."`
 `"A palavra "todos" carrega consigo um significado pesado.`
-` ......Tenha certeza de pensar com mui~to cuidado antes."`
-`Erika exibia sorriso maligno de ponta a ponta, confiante de que ela havia feito um poderoso movimento.`
+` ......Tenha certeza de pensar com mui~to cuidado antes de responder."`
+`Erika exibia um sorriso maligno de ponta a ponta, confiante de que ela havia feito um poderoso movimento.`
 `......Jogadores do lado da bruxa devem erradicar todas as possibilidades que possam ser possíveis para humanos.`
 `Se eu não esmagar todas as oportunidades dessa existência de nome ridículo, chamada Homem‐Purupurupiko,`
 ` ......ela será usada para explicar tudo que a bruxa fizer.`
@@ -334,12 +334,12 @@
 `Então, assim como a Beato fez, eu preciso me livrar de qualquer tipo de margem em que esse X possa existir.`
 `O número de pessoas na ilha já foi declarado, mas visto que ela está suspeitando de algum truque envolvendo os nomes e número de pessoas,`
 ` repetir a mesma coisa de novo não vai deixá‐la satisfeita.`
-`............Nesse caso, eu não tenho escolha senão responder a repetição requisitada dele e usar a palavra "todos".`
+`............Nesse caso, eu não tenho escolha senão responder a repetição requisitada dela e usar a palavra "todos".`
 `Essa palavra possui uma sonoridade perturbadora...`
 `...e, embora eu ainda não tenha compreendido, ......eu sinto como se algum tipo de movimento demoníaco assassino estivesse residindo nela...`
 `Merda. Depois de insultar tanto a Beato e dizer que o lado da bruxa tinha uma grande vantagem,`
 ` ......eu estou sentindo toda essa pressão só por causa de uma única repetição requisitada...`
-`"......<Destruction>, certo?"`
+`"......{i:Destruction}, certo?"`
 `"Se refere ao termo de xadrez?"`
 `"Sim.`
 ` ......É uma técnica que trata de colocar pressão em uma peça inimiga, forçando com que ela seja movida e fazendo com que enfraqueça sua própria posição."`
@@ -347,7 +347,7 @@
 ` ......Com isso, você será capaz de garantir perfeitamente os álibis de todos os sobreviventes,`
 ` e isso provavelmente fará com que seja possível que você me prenda em um crime impossível futuro.`
 ` ......Do que tem tanto medo? Isso não deveria ser um movimento poderoso para você?"`
-`"Mas é um movimento que você está me pressionando a fazer.`
+`"Mas é um movimento que está me pressionando a fazer.`
 ` ......Você está tentando fazer com que eu enfraqueça minha própria posição de alguma maneira."`
 `"Não importa o quão bom um movimento possa parecer, é um movimento ruim quando é o que o oponente deseja...`
 ` ......Mas será difícil evitar a palavra "todos"......"`
@@ -364,19 +364,19 @@
 ` .....................`
 ` ......certo, vou reconhecer.`
 ` {p:1:Eu reconheço que todos os demais estão no quarto dos primos}."`
-`"<Good>!`
+`"{i:Good}!`
 ` Muitíssimo obrigada, Battler‐san.`
 ` Um movimento decisivo realmente lindo.`
 ` ......Ora, acho que estou em apuros.`
 ` Se uma carta da bruxa aparecer em uma situação como essa, de quem eu deveria suspeitar?"`
 `Ela disse que estava em apuros, mas seu rosto não demonstrava sinais do mesmo.`
-`......Pelo contrário, parecia como se ela tivesse acabado de obter sucesso e um movimento fundacional muito importante.`
+`......Pelo contrário, parecia como se ela tivesse acabado de obter sucesso em um movimento fundacional muito importante.`
 `Em um jogo de bruxas, mesmo um simples equívoco se torna um movimento fatal......`
 `Tanto no xadrez quanto no shogi, você não pode desfazer seu movimento uma vez que tenha movido sua peça.`
 `......Esta última permuta deixou um gosto ruim para trás, como se a carne tivesse sido dilacerada e os ossos quebrados......`
 `"Isto deve ter sido o suficiente para confirmar a posição de todos.`
 ` ......Vamos continuar o jogo?"`
-`"Sim, daremos continuidade`
+`"Sim, daremos continuidade.`
 ` Dlanooooooooooor!!"`
 `"Sim, Lady {f:5:Erika}."`
 `"Começaremos agora mesmo.`
@@ -400,7 +400,7 @@
 `Erika e Dlanor ficaram sorrindo uma para a outra,`
 ` extasiadas com a impiedosa luz vermelha que foi queimada em seus olhos...`
 `"......Assessora Superior,`
-` permita‐me inqueri‐la."`
+` permita‐me inquiri‐la."`
 `"O que foi......?"`
 `"É de meu entendimento que os jogadores pertencentes ao lado humano devem interpretar os problemas impostos pela bruxa como sendo atos humanos."`
 `"......Você não está errada."`
@@ -412,8 +412,8 @@
 `Entretanto, se pensar sobre isso, ......Erika estava apenas estrangulando o próprio pescoço...`
 `"Nós ainda não sabemos que tipo de crime vai ocorrer no futuro.`
 ` Não seria mais vantajoso para o lado {y:0:Humano}{n:0:humano} se houvesse mais pessoas cuja as localizações não tivessem sido especificadas...?"`
-`".........Fiquem cientes que ainda não chegou a hora.........da Lady ou da Comandante revelarem seus pensamentos."`
-`"Peço escusas pelo meu murmúrio...`
+`".........Fique ciente de que ainda não chegou a hora.........da Lady ou da Comandante revelarem seus pensamentos."`
+`"Peço as devidas escusas por meu cicio inapropriado...`
 ` ....................."`
 `Cornelia aparentou não estar satisfeita.`
 `Nos jogos anteriores, com o intuito de ajudar Kinzo a escapar do estúdio, Battler fez esforços desesperados para destruir seu quarto fechado utilizando uma ampla variedade de métodos.`
@@ -460,12 +460,12 @@
 `"Entendi, então fortalecer sua proteção para dificultar o acontecimento de um crime é uma forma de se lutar pelo lado humano..."`
 `".........Mas não passa de um movimento muito simples.`
 ` ......Aquela "grande detetive" chamada Furudo Erika não deveria ficar se achando tanto depois de fazer um movimento tão básico."`
-`A {i:Erika} ficaria feliz após jogar na defensiva...?`
+`{i:Erika} ficaria feliz após jogar na defensiva...?`
 `Embora este movimento tenha feito parecer como se ela estivesse se resguardando, ......também era extremamente improvável que Erika, de todas as pessoas, fizessem um movimento defensivo......`
 `"Eu tenho certeza......que isto é um ataque, e não um movimento defensivo.`
 ` ......Embora eu não saiba que tipo de ataque é esse."`
 `"Agora é a nossa vez...... O que devemos fazer?"`
-`".........Por ora, ela aparentemente usou seu turno para reforçar suas defesas e impedir o segundo crepúsculo, ao invés de raciocinar sobre o primeiro.`
+`".........Por ora, ela aparenta ter usado o seu turno para reforçar suas defesas e impedir o segundo crepúsculo, ao invés de raciocinar sobre o primeiro.`
 ` ......Se elas recuam, empurre; se elas empurram, recue.`
 ` Nesse caso, é nossa vez de atacar."`
 `"Mas como devemos atacar...?`
@@ -473,14 +473,14 @@
 `"Sim, parece que toda a área da casa de hóspedes está sob o controle da Erika agora.`
 ` ......Mas há certas peças, como o bispo e o cavalo, que são especialistas em cortar por trás as linhas inimigas."`
 `Battler estalou os dedos, ......e uma única borboleta dourada apareceu da escuridão,`
-` ......e voou sobre o tabuleiro de xadrez, deixando um rastro de pó dourado para trás.`
+` ......voando sobre o tabuleiro de xadrez, deixando um rastro de pó dourado para trás.`
 `Ela posou sem emitir som algum,`
 ` ......e se transformou em uma peça preta, representando a escuridão da bruxa.`
-`"<X‐ray>.`
+`"{i:X‐ray}.`
 ` ......Esse também é um termo de xadrez."`
 `"Sim.`
 ` ......Usado quando uma casa inimiga parece estar sobre controle do inimigo,`
-` mas você observa que suas próprias peças na verdade exercem influência o suficiente, e assim você ataca — é uma técnica de alto nível."`
+` mas você observa que suas próprias peças, na verdade, exercem influência o suficiente, e assim você ataca — é uma técnica de alto nível."`
 `"......Erika.`
 ` Se você realmente acredita que pode se defender do meu próximo ataque simplesmente selando todos os sobreviventes...`
 `...essa é uma ideia ingênua."`
@@ -490,9 +490,9 @@
 ` Esta é a minha.........resposta."`
 `"Haah.`
 ` Agora eu finalmente posso esticar minhas asas.`
-` Primeiramente, vamos fazer um passeio noturna pela mansão."`
+` Primeiramente, vamos fazer um passeio noturno pela mansão."`
 `"Um passeio noturno no meio da noite, em uma sinistra mansão onde um assassino pode estar se {f:5:escondendo}?`
-` ......Você deve ser muito {f:5:excêntrico}."`
+` ......Você é mesmo muito {f:5:excêntrica}."`
 `"Nada demais.`
 ` Eu tive que esperar muito até obter a minha liberdade.`
 ` Sinto como se fosse um tempo livre depois da aula de natação."`
@@ -503,7 +503,7 @@
 `Dlanor não podia fazer nada além de ajudar Erika para que ela pudesse lutar usando o melhor de suas habilidades...`
 `"Certo.`
 ` ......As trancas do primeiro andar da casa de hóspedes estão perfeitas.`
-` A entrada estava selada com uma corrente de porta."`
+`{n}A entrada estava selada com uma corrente de porta."`
 `Antes de deixar a casa de hóspedes, Erika fez uma geral no primeiro andar,`
 ` para ter certeza que nada estava fora do seu devido lugar.`
 `Ela então encontrou uma lanterna e um guarda‐chuva na sala dos serviçais, localizada próximo a entrada.`
@@ -565,7 +565,7 @@
 ` ela mantinha um olhar confiante em seu rosto, como se até mesmo seu pedido de desculpas pudesse ser um novo movimento.`
 `......Por isso, Battler a olhou com um olhar dúbio, sem baixar a guarda.`
 `"É sobre os selos retroativos.`
-` ......Na verdade eu já selei um lugar.`
+` ......Na verdade, eu já selei um lugar.`
 ` Eu sinto muito por demorar tanto para relatar isso a você."`
 `"......Você já selou algo?`
 ` Ou seja, você já usou todos os três quartos de selo?"`
@@ -579,7 +579,7 @@
 ` Onde e quando você colocou os selos?"`
 `"Dlanor."`
 `"Permita‐me {f:5:relatar}.`
-` ......O quarto de hóspedes de Battler foi selado durante a inspeção que a Lady {f:5:Erika} feitos no {f:5:cadáver}."`
+` ......O quarto de hóspedes de Battler foi selado durante a inspeção que a Lady {f:5:Erika} fez no {f:5:cadáver}."`
 `".....................!"`
 `Beato tentou não deixar aparente em sua face,`
 ` mas Erika não perdeu de ver suas sobrancelhas se envergando levemente, e seu olhar agitado para Battler.`
@@ -598,13 +598,13 @@
 ` Desculpe pela demora para relatar, mas o quarto de hóspedes, onde seu cadáver se localiza, também está {f:5:selado}.`
 ` E, excluindo a Lady {f:5:Erika}, há 17 pessoas nesta {f:5:ilha}.`
 ` A existência de uma 18ª pessoa já foi negada nos jogos {f:5:anteriores}."`
-`"E quando pensei sobre isso......a pessoa que poderia ter colocado a carta aqui.........e apaguei seu cadáver,`
+`"E quando pensei sobre isso......a pessoa que poderia ter colocado a carta aqui.........e apagado seu cadáver,`
 ` .........eu pensei que talvez, .........heh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh,`
 ` ......só talvez, ......as coisas possam ficar......diferentes......"`
 `Erika riu indecentemente, enquanto encarava os olhos de Battler para ver se ele estava em pânico ou perturbado...`
 `"...............Battler‐san......"`
 `".....................`
-` ......Fique calmo.`
+` ......Fique calma.`
 ` A Erika só atrasou um pouco seu relatório.`
 ` Não há nada para ficar nervoso."`
 `Erika já suspeitava desde o início.`
@@ -616,7 +616,7 @@
 `E então, quando todos se trancaram na casa de hóspedes, ele escapou do quarto de hóspedes.`
 `......Ele teria colocado a carta sobre o desaparecimento de seu próprio cadáver na entrada da casa de hóspedes,`
 ` e então entrado para se esconder......`
-`Se isso fosse verdade, então o selo que que Erika colocou no quarto de hóspedes de Battler durante sua inspeção...`
+`Se isso fosse verdade, então o selo que Erika colocou no quarto de hóspedes de Battler durante sua inspeção...`
 `agora seria bastante significativo.`
 `Resumindo, se ele usou esse truque,`
 ` então Battler teria "quebrado os selos" quando deixou o quarto de hóspedes.`
@@ -625,7 +625,7 @@
 ` quebrar o selo do quarto de hóspedes seria o mesmo que reconhecer que, pelo menos uma das vítimas estava, na verdade, viva.`
 `Se o Battler ficasse sabendo dos selos com antecedência, ele provavelmente teria que avançar no jogo de alguma outra maneira, evitando isso.`
 `Em outras palavras,`
-` era muito provável que o anúncio sobre os selos teria uma grande efeito no restante do jogo de Battler.`
+` era muito provável que o anúncio sobre os selos teria um grande efeito no restante do jogo de Battler.`
 `Erika estava dizendo: "se o Battler, encenando ser parte dos cadáveres, tivesse permanecido dentro do quarto de hóspedes para evitar a quebra dos selos,`
 ` então é possível que este roteiro não incluísse esta carta"...`
 `......Se a verdade era que Battler estava realmente vivo e colocou a carta aqui,`
@@ -640,11 +640,11 @@
 `"Você lembra da parte sobre a magia para fazer uma bala aparecer dentro de uma xícara virada de cabeça para baixo...?"`
 `"Sim.`
 ` A Maria onee‐chan e a Erika estavam brigando sobre isso.`
-` ......Era apenas um truque onde alguém colocava uma bala dentro da xícara quando a Onee‐chan fechava os seus olhos."`
+` ......Era apenas um truque onde alguém colocava uma bala dentro da xícara quando a onee‐chan fechava os olhos."`
 `"Isso mesmo.`
 ` Como a Maria não observou o processo do truque e viu apenas o resultado,`
 ` ela aceitou a "fantasia mágica" — onde a bala apareceu dentro da xícara em um passe de mágica — e a magia foi estabelecida..."`
-`"............Certo, então um erro de lógica seria...`
+`"............Entendi, então um erro de lógica seria...`
 `...‘um truque que se tornou impossível’."`
 `Pensando nisso, a hora em que a Erika e a {f:5:Maria} lutaram fervorosamente sobre essa magia, usando a verdade vermelha e a verdade azul...`
 `foi mesmo a cerimônia de abertura deste conto.`
@@ -656,10 +656,10 @@
 `Permita‐me dizer diretamente.`
 ` Há dois tipos básicos de magia.`
 `Você invocar gigantes...`
-`e fizer torres brotarem do chão...`
+`e fazer torres brotarem do chão...`
 `......mas, quando a tampa é aberta, e nada aconteceu no jardim de rosas, esse é um tipo de magia.`
 `É apenas uma "fantasia", uma "ilusão".`
-`É uma "mentira" sem observadores, que ocorreu em um local onde “não havia absolutamente nenhuma toxina anti‐magia”, caso prefira descrever com as palavras de uma bruxa.`
+`É uma "mentira" sem observadores, que ocorreu em um local onde “não havia absolutamente nenhuma toxina antimagia”, caso prefira descrever com as palavras de uma bruxa.`
 `A magia que não produz um resultado é a mais fácil de todas, sendo também uma "mentira".`
 ` É o mesmo que uma delusão sem valor, uma fantasia, um devaneio.`
 `Até mesmo o Battler foi capaz de ver através disso durante o terceiro jogo.`
@@ -696,17 +696,17 @@
 ` o lado da bruxa precisaria propor imediatamente um truque diferente que fosse compatível com essa verdade vermelha.`
 ` ......Assim como as desculpas de um político quando ele continua negando continuamente conforme novas evidências são apresentadas a ele."`
 `"Sim.`
-` ......Bem, para um vermelho como esse, ela poderia ser capaz de se safar com alguma desculpa dolorosas.`
+` ......Bem, para um vermelho como esse, ela poderia ser capaz de se safar com alguma desculpa dolorosa.`
 ` ......Talvez tivesse algum dispositivo na mesa, ou talvez a xícara tivesse um fundo falso...`
 ` .........Mas se essas possibilidades tivessem sido negadas de antemão usando o vermelho, elas também não iriam funcionar.`
 ` .........Quanto mais verdades vermelhas existem, mais difícil é de você encontrar margem para se esquivar."`
-`Na verdade, a bala foi colocada na xícara enquanto Maria estava de olhos fechados`
+`Na verdade, a bala foi colocada na xícara enquanto Maria estava de olhos fechados.`
 `Porém, se, quando Erika estivesse lendo através disso, Maria tivesse usado a verdade vermelha para afirmar que o quarto fechado da xícara estava preservado...`
 `......a bruxa teria que se apressar e revisar o cenário para que um novo truque que "ainda funcionasse logicamente" após o vermelho.`
 `Revisar o cenário é um movimento injusto que nunca deveria ser permitido em mistérios.`
 `Mas o simples ato de revisar o cenário ocorre dentro da cabeça da bruxa — um mundo que não é observado.`
-`Portanto, ela poderia alegar que ela estava usando o truque da xícara de fundo falso {i:desde o início}, e ninguém poderia negar isso.`
-`......Então, ......mesmo que tenha sido um truque feito enquanto a Onee‐chan estava de olhos fechados...`
+`Portanto, ela poderia alegar que estava usando o truque da xícara de fundo falso {i:desde o início}, e ninguém poderia negar isso.`
+`......Então, ......mesmo que tenha sido um truque feito enquanto a onee‐chan estava de olhos fechados...`
 `...contanto que a bruxa possa ler através disso, ela pode até mesmo alternar entre verdades (e.g., truques).`
 `Ao invés de chamar isso de uma ação permitida à bruxas,`
 ` provavelmente seria melhor dizer que é permitido apenas ao Game Master, o responsável por criar e escrever.`
@@ -734,13 +734,13 @@
 ` Se não o fez, então ele provavelmente pode fazer com que outra pessoa além do Battler, esteja viva, e colocá‐la no papel de quem colocou a carta..."`
 `"Isso mesmo......`
 ` Não é só o onii‐chan — os outros corpos também não foram confirmados como mortos usando a verdade vermelha.`
-` ......Na verdade, não teria nenhum problema se todos estivessem se fingido de morto."`
+` ......Na verdade, não teria nenhum problema se todos estivessem se fingindo de morto."`
 `"Exatamente.`
 ` Ainda não chegou a hora de ficar afobada.`
 ` ......Ele meramente precisa mudar seu movimento para que os selos da Erika e o aparecimento da carta não se contradigam."`
-`".........E revisar o roteiro sem contradizer isso é um dois movimentos disponíveis ao Game Master."`
+`".........E revisar o roteiro sem contradizer isso é um dos movimentos disponíveis ao Game Master."`
 `"Contudo, ............pegar um cenário já imaginado e revisá‐lo a partir de determinado ponto, às vezes, pode criar falhas no conto.`
-` Seria um movimento muito doloroso a se fazer quando o primeiro crepúsculo a recém chegou ao fim."`
+` Seria um movimento muito doloroso a se fazer quando o primeiro crepúsculo recém chegou ao fim."`
 `"......Parece que é Battler aquele com uma peça inimiga infiltrada atrás de suas linhas...`
 ` Essa peça oculta provavelmente causará muita dor e desconforto a cada passo que ele der, como uma pedrinha no sapato......`
 ` ......Esta única pedrinha.........pode matar o Battler........."`
@@ -757,11 +757,11 @@
 `"......Nós encontramos esta carta {f:5:aqui}.`
 ` ......Estamos dizendo que não nos importamos que você desfaça isso, ou até que utilize um roteiro {f:5:revisado}."`
 `"Tendo como presente apenas a presença de uma carta e um pouco de fita kraft,`
-` ......um movimento como este se tornar trivial para Furudo Erika.`
+` ......um movimento como este se torna trivial para Furudo Erika.`
 ` ............Senhores e senhores, seus pensamentos...?"`
 `.........Merda, que movimento sujo......`
 `{n}Bem, ......o que mais eu poderia esperar da Erika...?`
-`E eu prometi a Dlanor......que jogaria este jogo ao máximo, impiedosamente......`
+`E eu prometi à Dlanor......que jogaria este jogo ao máximo, impiedosamente......`
 `..............................`
 `Sim, é verdade.`
 ` Eu cheguei a planejar que Battler pudesse realmente estar vivo,`
@@ -777,7 +777,7 @@
 `"Mas, Battler‐san, mesmo que possa deixar a carta em algum lugar,`
 ` como vai fazer com que o seu cadáver desapareça depois?`
 ` ......O quarto de hóspedes está selado.`
-` Se não encontrar um truque para apagar o cadáver do quarto de hóspedes agora mesmo, vai acabar resultando em um truque de lógica."`
+` Se não encontrar um truque para apagar o cadáver do quarto de hóspedes agora mesmo, vai acabar resultando em um erro de lógica."`
 `"...............Eu ainda tenho tempo.`
 ` ......Deixe‐me pensar até o último segundo.`
 ` ......Merda........."`
@@ -786,7 +786,7 @@
 ` ......Eu não posso dizer "ah, me desculpe por isso, ter o quarto de hóspedes selados cria uma grande contradição, por isso eu queria revisar o meu movimento"...!`
 ` Seria como admitir que ela me pegou."`
 `".........Heheh, eu me sinto como um ninja se escondendo sobre o teto.`
-` Mesmo que eu fosse notado e perfurado por uma lança, eu precisaria suportar a dor, limpar o sangue, e agir como se nada tivesse acontecido.`
+` Mesmo que eu fosse notado e perfurado por uma lança, eu precisaria suportar a dor, limpar o sangue e agir como se nada tivesse acontecido.`
 ` .........A falsa coragem funciona muito bem.`
 ` ......Eu não posso deixar que ela saiba que doeu..."`
 `".........Battler‐san........."`
@@ -807,5 +807,5 @@
 `{n}Se apenas essa memória, esse poder, pudesse ser revivido, ......ela seria capaz de ajudar Battler......`
 `.........Ainda há tempo para pensar......`
 `{n}............Ainda há tempo...`
-`Nada mau, Erika......`
+`Nada mal, Erika......`
 ` Esse foi......um movimento sujo......`

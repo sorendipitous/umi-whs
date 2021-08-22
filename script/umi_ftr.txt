@@ -7796,10 +7796,9 @@ return
 ;------------------------------
 *r_cha_eri_ep8_2
 if ?r[%scenario_Number][%r_display_cha_ma][condition] = 0 return
-mov %ran,0
-rnd2 %ran,1,16
 if ?r[%scenario_Number][%r_display_cha_ma][condition] = 1 mov $r_cha_tati_path,":a;graphics\big_chars\ep5_2_eri_EP5_2_eri.png"
-if ?r[%scenario_Number][%r_display_cha_ma][condition] = 2 mov $r_cha_tati_path,":a;graphics\big_chars\ep5_2_eri_EP5_2_eri.png"
+lsp ma5_eri_btn_lsp,$?r[%scenario_Number][%r_display_cha_ma][?r[%scenario_Number][%r_display_cha_ma][condition]],?r[%scenario_Number][%r_display_cha_ma][itiran_x],?r[%scenario_Number][%r_display_cha_ma][itiran_y]
+if ?r[%scenario_Number][%r_display_cha_ma][r_ishou] = 2 && ?r[%scenario_Number][%r_display_cha_ma][condition] = 1 mov $r_cha_tati_path,":a;graphics\big_chars\ep8_2_eri_1_EP8_2_eri_1.png" : mov ?r[%scenario_Number][%r_display_cha_ma][tati_x],440 : lsp ma5_eri_btn_lsp,":c/1,0,3;graphics\chars\chiru\chars_eri3_s.png",?r[%scenario_Number][%r_display_cha_ma][itiran_x],?r[%scenario_Number][%r_display_cha_ma][itiran_y]
 
 if ?r[%scenario_Number][%r_display_cha_ma][condition] = 0 mov $r_txt_path,":a;graphics\menu\chars\chars_right.png"
 if ?r[%scenario_Number][%r_display_cha_ma][condition] = 1 mov $r_txt_path,chars_8_2_eri_1
@@ -7808,11 +7807,9 @@ return
 *r_cha_dla_ep8_2
 
 if ?r[%scenario_Number][%r_display_cha_ma][condition] = 0 return
-mov %ran,0
-rnd2 %ran,1,16
 if ?r[%scenario_Number][%r_display_cha_ma][condition] = 1 mov $r_cha_tati_path,":a;graphics\big_chars\ep5_2_dla_EP5_2_dla.png"
-if ?r[%scenario_Number][%r_display_cha_ma][condition] = 1 && %ran = 15 mov $r_cha_tati_path,":a;graphics\big_chars\ep5_2_dla_megane_EP5_2_dla_megane.png"
-
+lsp ma5_dla_btn_lsp,$?r[%scenario_Number][%r_display_cha_ma][?r[%scenario_Number][%r_display_cha_ma][condition]],?r[%scenario_Number][%r_display_cha_ma][itiran_x],?r[%scenario_Number][%r_display_cha_ma][itiran_y]
+if ?r[%scenario_Number][%r_display_cha_ma][r_ishou] = 2 && ?r[%scenario_Number][%r_display_cha_ma][condition] = 1 mov $r_cha_tati_path,":a;graphics\big_chars\ep5_2_dla_megane_EP5_2_dla_megane.png" : mov ?r[%scenario_Number][%r_display_cha_ma][tati_x],440 : lsp ma5_dla_btn_lsp,":c/1,0,3;graphics\chars\chiru\chars_dla1_s.png",?r[%scenario_Number][%r_display_cha_ma][itiran_x],?r[%scenario_Number][%r_display_cha_ma][itiran_y]
 
 if ?r[%scenario_Number][%r_display_cha_ma][condition] = 0 mov $r_txt_path,":a;graphics\menu\chars\chars_right.png"
 if ?r[%scenario_Number][%r_display_cha_ma][condition] = 1 mov $r_txt_path,chars_8_2_dla_1
@@ -7854,8 +7851,11 @@ return
 *r_cha_en2_ep8_2
 if ?r[%scenario_Number][%r_display_cha_ma][condition] = 0 return
 if ?r[%scenario_Number][%r_display_cha_ma][condition] = 1 mov $r_cha_tati_path,":a;graphics\big_chars\ep8_2_en2_2_EP8_2_en2_2.png"
+lsp ma5_en2_btn_lsp,$?r[%scenario_Number][%r_display_cha_ma][?r[%scenario_Number][%r_display_cha_ma][condition]],?r[%scenario_Number][%r_display_cha_ma][itiran_x],?r[%scenario_Number][%r_display_cha_ma][itiran_y]
+if ?r[%scenario_Number][%r_display_cha_ma][r_ishou] = 2 && ?r[%scenario_Number][%r_display_cha_ma][condition] = 1 mov $r_cha_tati_path,":a;graphics\big_chars\ep8_2_en2_1_EP8_2_en2_1.png" : mov ?r[%scenario_Number][%r_display_cha_ma][tati_x],440 : lsp ma5_en2_btn_lsp,":c/1,0,3;graphics\chars\chars_enj0_s.png",?r[%scenario_Number][%r_display_cha_ma][itiran_x],?r[%scenario_Number][%r_display_cha_ma][itiran_y]
 
 if ?r[%scenario_Number][%r_display_cha_ma][condition] = 0 mov $r_txt_path,":a;graphics\menu\chars\chars_right.png"
+if ?r[%scenario_Number][%r_display_cha_ma][r_ishou]   = 2 mov $r_cha_tati_path,":a;graphics\big_chars\ep8_2_en2_1_EP8_2_en2_1.png"
 if ?r[%scenario_Number][%r_display_cha_ma][condition] = 1 mov $r_txt_path,chars_8_2_en2_1
 return
 ;------------------------------
@@ -14837,10 +14837,10 @@ gosub *me_generate
 ; Cake test
 ; mov %title_skip,0 : goto *d58138
 
-if $omake_return == "trailer" mov %title_skip,0 : goto *omake_chiru_menu
-if $omake_return == "omake" mov %title_skip,0 : goto *omake_chiru_menu
-if $omake_return == "omake8" mov %title_skip,0 : goto *omake_chiru_menu
-if $omake_return == "omake9" mov %title_skip,0 : goto *omake_chiru_menu
+if $omake_return == "trailer" mov %title_skip,0 : mov %r_mode_flg,1 : goto *omake_chiru_menu
+if $omake_return == "omake"   mov %title_skip,0 : mov %r_mode_flg,1 : goto *omake_chiru_menu
+if $omake_return == "omake8"  mov %title_skip,0 : mov %r_mode_flg,1 : goto *omake_chiru_menu
+if $omake_return == "omake9"  mov %title_skip,0 : mov %r_mode_flg,1 : goto *omake_chiru_menu
 
 ;rondo
 if %CHIRU_MODE != 0 jumpf
@@ -21242,7 +21242,7 @@ return
 	mov %play_scene,60000
 	return
 	*gstcc30
-	mov %side_flg,1
+	;mov %side_flg,1
 	mov %play_scene,60010
 	mov %r_display_side,2
 	mov %r_display_cha_enj,ma5_enj
@@ -21331,7 +21331,7 @@ return
 	mov %grim_scene,602
 	return
 	*gstcc49
-	mov %side_flg,1
+	;mov %side_flg,1
 	mov %play_scene,60090
 	mov %r_display_side,0
 	mov %r_display_cha,NAT
@@ -22385,13 +22385,15 @@ mov ?rain_s[%rain_slot][4],0 ;wind
 mov ?rain_s[%rain_slot][5],off ;pause
 mov ?rain_s[%rain_slot][6],%rain_amount ;orbs
 
-if %rain_amount != 1 jumpf 
+if %rain_amount != 1 jumpf
+	fall blend,%rain_layer,"add"
 	fall base, %rain_layer,"graphics\system\rain\orb.png"
 	fall amount,%rain_layer,50
 	fall c_speed,%rain_layer,500
 	fall wind,%rain_layer,1000
 ~
 if %rain_amount = 1 jumpf
+	fall blend,%rain_layer,"add"
 	fall base, %rain_layer,"graphics\system\rain\drop.png"
 	fall amount,%rain_layer,500
 	fall c_speed,%rain_layer,800
@@ -23898,7 +23900,7 @@ z_override_preserve
 if %skip_flg == off skip_off
 if %skip_flg == on skip_on
 
-if %cur_wndmode == off gosub *update_msgwnd
+if %cur_wndmode == off gosub *apply_msgwnd_settings
 gosub *update_textspeed
 mov $chapter_bak,$cur_character
 mov $chapter_rmode,$name_chapter_r_click
@@ -24868,214 +24870,9 @@ if %BGM_Id == 1014	mov $BGM_Title,"Inanna’s Dream" : return
 if %BGM_Id == 1017  mov $BGM_Title,"The Witch of Occultics" : return
 if %BGM_Id == 1018  mov $BGM_Title,"The Pithos in the Fog" : return
 ~
-;ru
+;translatiob
 if %bgm_title_language != 2 jumpf 
-if %BGM_Id == 1	mov $BGM_Title,"Тигровая лилия" : return
-if %BGM_Id == 2	mov $BGM_Title,"Врата лета" : return
-if %BGM_Id == 3	mov $BGM_Title,"АЙДА!" : return
-if %BGM_Id == 4	mov $BGM_Title,"В путь" : return
-if %BGM_Id == 5	mov $BGM_Title,"Море" : return
-if %BGM_Id == 6	mov $BGM_Title,"В час угрюмый" : return
-if %BGM_Id == 7	mov $BGM_Title,"Новелетта" : return
-if %BGM_Id == 8	mov $BGM_Title,"Надежда" : return
-if %BGM_Id == 9	mov $BGM_Title,"Бледная тень" : return
-if %BGM_Id == 10	mov $BGM_Title,"“Идиллия”" : return
-if %BGM_Id == 11	mov $BGM_Title,"Кипа летних облаков" : return
-if %BGM_Id == 12 	mov $BGM_Title,"Лунная ночь" : return
-if %BGM_Id == 13	mov $BGM_Title,"Роза" : return
-if %BGM_Id == 14	mov $BGM_Title,"Дыхание смерти" : return
-if %BGM_Id == 15	mov $BGM_Title,"В тёмном лабиринте" : return
-if %BGM_Id == 16	mov $BGM_Title,"Стойкость" : return
-if %BGM_Id == 17	mov $BGM_Title,"Ведьма в золоте (клавесин)" : return
-if %BGM_Id == 18	mov $BGM_Title,"Искушение" : return
-if %BGM_Id == 19	mov $BGM_Title,"Аромат подозрения" : return
-if %BGM_Id == 20	mov $BGM_Title,"Ступор" : return
-if %BGM_Id == 21	mov $BGM_Title,"Хвала" : return
-if %BGM_Id == 22	mov $BGM_Title,"Волшебный пасс" : return
-if %BGM_Id == 23	mov $BGM_Title,"Бабочка" : return
-if %BGM_Id == 24	mov $BGM_Title,"Золотой душегуб" : return
-if %BGM_Id == 25	mov $BGM_Title,"Конец сказки (ксилофон)" : return
-if %BGM_Id == 26	mov $BGM_Title,"Ведьма с картины" : return
-if %BGM_Id == 27	mov $BGM_Title,"Подозрение" : return
-if %BGM_Id == 28	mov $BGM_Title,"Острая струна" : return
-if %BGM_Id == 29	mov $BGM_Title,"Суть" : return
-if %BGM_Id == 30	mov $BGM_Title,"Миг беспросветности" : return
-if %BGM_Id == 31	mov $BGM_Title,"Затмение" : return
-if %BGM_Id == 32	mov $BGM_Title,"Бдящая душа" : return
-if %BGM_Id == 33	mov $BGM_Title,"Реквием" : return
-if %BGM_Id == 34	mov $BGM_Title,"Игры разума" : return
-if %BGM_Id == 35	mov $BGM_Title,"Конец сказки" : return
-if %BGM_Id == 36	mov $BGM_Title,"Игра" : return
-if %BGM_Id == 37	mov $BGM_Title,"system0" : return
-if %BGM_Id == 38	mov $BGM_Title,"Безмолвие" : return
-if %BGM_Id == 39	mov $BGM_Title,"Мёртвый угол" : return
-if %BGM_Id == 40	mov $BGM_Title,"#600 миллионов (короткая). До минор, орган" : return
-if %BGM_Id == 41	mov $BGM_Title,"Сброс ОКОВ" : return
-if %BGM_Id == 42	mov $BGM_Title,"И. Аллегро — Струнный квартет № 1, соль мажор" : return
-if %BGM_Id == 43	mov $BGM_Title,"Клетка" : return
-if %BGM_Id == 44	mov $BGM_Title,"Золотая насмешка" : return
-if %BGM_Id == 45	mov $BGM_Title,"Внутренности скорпиона" : return
-if %BGM_Id == 46	mov $BGM_Title,"Последний бенефис (вер. C)" : return
-if %BGM_Id == 47	mov $BGM_Title,"Ответ" : return
-if %BGM_Id == 48	mov $BGM_Title,"Краткий ответ" : return
-if %BGM_Id == 49	mov $BGM_Title,"Мелодия (инстр. вер.)" : return
-if %BGM_Id == 50	mov $BGM_Title,"Багровый ужас" : return
-if %BGM_Id == 51	mov $BGM_Title,"Луна" : return
-if %BGM_Id == 52	mov $BGM_Title,"Растерянность" : return
-if %BGM_Id == 53	mov $BGM_Title,"Могильный ужас" : return
-if %BGM_Id == 54	mov $BGM_Title,"Властелин конца сказки" : return
-if %BGM_Id == 55	mov $BGM_Title,"Чёрная Лиллиана" : return
-if %BGM_Id == 56	mov $BGM_Title,"Покой" : return
-if %BGM_Id == 57	mov $BGM_Title,"На закате грёз" : return
-if %BGM_Id == 58	mov $BGM_Title,"Мелодия" : return
-if %BGM_Id == 59	mov $BGM_Title,"Свободный полёт" : return
-if %BGM_Id == 60	mov $BGM_Title,"Солнечный уголок" : return
-if %BGM_Id == 61	mov $BGM_Title,"Танец свеч" : return
-if %BGM_Id == 62	mov $BGM_Title,"В дали" : return
-if %BGM_Id == 63	mov $BGM_Title,"Пси-хор" : return
-if %BGM_Id == 64	mov $BGM_Title,"Далеко-далеко..." : return
-if %BGM_Id == 65	mov $BGM_Title,"Красные башмачки. ФАЛЬШЬ" : return
-if %BGM_Id == 66	mov $BGM_Title,"Мама" : return
-if %BGM_Id == 67	mov $BGM_Title,"Дымка" : return
-if %BGM_Id == 68	mov $BGM_Title,"Танцующая трубка" : return
-if %BGM_Id == 69	mov $BGM_Title,"Замогильный ужас" : return
-if %BGM_Id == 70	mov $BGM_Title,"#200 миллионов (короткая). До минор, орган" : return
-if %BGM_Id == 71	mov $BGM_Title,"Собственный ритм" : return
-if %BGM_Id == 72	mov $BGM_Title,"Счастье марионетки (бонус)" : return
-if %BGM_Id == 73	mov $BGM_Title,"Счастье марионетки" : return
-if %BGM_Id == 74	mov $BGM_Title,"Танец лунных кроликов" : return
-if %BGM_Id == 75	mov $BGM_Title,"Оттепель" : return
-if %BGM_Id == 76	mov $BGM_Title,"Духовность души" : return
-if %BGM_Id == 77	mov $BGM_Title,"Иллюзионист" : return
-if %BGM_Id == 78	mov $BGM_Title,"Темница" : return
-if %BGM_Id == 79	mov $BGM_Title,"Славься рожденье твоё" : return
-if %BGM_Id == 80	mov $BGM_Title,"Крылья" : return
-if %BGM_Id == 81	mov $BGM_Title,"Потерянный рай" : return
-if %BGM_Id == 82	mov $BGM_Title,"Бескрылые" : return
-if %BGM_Id == 83	mov $BGM_Title,"Неуёмная боль" : return
-if %BGM_Id == 84	mov $BGM_Title,"Могильный ужас (ритмическая вер.)" : return
-if %BGM_Id == 85	mov $BGM_Title,"Вечность" : return
-if %BGM_Id == 86	mov $BGM_Title,"На грани" : return
-if %BGM_Id == 87	mov $BGM_Title,"Подобно вспышке" : return
-if %BGM_Id == 88	mov $BGM_Title,"F-стиль" : return
-if %BGM_Id == 89	mov $BGM_Title,"Чёрно-белые часы" : return
-if %BGM_Id == 90	mov $BGM_Title,"Безразличие" : return
-if %BGM_Id == 91	mov $BGM_Title,"Таинственный лес" : return
-if %BGM_Id == 92	mov $BGM_Title,"Сказ о стойкости Сакутаро" : return
-if %BGM_Id == 93	mov $BGM_Title,"Параллель" : return
-if %BGM_Id == 95	mov $BGM_Title,"599 миллионов крахов" : return
-if %BGM_Id == 96	mov $BGM_Title,"Счастливая Мария! (инструмент. вер.)" : return
-if %BGM_Id == 97	mov $BGM_Title,"Собираются силы" : return
-if %BGM_Id == 98	mov $BGM_Title,"Искра и порох" : return
-if %BGM_Id == 99	mov $BGM_Title,"Смерть (исх. Ступор)" : return
-if %BGM_Id == 100	mov $BGM_Title,"Очертя голову" : return
-if %BGM_Id == 101	mov $BGM_Title,"Victima propiciatoria (Козёл отпущения)" : return
-if %BGM_Id == 102	mov $BGM_Title,"Мятеж" : return
-if %BGM_Id == 103	mov $BGM_Title,"Катастрофа в чистилище. Рапсодия" : return
-if %BGM_Id == 104	mov $BGM_Title,"Счастливая Мария!" : return
-if %BGM_Id == 105	mov $BGM_Title,"К бою!" : return
-if %BGM_Id == 106	mov $BGM_Title,"Путь" : return
-if %BGM_Id == 107	mov $BGM_Title,"Бесконечная Девятка" : return
-if %BGM_Id == 108	mov $BGM_Title,"Рассеивающий грёзы" : return
-if %BGM_Id == 109	mov $BGM_Title,"Различение" : return
-if %BGM_Id == 110	mov $BGM_Title,"Росчерк"  : return
-if %BGM_Id == 111 	mov $BGM_Title,"Будущее" : return
-if %BGM_Id == 112 	mov $BGM_Title,"Лазурный смех" : return
-if %BGM_Id == 113 	mov $BGM_Title,"Настоящий сыщик знает" : return
-if %BGM_Id == 114 	mov $BGM_Title,"Угрюмый вечер" : return
-if %BGM_Id == 115 	mov $BGM_Title,"Один" : return
-if %BGM_Id == 116 	mov $BGM_Title,"Спираль" : return
-if %BGM_Id == 117 	mov $BGM_Title,"#600 миллионов, струнное трио, фа-диез минор" : return
-if %BGM_Id == 118 	mov $BGM_Title,"Тотенблюме (Мёртвый цветок)" : return
-if %BGM_Id == 119 	mov $BGM_Title,"ПРАВОСУДИЕ" : return
-if %BGM_Id == 120 	mov $BGM_Title,"ACI-L" : return
-if %BGM_Id == 121 	mov $BGM_Title,"Хищник" : return
-if %BGM_Id == 122 	mov $BGM_Title,"Гордая песчинка" : return
-if %BGM_Id == 123 	mov $BGM_Title,"Навстречу мечте" : return
-if %BGM_Id == 124 	mov $BGM_Title,"Одинокая абиссальная рыба" : return
-if %BGM_Id == 125 	mov $BGM_Title,"Женская охота на ведьм" : return
-if %BGM_Id == 126 	mov $BGM_Title,"Лоскутная химера" : return
-if %BGM_Id == 127 	mov $BGM_Title,"Искажение" : return
-if %BGM_Id == 128 	mov $BGM_Title,"Воскресший реплеер" : return
-if %BGM_Id == 129 	mov $BGM_Title,"Окончательный ответ" : return
-if %BGM_Id == 130 	mov $BGM_Title,"Свет" : return
-if %BGM_Id == 131 	mov $BGM_Title,"Хлеб жизни" : return
-if %BGM_Id == 132 	mov $BGM_Title,"Обещание" : return
-if %BGM_Id == 133 	mov $BGM_Title,"Завтрашний день" : return
-if %BGM_Id == 134 	mov $BGM_Title,"КРЫЛЬЯ (Вер. Надежды)" : return
-if %BGM_Id == 135 	mov $BGM_Title,"Улыбка и фальшь" : return
-if %BGM_Id == 136 	mov $BGM_Title,"Вечные оковы" : return
-if %BGM_Id == 137 	mov $BGM_Title,"Испытание любви" : return
-if %BGM_Id == 138 	mov $BGM_Title,"Мгновение" : return
-if %BGM_Id == 139 	mov $BGM_Title,"Взгляд в прошлое" : return
-if %BGM_Id == 140 	mov $BGM_Title,"Синяя бабочка" : return
-if %BGM_Id == 141 	mov $BGM_Title,"Нежность" : return
-if %BGM_Id == 142 	mov $BGM_Title,"Сверху вниз, наискосок" : return
-if %BGM_Id == 143 	mov $BGM_Title,"rog-limitation" : return
-if %BGM_Id == 144 	mov $BGM_Title,"Вальс (соч. 34)" : return
-if %BGM_Id == 145 	mov $BGM_Title,"ЖИВЫЕ" : return
-if %BGM_Id == 146 	mov $BGM_Title,"Рождение новой ведьмы (инст.)" : return
-if %BGM_Id == 147 	mov $BGM_Title,"Застывший лазурит" : return
-if %BGM_Id == 148 	mov $BGM_Title,"Ангажирование марионетки" : return
-if %BGM_Id == 149 	mov $BGM_Title,"Жизнь" : return
-if %BGM_Id == 150 	mov $BGM_Title,"Лорелея" : return
-if %BGM_Id == 151 	mov $BGM_Title,"Грех" : return
-if %BGM_Id == 152 	mov $BGM_Title,"Первый и последний" : return
-if %BGM_Id == 153 	mov $BGM_Title,"Антидемоническая секвенция" : return
-if %BGM_Id == 154 	mov $BGM_Title,"Поле битвы" : return
-if %BGM_Id == 155 	mov $BGM_Title,"Перерождение" : return
-if %BGM_Id == 156 	mov $BGM_Title,"Выход есть" : return
-if %BGM_Id == 157 	mov $BGM_Title,"Освободившийся освободитель" : return
-if %BGM_Id == 158 	mov $BGM_Title,"Спасибо всем" : return
-if %BGM_Id == 159 	mov $BGM_Title,"Пчелиная принцесса" : return
-if %BGM_Id == 160 	mov $BGM_Title,"Рождение новой ведьмы (короткая)" : return
-if %BGM_Id == 161 	mov $BGM_Title,"АРОМАТ ПОДОЗРЕНИЯ" : return
-if %BGM_Id == 162 	mov $BGM_Title,"4 октября" : return
-if %BGM_Id == 163 	mov $BGM_Title,"Круговорот жизни и смерти" : return
-if %BGM_Id == 164 	mov $BGM_Title,"reflection-call" : return
-if %BGM_Id == 165 	mov $BGM_Title,"Дождь" : return
-if %BGM_Id == 166 	mov $BGM_Title,"7 весов" : return
-if %BGM_Id == 167 	mov $BGM_Title,"Осень" : return
-if %BGM_Id == 168 	mov $BGM_Title,"bore-ral" : return
-if %BGM_Id == 169 	mov $BGM_Title,"Продолжение сказки" : return
-if %BGM_Id == 170 	mov $BGM_Title,"Без названия (инстр. вер., 2007)" : return
-if %BGM_Id == 171 	mov $BGM_Title,"Путальница-ложь" : return
-if %BGM_Id == 172 	mov $BGM_Title,"Золотой ноктюрн (инст.)" : return
-if %BGM_Id == 173 	mov $BGM_Title,"Далеко‐далеко… (бемоль)" : return
-if %BGM_Id == 174 	mov $BGM_Title,"Ящик с игрушками" : return
-if %BGM_Id == 175 	mov $BGM_Title,"Прощальный выход" : return
-if %BGM_Id == 176 	mov $BGM_Title,"Кукольный театр" : return
-if %BGM_Id == 177 	mov $BGM_Title,"Он и она — конец" : return
-if %BGM_Id == 179 	mov $BGM_Title,"Без названия (инстр. вер.)" : return
-if %BGM_Id == 180 	mov $BGM_Title,"Конец вселенной" : return
-if %BGM_Id == 181 	mov $BGM_Title,"Богиня из сада" : return
-if %BGM_Id == 183 	mov $BGM_Title,"Насмешка" : return
-if %BGM_Id == 184 	mov $BGM_Title,"Обвал на склоне мира мёртвых" : return
-if %BGM_Id == 185 	mov $BGM_Title,"Палач" : return
-if %BGM_Id == 186 	mov $BGM_Title,"Без названия (вер. сакуры, ED)" : return
-if %BGM_Id == 187 	mov $BGM_Title,"Мягкая игрушка" : return
-if %BGM_Id == 188 	mov $BGM_Title,"Эксцентричный дивертисмент" : return
-if %BGM_Id == 190 	mov $BGM_Title,"en-counse" : return
-if %BGM_Id == 191 	mov $BGM_Title,"lixAxil" : return
-if %BGM_Id == 192 	mov $BGM_Title,"Откровение (инст.)" : return
-if %BGM_Id == 193 	mov $BGM_Title,"В полёте" : return
-if %BGM_Id == 194 	mov $BGM_Title,"Дирижёр окончательного конца" : return
-if %BGM_Id == 195 	mov $BGM_Title,"Откровение" : return
-if %BGM_Id == 240 	mov $BGM_Title,"Кокон чистых снов -Ricordando il passato-" : return
-if %BGM_Id == 241 	mov $BGM_Title,"Когда плачут чайки (ED)" : return
-if %BGM_Id == 1000	mov $BGM_Title,"SuiSui☆SWEETS(^-^)" : return
-if %BGM_Id == 1010	mov $BGM_Title,"Предъявите судьбу" : return
-if %BGM_Id == 1013  mov $BGM_Title,"Предъявите судьбу (вер. chiru)" : return
-;Extra
-if %BGM_Id == 94	mov $BGM_Title,"tsurupettan (Плоскодонка)" : return
-if %BGM_Id == 1001	mov $BGM_Title,"Когда плачут чайки" : return
-if %BGM_Id == 1002	mov $BGM_Title,"Когда плачут чайки (EP4)" : return
-if %BGM_Id == 1011	mov $BGM_Title,"system0 (оригинальная версия)" : return
-if %legacy_op == off && %BGM_Id == 1012	mov $BGM_Title,"Senkyou no Igreja" : return
-if %legacy_op == on  && %BGM_Id == 1012	mov $BGM_Title,"Когда плачут чайки" : return
-if %BGM_Id == 1014	mov $BGM_Title,"Мечта Инанны" : return
-if %BGM_Id == 1017  mov $BGM_Title,"Оккультная ведьма" : return
-if %BGM_Id == 1018  mov $BGM_Title,"Туманный пифос" : return
+gosub *bgm_locale_title
 ~
 ;jp
 if %bgm_title_language != 3 jumpf
@@ -26563,6 +26360,12 @@ return
 		mov ?loggen_var_backup[%Free2-1],%%Free3
 	next
 
+	;If you reach last quiz with enj and answer it,
+	;loggen will proceed several chapters forward.
+	;This must not affect the current displayed chapter in rmenu.
+	mov $back_chapter_r_click,$name_chapter_r_click
+	mov $back_chapter_save,$name_chapter_save
+
 	; log generate no longer clears log.
 	; log_reset is now improperly named.
 	if %log_is_generated_to_cvs != -1 jumpf 
@@ -26656,6 +26459,8 @@ return
 		mov %Free3,loggen_var_backup+%Free2
 		mov %%Free3,?loggen_var_backup[%Free2-1]
 	next
+	mov $name_chapter_r_click,$back_chapter_r_click
+	mov $name_chapter_save,$back_chapter_save
 
 	mov %no_log_gen,0
 	vsp TextCC3SpNum,0 
@@ -27245,6 +27050,7 @@ return
 	; The point of this function is to implement phase 1,
 	; which initializes the following two variables to the values they should have at the label $log_ch_current according to the route specified by the choice vector.
 	; Then, the phase 2 (usual) superskip will take the variables from that state to whatever they need to be at the destination line.
+	; NOTE: These two variables are set here since the game does not initialise them. Normally it should, like e.g. with bern_game_mode.
 	mov %total_coin_count,0
 	mov %eva_hint_counter,0	
 
@@ -29104,6 +28910,8 @@ return
 	if $Free3 == "en" mov $Free3,"English"
 	if $Free3 == "ru" mov $Free3,"Русская"
 	if $Free3 == "pt" mov $Free3,"Português"
+	if $Free3 == "wh" mov $Free3,"Witch-Hunt"
+	if $Free3 == "cn" mov $Free3,"简体中文"
 	lsp 268,":s;#FFFFFF`{p:8:{w:350:}{a:c:}{fit}" + $Free3 + "}",1280,226
 	lsp 380,":a/2,0,3;graphics\menu_en\config\config_left.png",1210,226
 	lsp 381,":a/2,0,3;graphics\menu_en\config\config_right.png",1640,226
@@ -29136,7 +28944,7 @@ return
 
 *settings_bgm_title_language
 	if %bgm_title_language = 1 lsp 278,set_bgm_title_language_en,1260,313
-	if %bgm_title_language = 2 lsp 278,set_bgm_title_language_ru,1260,313
+	if %bgm_title_language = 2 lsp 278,set_bgm_title_language_tl,1260,313
 	if %bgm_title_language = 3 lsp 278,set_bgm_title_language_jp,1260,313
 	if %bgm_title_language = 4 lsp 278,set_bgm_title_language_rom,1260,313
 	lsp 282,":a/2,0,3;graphics\menu_en\config\config_left.png",1210,325
@@ -32349,10 +32157,9 @@ return
 	if %msgwnd_type = 1 setwindowd msgwnd2
 	if %msgwnd_type = 2 setwindowd msgwnd3
 	if %msgwnd_type = 3 setwindowd msgwnd4
-
-	setwindowd_dimensions 167,736,1586,295
-	setwindowd_padding -9,87,-41,87
-	setwindowd_name_padding 31,100,-60,87
+	setwindowd_dimensions 167,725,1586,306
+	setwindowd_padding text_main_pad_t,text_main_pad_r,text_main_pad_b,text_main_pad_l
+	setwindowd_name_padding text_name_pad_t,text_name_pad_r,text_name_pad_b,text_name_pad_l
 	setwindowd_main_region 240,14,1408,274,77
 	setwindowd_non_region 0,235,112,38,60
 	setwindowd_name_region 0,11,224,118,60,170,170,74
@@ -33138,6 +32945,7 @@ csp_rst
 if localisation == "en" mov %game_language,0 : mov $Free3,"English"
 if localisation == "ru" mov %game_language,1 : mov $Free3,"Русская"
 if localisation == "pt" mov %game_language,2 : mov $Free3,"Português"
+if localisation == "cn" mov %game_language,3 : mov $Free3,"简体中文"
 
 getscriptnum %Free1
 for %Free2 = 0 to %Free1-1
@@ -33329,6 +33137,7 @@ return
 	if $Free3 == "en" mov $Free3,"English" mov %game_language,0
 	if $Free3 == "ru" mov $Free3,"Русская" mov %game_language,1
 	if $Free3 == "pt" mov $Free3,"Português" mov %game_language,2
+	if $Free3 == "cn" mov $Free3,"简体中文" mov %game_language,3
 	
 	lsp 273,":s;#FFFFFF`{p:8:{w:350:}{a:c:}{fit}" + $Free3 + "}",1280,%y
 
@@ -33582,9 +33391,10 @@ goto *switch_game_q
 
 	if releasedate + 15552000 > %Free1 return
 
-	border_pad_push 10
-	lsph t_warning_lsp,":s;#FF0000`{p:1:{o:10:"+verification_ancient+"}}",70,920
-	border_pad_pop
+	; border_pad_push 10
+	; lsph t_warning_lsp,":s;#FF0000`{p:1:{o:10:"+verification_ancient+"}}",70,920
+	; border_pad_pop
+	debug_string "This release may be outdated, assuming final version"
 return
 
 *full_verify
@@ -34799,6 +34609,15 @@ return
 			if %r_display_cha_ma = ma5_rg_6 && ?r[%scenario_Number][ma5_rg_6][condition] = 1 lsp r_change_lsp,r_change,0,0			
 	~	
 return
+*r_for_title_ep8_2
+  notif %r_for_title = 1 jumpf
+    ;change clothing chars
+    if %r_display > 0 jumpf
+      if %r_display_cha_ma = ma5_dla && ?r[%scenario_Number][ma5_dla][condition] = 1 lsp r_change_lsp,r_change,0,0
+      if %r_display_cha_ma = ma5_eri && ?r[%scenario_Number][ma5_eri][condition] = 1 lsp r_change_lsp,r_change,0,0
+      if %r_display_cha_ma = ma5_en2 && ?r[%scenario_Number][ma5_en2][condition] = 1 lsp r_change_lsp,r_change,0,0
+  ~
+return
 ;=====================
 *r_for_title_0_ep7_2
 	notif %scenario_Number = 7 jumpf
@@ -35296,13 +35115,13 @@ return
 		lsp r_people_lsp,r_people,0,0
 		lsp r_witches_lsp,r_witches_select,0,0
 	~
-	if %r_u_tea_flg =1 mov %r_display,0
+	if %r_u_tea_flg = 1 mov %r_display,0
 	notif %r_for_title = 1 jumpf
 		lsp r_exec_lsp,r_exec,0,0
 		lsp r_resu_lsp,r_resu,0,0
 	~
 
-	notif %r_u_tea_flg  = 1 jumpf
+	notif %r_u_tea_flg = 1 jumpf
 		mov %tmp10,%tmp1 : sub %tmp10,128
 		lsp r_exec_lsp,r_exec,%tmp,%tmp10 : add %tmp10,32
 		lsp r_resu_lsp,r_resu,%tmp,%tmp10 ;: add %tmp1,32
@@ -35326,7 +35145,8 @@ return
 	if %scenario_Number = 4 && %r_display_side = 2 gosub *r_for_title_ep4_3 : align_buttons_l r_people_lsp,r_witches_lsp,r_ange_lsp,r_change_lsp
 	if %scenario_Number = 5 && %r_display_side = 1 gosub *r_for_title_ep5_2 : align_buttons_l r_people_lsp,r_witches_lsp,r_exec_lsp,r_resu_lsp,r_change_lsp
 	if %scenario_Number = 7 && %r_display_side = 1 gosub *r_for_title_ep7_2 : align_buttons_l r_people_lsp,r_witches_lsp,r_exec_lsp,r_resu_lsp,r_change_lsp
-	
+	if %scenario_Number = 8 && %r_display_side = 1 gosub *r_for_title_ep8_2 : align_buttons_l r_people_lsp,r_witches_lsp,r_exec_lsp,r_resu_lsp,r_change_lsp
+
 	btndef ""
 	
 	spbtn r_exec_lsp,r_exec_lsp
@@ -38131,6 +37951,11 @@ return
 return
 
 *r_grim_button_new
+	if localisation != "cn" jumpf
+		for %tmp = 1 to 14
+			mov ?grim[%tmp][grim_flg],1
+		next
+	~
 	_csp tips1_lsp,tips7_lsp
 	_csp r_tips_txt_lsp
 	_csp r_grim_txt_lsp
@@ -39554,8 +39379,8 @@ return
 	lsp r_cha_back_lsp,":a;graphics\menu\murder\murder_story_answer_left_bg.png",200,150
 	getspsize r_cha_back_lsp,%Free1,%Free2
 	border_pad_push 5
-	lsp 201,ep8_9_criminal,%Free1/2+200,160		;犯人を選択してください
-	lsp 202,ep8_9_criminal_2,%Free1/2+200,883	;犯人特定
+	lsp 201,ep8_9_criminal,%Free1/2+200,criminal_header_y		;犯人を選択してください
+	lsp 202,ep8_9_criminal_2,%Free1/2+200,criminal_button_y	;犯人特定
 	border_pad_pop
 	getspsize 201,%Free1,%Free2 : spt xpos,201,-%Free1/2
 	getspsize 202,%Free1,%Free2 : spt xpos,202,-%Free1/2
@@ -39705,4 +39530,3 @@ return
 return
 
 #locale_import "code.txt"
-

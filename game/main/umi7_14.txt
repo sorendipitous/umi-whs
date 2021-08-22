@@ -1,10 +1,8 @@
 *umi7_14
 ;試される日
 log_reset
-jskip_s
 mov $name_chapter_r_click,r_click_chapters_7_14
 mov $name_chapter_save, "7_14"
-~
 new_chapter date_scenario_7_14,scenario_7_14
 gstc 74
 textoff
@@ -2345,6 +2343,7 @@ lss s0_8,"cur","a11_warai1" ;1
 aspt2 xpos,s0_8,-370
 flush 80
 msgwnd_bea
+*d55198
 d [lv 0*"55"*"75500729"]`「織姫と彦星のようにな…！」`[gstg 1][\]
 textoff
 waits 167
