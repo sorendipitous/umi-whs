@@ -221,7 +221,7 @@
 `"Uu?"`
 `"......Aah, sorry.`
 ` ...Hey, Jessica.`
-` Did that picture use to be there?"`
+` Has that picture always been there?"`
 `I pointed at the large and conspicuous portrait hanging in the hall.`
 `{n}Everyone else stopped too.`
 `"...Ahh...right.`
