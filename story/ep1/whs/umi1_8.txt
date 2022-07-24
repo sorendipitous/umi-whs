@@ -137,7 +137,7 @@
 `"No, that's not what I meant.`
 ` Right now, there are a total of 18 people here on Rokkenjima.`
 ` ......Do you think that there is a 19th person?"`
-`Are there really a whole 18 people on this island?`
+`Are there really a full 18 people on this island?`
 `{n}Wondering about that, I began counting on my fingers, and it really did come out to 18 people.`
 `"Do I think that a 19th person exists, you say.`
 ` ......What exactly do you mean?"`
