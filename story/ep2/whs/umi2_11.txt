@@ -469,7 +469,7 @@
 ` ......Are you saying that's an evasive answer?"`
 `"That's right.`
 ` So from now on,`
-` {p:1:when I speak the truth, I will use red}."`
+` {p:1:to indicate the truth, I will use red}."`
 `"Wh‐what is this......?!`
 ` Keep explaining!"`
 `"No matter what magic move I use,`
